@@ -1,0 +1,2764 @@
+,Province,City,District / County,Post Code
+0,Anhui,Hefei,Yaohai,230000
+1,Anhui,Hefei,Baohe,230000
+2,Anhui,Hefei,Feidong,230000
+3,Anhui,Hefei,Luyang,230000
+4,Anhui,Hefei,Changfeng,231100
+5,Anhui,Hefei,Shushan,230000
+6,Anhui,Hefei,Feixi,231200
+7,Anhui,Huangshan,Tunxi,245000
+8,Anhui,Huangshan,Shexian,245200
+9,Anhui,Huangshan,Qimen,245600
+10,Anhui,Huangshan,Huangshan,245200
+11,Anhui,Huangshan,Huizhou,245061
+12,Anhui,Huangshan,Xiuning,245400
+13,Anhui,Huangshan,Yixian,245500
+14,Anhui,Wuhu,Jinghu,241000
+15,Anhui,Wuhu,Sanshan,241000
+16,Anhui,Wuhu,Nanling,242400
+17,Anhui,Wuhu,Yijiang,241000
+18,Anhui,Wuhu,Jiujiang,241000
+19,Anhui,Wuhu,Wuhu,241100
+20,Anhui,Wuhu,Fanchang,241200
+21,Anhui,Bengbu,Longzihu,233000
+22,Anhui,Bengbu,Huaishang,233000
+23,Anhui,Bengbu,Guzhen,233700
+24,Anhui,Bengbu,Bengshan,233000
+25,Anhui,Bengbu,Yuhui,233000
+26,Anhui,Bengbu,Huaiyuan,233400
+27,Anhui,Bengbu,Wuhe,233300
+28,Anhui,Huainan,Datong,232000
+29,Anhui,Huainan,Bagongshan,232000
+30,Anhui,Huainan,Tianjiaan,232000
+31,Anhui,Huainan,Xiejiaji,232000
+32,Anhui,Huainan,Panji,232000
+33,Anhui,Huainan,Fengtai,232100
+34,Anhui,Maanshan,Jinjiazhuang,243000
+35,Anhui,Maanshan,Dangtu,243100
+36,Anhui,Maanshan,Huashan,243000
+37,Anhui,Maanshan,Yushan,243000
+38,Anhui,Huaibei,Duji,235000
+39,Anhui,Huaibei,Suixi,235100
+40,Anhui,Huaibei,Xiangshan,235000
+41,Anhui,Huaibei,Lieshan,235000
+42,Anhui,Tongling,Tongguanshan,244000
+43,Anhui,Tongling,Tongling,244100
+44,Anhui,Tongling,Shizishan,244000
+45,Anhui,Tongling,Jiaoqu,244000
+46,Anhui,Anqing,Yingjiang,246000
+47,Anhui,Anqing,Huaining,246100
+48,Anhui,Anqing,Taihu,246400
+49,Anhui,Anqing,Yuexi,246600
+50,Anhui,Anqing,Daguan,246000
+51,Anhui,Anqing,Jiaoqu,246000
+52,Anhui,Anqing,Zongyang,246700
+53,Anhui,Anqing,Qianshan,246300
+54,Anhui,Anqing,Susong,246500
+55,Anhui,Anqing,Wangjiang,246200
+56,Anhui,Anqing,Tongcheng,231400
+57,Anhui,Chuzhou,Langya,239000
+58,Anhui,Chuzhou,Quanjiao,239500
+59,Anhui,Chuzhou,Tianchang,239300
+60,Anhui,Chuzhou,Nanqiao,239000
+61,Anhui,Chuzhou,Laian,239200
+62,Anhui,Chuzhou,Dingyuan,233200
+63,Anhui,Chuzhou,Fengyang,233100
+64,Anhui,Chuzhou,Mingguang,239400
+65,Anhui,Fuyang,Yingzhou,236000
+66,Anhui,Fuyang,Linquan,236400
+67,Anhui,Fuyang,Yingshang,236200
+68,Anhui,Fuyang,Yingdong,236000
+69,Anhui,Fuyang,Yingquan,236000
+70,Anhui,Fuyang,Taihe,236600
+71,Anhui,Fuyang,Fu'nan,236300
+72,Anhui,Fuyang,Jieshou,236500
+73,Anhui,Suzhou,Yongqiao,234000
+74,Anhui,Suzhou,Lingbi,234200
+75,Anhui,Suzhou,Dangshan,235300
+76,Anhui,Suzhou,Xiaoxian,235200
+77,Anhui,Suzhou,Sixian,234300
+78,Anhui,Chaohu,Juchao,238000
+79,Anhui,Chaohu,Hanshan,238100
+80,Anhui,Chaohu,Lujiang,231500
+81,Anhui,Chaohu,Wuwei,238300
+82,Anhui,Chaohu,Hexian,238200
+83,Anhui,Liuan,Jin'an,237000
+84,Anhui,Liuan,Huoqiu,237400
+85,Anhui,Liuan,Huoshan,237200
+86,Anhui,Liuan,Yu'an,237000
+87,Anhui,Liuan,Shouxian,232200
+88,Anhui,Liuan,Shucheng,231300
+89,Anhui,Liuan,Jinzhai,237300
+90,Anhui,Bozhou,Qiaocheng,236800
+91,Anhui,Bozhou,Lixin,236700
+92,Anhui,Bozhou,Woyang,233600
+93,Anhui,Bozhou,Mengcheng,233500
+94,Anhui,Chizhou,Guichi,247100
+95,Anhui,Chizhou,Qingyang,242800
+96,Anhui,Chizhou,Dongzhi,247200
+97,Anhui,Chizhou,Shitai,245100
+98,Anhui,Xuancheng,Xuanzhou,242000
+99,Anhui,Xuancheng,Jingxian,242500
+100,Anhui,Xuancheng,Ningguo,242300
+101,Anhui,Xuancheng,Langxi,242100
+102,Anhui,Xuancheng,Guangde,242200
+103,Anhui,Xuancheng,Jixi,245300
+104,Anhui,Xuancheng,Jingde,242600
+105,Beijing,Beijing,Dongcheng,100000
+106,Beijing,Beijing,Xicheng,100000
+107,Beijing,Beijing,Chaoyang,100000
+108,Beijing,Beijing,Fengtai,100000
+109,Beijing,Beijing,Shijingshan,100000
+110,Beijing,Beijing,Haidian,100000
+111,Beijing,Beijing,Mentougou,102300
+112,Beijing,Beijing,Fangshan,102400
+113,Beijing,Beijing,Tongzhou,101100
+114,Beijing,Beijing,Shunyi,101300
+115,Beijing,Beijing,Changping,102200
+116,Beijing,Beijing,Daxing,102600
+117,Beijing,Beijing,Huairou,101400
+118,Beijing,Beijing,Pinggu,101200
+119,Beijing,Beijing,Miyun,101500
+120,Beijing,Beijing,Yanqing,102100
+121,Chongqing,Chongqing,Wanzhou,404100
+122,Chongqing,Chongqing,Fuling ,408000
+123,Chongqing,Chongqing,Yuzhong,400000
+124,Chongqing,Chongqing,Dadukou,400000
+125,Chongqing,Chongqing,Jiangbei,400000
+126,Chongqing,Chongqing,Shapingba,400000
+127,Chongqing,Chongqing,Jiulongpo,400000
+128,Chongqing,Chongqing,Nan'an,400000
+129,Chongqing,Chongqing,Beibei,400700
+130,Chongqing,Chongqing,Wansheng,400800
+131,Chongqing,Chongqing,Shuangqiao,400900
+132,Chongqing,Chongqing,Yubei,401120
+133,Chongqing,Chongqing,Ba'nan,401320
+134,Chongqing,Chongqing,Qianjiang,409000
+135,Chongqing,Chongqing,Changshou,401220
+136,Chongqing,Chongqing,Jiangjin,402260
+137,Chongqing,Chongqing,Hechuan,401520
+138,Chongqing,Chongqing,Yongchuan,402160
+139,Chongqing,Chongqing,Nanchuan,408400
+140,Chongqing,Chongqing,County,Zip Code
+141,Chongqing,Chongqing,Qijiang,401420
+142,Chongqing,Chongqing,Tongnan,402660
+143,Chongqing,Chongqing,Tongliang,402560
+144,Chongqing,Chongqing,Dazu,402360
+145,Chongqing,Chongqing,Rongchang,402460
+146,Chongqing,Chongqing,Bishan,402760
+147,Chongqing,Chongqing,Liangping,405200
+148,Chongqing,Chongqing,Chengkou,405900
+149,Chongqing,Chongqing,Fengdu,408200
+150,Chongqing,Chongqing,Dianjiang,408300
+151,Chongqing,Chongqing,Wulong,408500
+152,Chongqing,Chongqing,Zhongxian,404300
+153,Chongqing,Chongqing,Kaixian,405400
+154,Chongqing,Chongqing,Yunyang,404500
+155,Chongqing,Chongqing,Fengjie,404600
+156,Chongqing,Chongqing,Wushan,404700
+157,Chongqing,Chongqing,Wuxi,405800
+158,Chongqing,Chongqing,Shizhu,409100
+159,Chongqing,Chongqing,Xiushan,409900
+160,Chongqing,Chongqing,Youyang,409800
+161,Chongqing,Chongqing,Pengshui,409600
+162,Fujian,Fuzhou,Gulou District,350000
+163,Fujian,Fuzhou,Mawei District,350000
+164,Fujian,Fuzhou,Lianjiang County,350500
+165,Fujian,Fuzhou,Yongtai,350700
+166,Fujian,Fuzhou,Changle,350200
+167,Fujian,Fuzhou,Taijiang District,350000
+168,Fujian,Fuzhou,Cangshan,350000
+169,Fujian,Fuzhou,Jin'an,350000
+170,Fujian,Fuzhou,Minhou County,350100
+171,Fujian,Fuzhou,Luoyuan,350600
+172,Fujian,Fuzhou,Minqing,350800
+173,Fujian,Fuzhou,Pingtan,350400
+174,Fujian,Fuzhou,Fuqing,350300
+175,Fujian,Xiamen,Siming,361000
+176,Fujian,Xiamen,Jimei,361000
+177,Fujian,Xiamen,Haicang District,361000
+178,Fujian,Xiamen,Huli District,361000
+179,Fujian,Xiamen,Tongan,361100
+180,Fujian,Xiamen,Xiang'an,361100
+181,Fujian,Quanzhou,Licheng District,362000
+182,Fujian,Quanzhou,Quangang District,362100
+183,Fujian,Quanzhou,Yongchun County,362600
+184,Fujian,Quanzhou,Shishi,362700
+185,Fujian,Quanzhou,Fengze District,362000
+186,Fujian,Quanzhou,Luojiang District,362000
+187,Fujian,Quanzhou,Huian County,362100
+188,Fujian,Quanzhou,Anxi ,362400
+189,Fujian,Quanzhou,Dehua,362500
+190,Fujian,Quanzhou,Jinmen,362000
+191,Fujian,Quanzhou,Jinjiang,362200
+192,Fujian,Quanzhou,Nan'an,362300
+193,Fujian,Putian,Chengxiang District,351100
+194,Fujian,Putian,Hanjiang District,351100
+195,Fujian,Putian,Licheng District,351100
+196,Fujian,Putian,Xianyou County,351200
+197,Fujian,Putian,Xiuyu District,351100
+198,Fujian,Sanming,Meilie District,365000
+199,Fujian,Sanming,Qingliu,365300
+200,Fujian,Sanming,Youxi,365100
+201,Fujian,Sanming,Taining,354400
+202,Fujian,Sanming,Sanyuan District,365000
+203,Fujian,Sanming,Mingxi,365200
+204,Fujian,Sanming,Ninghua,365400
+205,Fujian,Sanming,Datian County,366100
+206,Fujian,Sanming,Shaxian,365500
+207,Fujian,Sanming,Jiangle,353300
+208,Fujian,Sanming,Jianning,354500
+209,Fujian,Sanming,Yongan City,366000
+210,Fujian,Zhangzhou,Xiangcheng District,363000
+211,Fujian,Zhangzhou,Zhangpu County,363200
+212,Fujian,Zhangzhou,Dongshan,363400
+213,Fujian,Zhangzhou,Huaan,363800
+214,Fujian,Zhangzhou,Longwen District,363000
+215,Fujian,Zhangzhou,Yunxiao,363300
+216,Fujian,Zhangzhou,Zhaoan,363500
+217,Fujian,Zhangzhou,Changtai,363900
+218,Fujian,Zhangzhou,Nanjing,363600
+219,Fujian,Zhangzhou,Pinghe,363700
+220,Fujian,Zhangzhou,Longhai,363100
+221,Fujian,Nanping,Yanping District,353000
+222,Fujian,Nanping,Guangze County,354100
+223,Fujian,Nanping,Shaowu,354000
+224,Fujian,Nanping,Jianyang,354200
+225,Fujian,Nanping,Shunchang,353200
+226,Fujian,Nanping,Pucheng,353400
+227,Fujian,Nanping,Songxi,353500
+228,Fujian,Nanping,Zhenghe,353600
+229,Fujian,Nanping,Wuyishan,354300
+230,Fujian,Nanping,Jian'ou,353100
+231,Fujian,Longyan,Xinluo District,364000
+232,Fujian,Longyan,Shanghang County,364200
+233,Fujian,Longyan,Zhangping,364400
+234,Fujian,Longyan,Changting,366300
+235,Fujian,Longyan,Yongding,364100
+236,Fujian,Longyan,Wuping,364300
+237,Fujian,Longyan,Liancheng,366200
+238,Fujian,Ningde,Jiaocheng District,352000
+239,Fujian,Ningde,Pingnan County,352300
+240,Fujian,Ningde,Zherong,355300
+241,Fujian,Ningde,Xiapu County,355100
+242,Fujian,Ningde,Gutian,352200
+243,Fujian,Ningde,Shouning,355500
+244,Fujian,Ningde,Zhouning County,355400
+245,Fujian,Ningde,Fuan,355000
+246,Fujian,Ningde,Fuding,355200
+247,Guangdong,Guangzhou,Liwan,510000
+248,Guangdong,Guangzhou,Tainhe District,510000
+249,Guangdong,Guangzhou,Panyu,511400
+250,Guangdong,Guangzhou,Luogang,510000
+251,Guangdong,Guangzhou,Yuexiu,510000
+252,Guangdong,Guangzhou,Baiyun,510000
+253,Guangdong,Guangzhou,Huadu,510800
+254,Guangdong,Guangzhou,Zencheng,511300
+255,Guangdong,Guangzhou,Haizhu District,510000
+256,Guangdong,Guangzhou,Huangpu,510700
+257,Guangdong,Guangzhou,Nansha,511400
+258,Guangdong,Guangzhou,Conghua,510900
+259,Guangdong,Shenzhen,Luohu District,518000
+260,Guangdong,Shenzhen,Baoan District,518100
+261,Guangdong,Shenzhen,Futian District,518000
+262,Guangdong,Shenzhen,Longgang,518100
+263,Guangdong,Shenzhen,Nanshan District,518000
+264,Guangdong,Shenzhen,Yantian,518000
+265,Guangdong,Zhuhai,Xiangzhou District,519000
+266,Guangdong,Zhuhai,Doumen District,519100
+267,Guangdong,Zhuhai,Jinwan District,519090
+268,Guangdong,Shantou,Longhu District,515000
+269,Guangdong,Shantou,Chaoyang District,515100
+270,Guangdong,Shantou,Jinping District,515000
+271,Guangdong,Shantou,Chaonan County,515100
+272,Guangdong,Shantou,Haojiang District,515000
+273,Guangdong,Foshan,Chancheng District,528000
+274,Guangdong,Foshan,Sanshui,528100
+275,Guangdong,Foshan,Nanhai District,528200
+276,Guangdong,Foshan,Gaoming,528500
+277,Guangdong,Foshan,Shunde,528000
+278,Guangdong,Dongguan,,523000
+279,Guangdong,Zhongshan,,528400
+280,Guangdong,Shaoguan,Wujiang District,512000
+281,Guangdong,Shaoguan,Shixing County,512500
+282,Guangdong,Shaoguan,Xinfeng,511100
+283,Guangdong,Shaoguan,Ruyuan,512600
+284,Guangdong,Shaoguan,Zhenjiang,512000
+285,Guangdong,Shaoguan,Renhua County,512300
+286,Guangdong,Shaoguan,Lechang,512200
+287,Guangdong,Shaoguan,Qujiang,512100
+288,Guangdong,Shaoguan,Wengyuan County,512600
+289,Guangdong,Shaoguan,Nanxiong,512400
+290,Guangdong,Jiangmen,Pengjiang District,529000
+291,Guangdong,Jiangmen,Taishan,529200
+292,Guangdong,Jiangmen,Enping,529400
+293,Guangdong,Jiangmen,Jianghai,529000
+294,Guangdong,Jiangmen,Kaiping,529300
+295,Guangdong,Jiangmen,Xinhui,529000
+296,Guangdong,Jiangmen,Heshan,529700
+297,Guangdong,Zhanjiang,Chikan,524000
+298,Guangdong,Zhanjiang,Mazhang,524000
+299,Guangdong,Zhanjiang,Lianjiang,524400
+300,Guangdong,Zhanjiang,Xiashan,524000
+301,Guangdong,Zhanjiang,Suixi,524300
+302,Guangdong,Zhanjiang,Leizhou,524200
+303,Guangdong,Zhanjiang,Potou,524000
+304,Guangdong,Zhanjiang,Xuwen,524100
+305,Guangdong,Zhanjiang,Wuchuan,524500
+306,Guangdong,Maoming,Maonan,525000
+307,Guangdong,Maoming,Gaozhou,525200
+308,Guangdong,Maoming,Maogang,525000
+309,Guangdong,Maoming,Huazhou,525100
+310,Guangdong,Maoming,Dianbai,525400
+311,Guangdong,Maoming,Xinyi,525300
+312,Guangdong,Zhaoqing,Duanzhou,526000
+313,Guangdong,Zhaoqing,Huaiji,526400
+314,Guangdong,Zhaoqing,Gaoyao,526100
+315,Guangdong,Zhaoqing,Dinghu,526000
+316,Guangdong,Zhaoqing,Fengkai,526500
+317,Guangdong,Zhaoqing,Sihui,526200
+318,Guangdong,Zhaoqing,Guangning,526300
+319,Guangdong,Zhaoqing,Deqing,526600
+320,Guangdong,Huizhou,Huicheng,516000
+321,Guangdong,Huizhou,Huidong,516300
+322,Guangdong,Huizhou,Huiyang,516200
+323,Guangdong,Huizhou,Longmen,516800
+324,Guangdong,Huizhou,Boluo,516100
+325,Guangdong,Meizhou,Meijiang,514000
+326,Guangdong,Meizhou,Fengshun,514300
+327,Guangdong,Meizhou,Jiaoling,514100
+328,Guangdong,Meizhou,Meixian,514700
+329,Guangdong,Meizhou,Wuhua,514400
+330,Guangdong,Meizhou,Xingning,514500
+331,Guangdong,Meizhou,Dapu,514200
+332,Guangdong,Meizhou,Pingyuan,514600
+333,Guangdong,Shanwei,Chengqu,516600
+334,Guangdong,Shanwei,Lufeng,516500
+335,Guangdong,Shanwei,Haifeng,516400
+336,Guangdong,Shanwei,Luhe,516700
+337,Guangdong,Heyuan,Yuancheng,517000
+338,Guangdong,Heyuan,Lianping,517100
+339,Guangdong,Heyuan,Zijin,517400
+340,Guangdong,Heyuan,Heping,517200
+341,Guangdong,Heyuan,Longchuan,517300
+342,Guangdong,Heyuan,Dongyuan,517500
+343,Guangdong,Yangjiang,Jiangcheng,529500
+344,Guangdong,Yangjiang,Yangchun,529600
+345,Guangdong,Yangjiang,Yangxi,529800
+346,Guangdong,Yangjiang,Yangdong,529900
+347,Guangdong,Qingyuan,Qingcheng,511500
+348,Guangdong,Qingyuan,Lianshan,513200
+349,Guangdong,Qingyuan,Yingde,513000
+350,Guangdong,Qingyuan,Fogang,511600
+351,Guangdong,Qingyuan,Liannan,513300
+352,Guangdong,Qingyuan,Lianzhou,513400
+353,Guangdong,Qingyuan,Yangshan,513100
+354,Guangdong,Qingyuan,Qingxin,511800
+355,Guangdong,Chaozhou,Xiangqiao,521000
+356,Guangdong,Chaozhou,Chaoan,515600
+357,Guangdong,Chaozhou,Raoping,515700
+358,Guangdong,Jieyang,Rongcheng,522000
+359,Guangdong,Jieyang,Huilai,515200
+360,Guangdong,Jieyang,Jiedong,515500
+361,Guangdong,Jieyang,Puning,515300
+362,Guangdong,Jieyang,Jiexi,515400
+363,Guangdong,Yunfu,Yuncheng,527300
+364,Guangdong,Yunfu,Yun'an,527500
+365,Guangdong,Yunfu,Xinxing,527400
+366,Guangdong,Yunfu,Yunan,527100
+367,Guangdong,Yunfu,Luoding,527200
+368,Gansu,Lanzhou,Chengguan District,730030
+369,Gansu,Lanzhou,Anning District,730070
+370,Gansu,Lanzhou,Gaolan,730200
+371,Gansu,Lanzhou,Qilihe District,730050
+372,Gansu,Lanzhou,Xigu,730060
+373,Gansu,Lanzhou,Honggu District,730080
+374,Gansu,Lanzhou,Yongdeng County,730300
+375,Gansu,Lanzhou,Yuzhong County,730100
+376,Gansu,Jiayuguan,,735100
+377,Gansu,Jiuquan,Suzhou District,735000
+378,Gansu,Jiuquan,Subei,736300 
+379,Gansu,Jiuquan,Dunhuang City,736200
+380,Gansu,Jiuquan,Jinta,735300
+381,Gansu,Jiuquan,Guazhou,736100
+382,Gansu,Jiuquan,Akesai,736400
+383,Gansu,Jiuquan,Yumen City,735200
+384,Gansu,Jinchang,Jinchuan District,737100
+385,Gansu,Jinchang,Yongchang,737200
+386,Gansu,Baiyin,Baiyin,730900
+387,Gansu,Baiyin,Huining,730700
+388,Gansu,Baiyin,Pingchuan District,730900
+389,Gansu,Baiyin,Jingyuan County,730600
+390,Gansu,Baiyin,Jingtai,730400
+391,Gansu,Tianshui,Qinzhou,741000
+392,Gansu,Tianshui,Qin'an County,741600
+393,Gansu,Tianshui,Zhangjiachuan,741500
+394,Gansu,Tianshui,Maiji,741020
+395,Gansu,Tianshui,Qingshui County,741400
+396,Gansu,Tianshui,Gangu County,741200
+397,Gansu,Tianshui,Wushan County,741300
+398,Gansu,Wuwei,Liangzhou District,733000
+399,Gansu,Wuwei,Tianzhu, 733200
+400,Gansu,Wuwei,Minqin County,733300
+401,Gansu,Wuwei,Gulang County,733100
+402,Gansu,Zhangye,Ganzhou District,734000
+403,Gansu,Zhangye,Sunan,734400
+404,Gansu,Zhangye,Minle County,734500
+405,Gansu,Zhangye,Linze County,734200
+406,Gansu,Zhangye,Gaotai,734300
+407,Gansu,Zhangye,Shandan,734100
+408,Gansu,Pingliang,Kongtong District,744000
+409,Gansu,Pingliang,Chongxin County,744200
+410,Gansu,Pingliang,Jingning County,743400
+411,Gansu,Pingliang,Jingchuan County,744300
+412,Gansu,Pingliang,Lingtai County,744400
+413,Gansu,Pingliang,Huating County,744100
+414,Gansu,Pingliang,Zhuanglang County,744600
+415,Gansu,Qingyang,Xifeng,745000
+416,Gansu,Qingyang,Huach,745600
+417,Gansu,Qingyang,Ningxian,745200
+418,Gansu,Qingyang,Qingcheng,745100
+419,Gansu,Qingyang,Huanxian,745700
+420,Gansu,Qingyang,Heshui,745400
+421,Gansu,Qingyang,Zhengning,745300
+422,Gansu,Qingyang,Zhenyuan,744500
+423,Gansu,Dingxi,Anding,744300
+424,Gansu,Dingxi,Weiyuan,748200
+425,Gansu,Dingxi,Minxian,748400
+426,Gansu,Dingxi,Tongwei,743300
+427,Gansu,Dingxi,Longxi,748100
+428,Gansu,Dingxi,Lintao,730500
+429,Gansu,Dingxi,Zhangxian,748300
+430,Gansu,Longnan,Wudu,746000
+431,Gansu,Longnan,Dangchang,748500
+432,Gansu,Longnan,Lixian,742200
+433,Gansu,Longnan,Chengxian,742500
+434,Gansu,Longnan,Wenxian,746400
+435,Gansu,Longnan,Kangxian,746500
+436,Gansu,Longnan,Xihe,742100
+437,Gansu,Longnan,Huixian,742300
+438,Gansu,Longnan,Liangdang,742400
+439,Gansu,Linxia,Linxia,731100
+440,Gansu,Linxia,Yongjing,731600
+441,Gansu,Linxia,Dongxiang,731400
+442,Gansu,Linxia,Linxia,731800
+443,Gansu,Linxia,Kangle,731500
+444,Gansu,Linxia,Guanghe,731300
+445,Gansu,Linxia,Hezheng,731200
+446,Gansu,Linxia,Jishishan,731700
+447,Gansu,Gannan,Hezuo,747000
+448,Gansu,Gannan,Zhouqu,746300
+449,Gansu,Gannan,Luqu,747200
+450,Gansu,Gannan,Lintan,747500
+451,Gansu,Gannan,Zhuoni,747600
+452,Gansu,Gannan,Diebu,747400
+453,Gansu,Gannan,Maqu,747300
+454,Gansu,Gannan,Xiahe,747100
+455,Guangxi,Guilin,Xiufeng District,541000
+456,Guangxi,Guilin,Qixing District,541000
+457,Guangxi,Guilin,Lingui,541100
+458,Guangxi,Guilin,Xing'an,541300
+459,Guangxi,Guilin,Longsheng,541700
+460,Guangxi,Guilin,Lipu,546600
+461,Guangxi,Guilin,Diecai District,541000
+462,Guangxi,Guilin,Yanshan,541000
+463,Guangxi,Guilin,Lingchuan,541200
+464,Guangxi,Guilin,Yongfu,541800
+465,Guangxi,Guilin,Ziyuan,541400
+466,Guangxi,Guilin,Gongcheng,542500
+467,Guangxi,Guilin,Xiangshan District,541000
+468,Guangxi,Guilin,Yangzhuo,541900
+469,Guangxi,Guilin,Quanzhou,541500
+470,Guangxi,Guilin,Guanyang,541600
+471,Guangxi,Guilin,Pingle,542400
+472,Guangxi,Nanning,Xingning District,530000
+473,Guangxi,Nanning,Xixiangtang,530000
+474,Guangxi,Nanning,Wuming,530100
+475,Guangxi,Nanning,Shanglin,530500
+476,Guangxi,Nanning,Qingxiu District,530000
+477,Guangxi,Nanning,Liangqing,530200
+478,Guangxi,Nanning,Longan,532700
+479,Guangxi,Nanning,Binyang,530400
+480,Guangxi,Nanning,Jiangnan District,530000
+481,Guangxi,Nanning,Yongning,530200
+482,Guangxi,Nanning,Mashan,530600
+483,Guangxi,Nanning,Hengxian,530300
+484,Guangxi,Liuzhou,Chengzhong District,545000
+485,Guangxi,Liuzhou,Liubei District,545000
+486,Guangxi,Liuzhou,Luzhai,545600
+487,Guangxi,Liuzhou,Sanjiang,545500
+488,Guangxi,Liuzhou,Yufeng District,545000
+489,Guangxi,Liuzhou,Liujiang,545100
+490,Guangxi,Liuzhou,Rongan,545400
+491,Guangxi,Liuzhou,Liunan District,545000
+492,Guangxi,Liuzhou,Liucheng,545200
+493,Guangxi,Liuzhou,Rongshui,545300
+494,Guangxi,Wuzhou,Wanxiu,543000
+495,Guangxi,Wuzhou,Cangwu,543100
+496,Guangxi,Wuzhou,Cenxi,543200
+497,Guangxi,Wuzhou,Dieshan District,543000
+498,Guangxi,Wuzhou,Tengxian County,543300
+499,Guangxi,Wuzhou,Changzhou District,543000
+500,Guangxi,Wuzhou,Mengshan,546700
+501,Guangxi,Beihai,Haicheng District,536000
+502,Guangxi,Beihai,Hepu,536100
+503,Guangxi,Beihai,Yinhai District,536000
+504,Guangxi,Beihai,Tieshangang District,536000
+505,Guangxi,Fangcheng,Gangkou,538000
+506,Guangxi,Fangcheng,Dongxing,538100
+507,Guangxi,Fangcheng,Fangcheng,538000
+508,Guangxi,Fangcheng,Shangsi,535500
+509,Guangxi,Qinzhou,Qinnan,535000
+510,Guangxi,Qinzhou,Pubei,535300
+511,Guangxi,Qinzhou,Qinbei,535000
+512,Guangxi,Qinzhou,Lingshan,535400
+513,Guangxi,Guigang,Gangbei District,537100
+514,Guangxi,Guigang,Pingnan County,537300
+515,Guangxi,Guigang,Gangnan District,537100
+516,Guangxi,Guigang,Guiping,537200
+517,Guangxi,Guigang,Qintang,537100
+518,Guangxi,Yulin,Yuzhou District,537000
+519,Guangxi,Yulin,Bobai,537600
+520,Guangxi,Yulin,Rongxian,537500
+521,Guangxi,Yulin,Xingye,537800
+522,Guangxi,Yulin,Luchuan,537700
+523,Guangxi,Yulin,Beiliu City,537400
+524,Guangxi,Baise,Youjiang District,533000
+525,Guangxi,Baise,Pingguo,531400
+526,Guangxi,Baise,Nanpo,533900
+527,Guangxi,Baise,Tianlin,533300
+528,Guangxi,Baise,Tianyang,533600
+529,Guangxi,Baise,Debao County,533700
+530,Guangxi,Baise,Lingyun,533100
+531,Guangxi,Baise,Xilin,533500
+532,Guangxi,Baise,Tiandong,531500
+533,Guangxi,Baise,Jingxi County,533800
+534,Guangxi,Baise,Leye,533200
+535,Guangxi,Baise,Longlin,533400
+536,Guangxi,Hezhou,Babu District,542800
+537,Guangxi,Hezhou,Fuchuan,542700
+538,Guangxi,Hezhou,Zhaoping,546800
+539,Guangxi,Hezhou,Zhongshan County,542600
+540,Guangxi,Hechi,Jinchengjiang District,547000
+541,Guangxi,Hechi,Fengshan County,547600
+542,Guangxi,Hechi,Luocheng,546400
+543,Guangxi,Hechi,Du'an,530700
+544,Guangxi,Hechi,Nandan,547200
+545,Guangxi,Hechi,Donglan County,547400
+546,Guangxi,Hechi,Huanjiang,547100
+547,Guangxi,Hechi,Dahua,530800
+548,Guangxi,Hechi,Tian'e County,547300
+549,Guangxi,Hechi,Yizhou,546300
+550,Guangxi,Hechi,Bama,547500
+551,Guangxi,Laibin,Xingbin District,546100
+552,Guangxi,Laibin,Wuxuan County,545900
+553,Guangxi,Laibin,Xincheng,546200
+554,Guangxi,Laibin,Jinxiu,545700
+555,Guangxi,Laibin,Xiangzhou County,545800
+556,Guangxi,Laibin,Heshan City,546500
+557,Guangxi,Chongzuo,Jiangzhou District,532200
+558,Guangxi,Chongzuo,Longzhou County,532400
+559,Guangxi,Chongzuo,Pingxiang County,532600
+560,Guangxi,Chongzuo,Fusui County,532100
+561,Guangxi,Chongzuo,Daxin County,532300
+562,Guangxi,Chongzuo,Ningming County,532500
+563,Guangxi,Chongzuo,Tiandeng County,532800
+564,Guizhou,Guiyang,Nanming District,550000
+565,Guizhou,Guiyang,Wudang District,550000
+566,Guizhou,Guiyang,Kaiyang,550300
+567,Guizhou,Guiyang,Qingzhen,551400
+568,Guizhou,Guiyang,Yunyan,550000
+569,Guizhou,Guiyang,Baiyun,550000
+570,Guizhou,Guiyang,Xifeng,551100
+571,Guizhou,Guiyang,Huaxi District,550000
+572,Guizhou,Guiyang,Xiaohe District,550000
+573,Guizhou,Guiyang,Xiuwen,550200
+574,Guizhou,Anshun,Xixiu District,561000
+575,Guizhou,Anshun,Zhenning,561200
+576,Guizhou,Anshun,Pingba,561100
+577,Guizhou,Anshun,Guanling,561300
+578,Guizhou,Anshun,Puding,562100
+579,Guizhou,Anshun,Ziyun,550800
+580,Guizhou,Liupanshui,Zhongshan,553000
+581,Guizhou,Liupanshui,Panxian,553500
+582,Guizhou,Liupanshui,Liuzhite,553400
+583,Guizhou,Liupanshui,Shuicheng,553600
+584,Guizhou,Zunyi,Honghuagang District,563000
+585,Guizhou,Zunyi,Tongzi,563200
+586,Guizhou,Zunyi,Daozhen,563500
+587,Guizhou,Zunyi,Meitan,564100
+588,Guizhou,Zunyi,Chishui,564700
+589,Guizhou,Zunyi,Huichuan District,563000
+590,Guizhou,Zunyi,Suiyang County,563300
+591,Guizhou,Zunyi,Wuchuan Glelao,564300
+592,Guizhou,Zunyi,Yuqing,564400
+593,Guizhou,Zunyi,Renhuai,564500
+594,Guizhou,Zunyi,Zunyi,563100
+595,Guizhou,Zunyi,Zheng'an,563400
+596,Guizhou,Zunyi,Fenggang,564200
+597,Guizhou,Zunyi,Xishui,564600
+598,Guizhou,Tongren,Tongren,554300
+599,Guizhou,Tongren,Shiqian,555100
+600,Guizhou,Tongren,Dejiang,565200
+601,Guizhou,Tongren,Wanshan,554200
+602,Guizhou,Tongren,Jiangkou,554400
+603,Guizhou,Tongren,Sinan,565100
+604,Guizhou,Tongren,Yanhe,565300
+605,Guizhou,Tongren,Yuping,554000
+606,Guizhou,Tongren,Yinjiang Tujia,555200
+607,Guizhou,Tongren,Songtao,554100
+608,Guizhou,Qianxinan,Xingyi City,562400
+609,Guizhou,Qianxinan,Qinglong,561400
+610,Guizhou,Qianxinan,Ceheng,552200
+611,Guizhou,Qianxinan,Xingren,562300
+612,Guizhou,Qianxinan,Zhenfeng,562200
+613,Guizhou,Qianxinan,Anlong,552400
+614,Guizhou,Qianxinan,Puan,561500
+615,Guizhou,Qianxinan,Wangmo,562300
+616,Guizhou,Bijie,Bijie City,551700
+617,Guizhou,Bijie,Jinsha,551800
+618,Guizhou,Bijie,Weining,553100
+619,Guizhou,Bijie,Dafang,551600
+620,Guizhou,Bijie,Zhijin,552100
+621,Guizhou,Bijie,Hezhang,553200
+622,Guizhou,Bijie,Qianxi,551500
+623,Guizhou,Bijie,Nayong,553300
+624,Guizhou,Qiandongnan,Kaili,556000
+625,Guizhou,Qiandongnan,Sansui County,556500
+626,Guizhou,Qiandongnan,Tianzhu County,556600
+627,Guizhou,Qiandongnan,Taijiang,556300
+628,Guizhou,Qiandongnan,Congjiang,557400
+629,Guizhou,Qiandongnan,Danzhai,557500
+630,Guizhou,Qiandongnan,Huangping,556100
+631,Guizhou,Qiandongnan,Zhenyuan County,557700
+632,Guizhou,Qiandongnan,Jinping,556700
+633,Guizhou,Qiandongnan,Liping,557300
+634,Guizhou,Qiandongnan,Leishan,557100
+635,Guizhou,Qiandongnan,Shibing,556200
+636,Guizhou,Qiandongnan,Cengong County,557800
+637,Guizhou,Qiandongnan,Jianhe,556400
+638,Guizhou,Qiandongnan,Rongjiang,557200
+639,Guizhou,Qiandongnan,Majiang,557600
+640,Guizhou,Qiannan,Duyun,558000
+641,Guizhou,Qiannan,Guiding,551300
+642,Guizhou,Qiannan,Pingtang,558300
+643,Guizhou,Qiannan,Longli,551200
+644,Guizhou,Qiannan,Fuquan,550500
+645,Guizhou,Qiannan,Weng'an,550400
+646,Guizhou,Qiannan,Luodian,550100
+647,Guizhou,Qiannan,Huishui,550600
+648,Guizhou,Qiannan,Libo,558400
+649,Guizhou,Qiannan,Dushan,558200
+650,Guizhou,Qiannan,Changshun,550700
+651,Guizhou,Qiannan,Sandu,558100
+652,Henan,Zhengzhou ,Zhongyuan,450000
+653,Henan,Zhengzhou ,Jinshui,450000
+654,Henan,Zhengzhou ,Zhongmu,451450
+655,Henan,Zhengzhou ,Xinmi,452370
+656,Henan,Zhengzhou ,Erqi,450000
+657,Henan,Zhengzhou ,Shangjie,450041
+658,Henan,Zhengzhou ,Gongyi,451200
+659,Henan,Zhengzhou ,Xinzheng,451100
+660,Henan,Zhengzhou ,Guancheng,450000
+661,Henan,Zhengzhou ,Huiji,450000
+662,Henan,Zhengzhou ,Xingyang,450100
+663,Henan,Zhengzhou ,Dengfeng,452470
+664,Henan,Luoyang,Laocheng,471000
+665,Henan,Luoyang,Jianxi,471000
+666,Henan,Luoyang,Mengjin,471100
+667,Henan,Luoyang,Songxian,471400
+668,Henan,Luoyang,Luoning,471700
+669,Henan,Luoyang,Xigong,471000
+670,Henan,Luoyang,Jili,471000
+671,Henan,Luoyang,Xin'an,471800
+672,Henan,Luoyang,Ruyang,471200
+673,Henan,Luoyang,Yichuan,471300
+674,Henan,Luoyang,Chanhe,471000
+675,Henan,Luoyang,Luolong,471000
+676,Henan,Luoyang,Luanchuan,471500
+677,Henan,Luoyang,Yiyang,471600
+678,Henan,Luoyang,Yanshi,
+679,Henan,Sanmenxia ,Hubin,472000
+680,Henan,Sanmenxia ,Lushi,472200
+681,Henan,Sanmenxia ,Mianchi,472400
+682,Henan,Sanmenxia ,Yima,472300
+683,Henan,Sanmenxia ,Shanxian,472100
+684,Henan,Sanmenxia ,Lingbao,472500
+685,Henan,Kaifeng ,Longting,475000
+686,Henan,Kaifeng ,Yuwangtai,475000
+687,Henan,Kaifeng ,Tongxu,475400
+688,Henan,Kaifeng ,Lankao,475300
+689,Henan,Kaifeng ,Gulou,475000
+690,Henan,Kaifeng ,Jinming,475000
+691,Henan,Kaifeng ,Weishi,475500
+692,Henan,Kaifeng ,Shunhe,475000
+693,Henan,Kaifeng ,Qixian,475200
+694,Henan,Kaifeng ,Kaifeng,475100
+695,Henan,Pingdingshan ,Xinhua,467000
+696,Henan,Pingdingshan ,Zhanhe,467000
+697,Henan,Pingdingshan ,Lushan,467300
+698,Henan,Pingdingshan ,Ruzhou,467500
+699,Henan,Pingdingshan ,Weidong,467000
+700,Henan,Pingdingshan ,Baofeng,467400
+701,Henan,Pingdingshan ,Jiaxian,467100
+702,Henan,Pingdingshan ,Shilong,467000
+703,Henan,Pingdingshan ,Yexian,467200
+704,Henan,Pingdingshan ,Wugang,462500
+705,Henan,Anyang ,Wenfeng,455000
+706,Henan,Anyang ,Long'an,455000
+707,Henan,Anyang ,Huaxian,456400
+708,Henan,Anyang ,Beiguan,455000
+709,Henan,Anyang ,Anyang,455100
+710,Henan,Anyang ,Neihuang,456300
+711,Henan,Anyang ,Yindu,455000
+712,Henan,Anyang ,Shangyin,456150
+713,Henan,Anyang ,Linzhou,456500
+714,Henan,Hebi ,Heshan,458000
+715,Henan,Hebi ,Xunxian,456250
+716,Henan,Hebi ,Shancheng,458000
+717,Henan,Hebi ,Qixian,456750
+718,Henan,Hebi ,Qibin,458000
+719,Henan,Xinxiang ,Hongqi,453000
+720,Henan,Xinxiang ,Yuanyang,453500
+721,Henan,Xinxiang ,Changyuan,453400
+722,Henan,Xinxiang ,Xinxiang,453700
+723,Henan,Xinxiang ,Yanjin,453200
+724,Henan,Xinxiang ,Weihui,453100
+725,Henan,Xinxiang ,Huojia,453800
+726,Henan,Xinxiang ,Fengqiu,453300
+727,Henan,Xinxiang ,Huixian,453600
+728,Henan,Jiaozuo ,Jiefang,454150
+729,Henan,Jiaozuo ,Shanyang,454150
+730,Henan,Jiaozuo ,Wuzhi,454950
+731,Henan,Jiaozuo ,Mengzhou,454750
+732,Henan,Jiaozuo ,Zhongzhan,454150
+733,Henan,Jiaozuo ,Xiuwu,454350
+734,Henan,Jiaozuo ,Wenxian,454850
+735,Henan,Jiaozuo ,Macun,454150
+736,Henan,Jiaozuo ,Boai,454450
+737,Henan,Jiaozuo ,Qinyang,454550
+738,Henan,Puyang ,Qingfeng,457300
+739,Henan,Puyang ,Taiqian,457600
+740,Henan,Puyang ,Nanle,457400
+741,Henan,Puyang ,PuyanG,457100
+742,Henan,Puyang ,Fanxian,457500
+743,Henan,Xuchang ,Weidu,461000
+744,Henan,Xuchang ,Xiangcheng,452670
+745,Henan,Xuchang ,Xuchang,461100
+746,Henan,Xuchang ,Yuzhou,452570
+747,Henan,Xuchang ,Yanling,461200
+748,Henan,Xuchang ,Changge,461500
+749,Henan,Luohe ,Yuanhui,462000
+750,Henan,Luohe ,Wuyang,462400
+751,Henan,Luohe ,Yancheng,462300
+752,Henan,Luohe ,Linying,462600
+753,Henan,Luohe ,Zhaoling,462300
+754,Henan,Nanyang,Wancheng,473000
+755,Henan,Nanyang,Fangcheng,473200
+756,Henan,Nanyang,Neixiang,474350
+757,Henan,Nanyang,Tanghe,473400
+758,Henan,Nanyang,Dengzhou,474150
+759,Henan,Nanyang,Wolong,473000
+760,Henan,Nanyang,Xixia,474550
+761,Henan,Nanyang,Xichuan,474450
+762,Henan,Nanyang,Xinye,473500
+763,Henan,Nanyang,Nanzhao,474650
+764,Henan,Nanyang,Zhenping,474250
+765,Henan,Nanyang,Sheqi,473300
+766,Henan,Nanyang,Tongbai,474750
+767,Henan,Shangqiu,Liangyuan,476000
+768,Henan,Shangqiu,Suixian,476900
+769,Henan,Shangqiu,Yucheng,476300
+770,Henan,Shangqiu,Suiyang,476000
+771,Henan,Shangqiu,Ningling,476700
+772,Henan,Shangqiu,Xiayi,476400
+773,Henan,Shangqiu,Minquan,476800
+774,Henan,Shangqiu,Zhecheng,476200
+775,Henan,Shangqiu,Yongcheng,476600
+776,Henan,Xinyang,Shihe,464000
+777,Henan,Xinyang,Guangshan,465450
+778,Henan,Xinyang,Gushi,465200
+779,Henan,Xinyang,Xixian,464300
+780,Henan,Xinyang,Pingqiao District,464000
+781,Henan,Xinyang,Xinxian,465500
+782,Henan,Xinyang,Huangchuan,465150
+783,Henan,Xinyang,Luoshan,464200
+784,Henan,Xinyang,Shangcheng,465350
+785,Henan,Xinyang,Huaibin,464400
+786,Henan,Zhoukou,Chuanhui,466000
+787,Henan,Zhoukou,Shangshui,466100
+788,Henan,Zhoukou,Huaiyang,466700
+789,Henan,Zhoukou,Xiangcheng,466200
+790,Henan,Zhoukou,Fugou,461300
+791,Henan,Zhoukou,Shenqiu,466300
+792,Henan,Zhoukou,Taikang,475400
+793,Henan,Zhoukou,Xihua,466600
+794,Henan,Zhoukou,Dancheng,477150
+795,Henan,Zhoukou,Luyi,477200
+796,Henan,Zhumadian,Yicheng,463000
+797,Henan,Zhumadian,Pingyu,463400
+798,Henan,Zhumadian,Miyang,463700
+799,Henan,Zhumadian,Xincai,463500
+800,Henan,Zhumadian,Xiping,463900
+801,Henan,Zhumadian,Zhengyang,463600
+802,Henan,Zhumadian,Runan,463300
+803,Henan,Zhumadian,Shangcai,463800
+804,Henan,Zhumadian,Queshan,463200
+805,Henan,Zhumadian,Suiping,463100
+806,Henan,Jiyuan,Jiyuan,454650
+807,Hubei,Wuhan ,Jiang'an District,430014
+808,Hubei,Wuhan ,Hanyang District,430050
+809,Hubei,Wuhan ,Hongshan,430070
+810,Hubei,Wuhan ,Caidian,430100
+811,Hubei,Wuhan ,Xinzhou,431400
+812,Hubei,Wuhan ,Jianghan District,430000
+813,Hubei,Wuhan ,Wuchang District,430000
+814,Hubei,Wuhan ,Dongxihu,430040
+815,Hubei,Wuhan ,Jiangxia,430200
+816,Hubei,Wuhan ,Qiaokou District,430000
+817,Hubei,Wuhan ,Qingshan District,430080
+818,Hubei,Wuhan ,Hannan,430090
+819,Hubei,Wuhan ,Huangpi,432200
+820,Hubei,Yichang ,Xiling District,443000
+821,Hubei,Yichang ,Xiaoting,443000
+822,Hubei,Yichang ,Xingshan,443700
+823,Hubei,Yichang ,Wufeng Tujia			Autonomous,443400
+824,Hubei,Yichang ,Zhijiang,443200
+825,Hubei,Yichang ,Wujiagang,443000
+826,Hubei,Yichang ,Yiling,443100
+827,Hubei,Yichang ,Zigui,443600
+828,Hubei,Yichang ,Yidu,443000
+829,Hubei,Yichang ,Dianjun,443000
+830,Hubei,Yichang ,Yuan'an,444200
+831,Hubei,Yichang ,Changyang,443500
+832,Hubei,Yichang ,Dangyang,444100
+833,Hubei,Huangshi ,Huangshigang District,435000
+834,Hubei,Huangshi ,Yangxin County,435200
+835,Hubei,Huangshi ,Xialu District,435000
+836,Hubei,Huangshi ,Daye,435100
+837,Hubei,Huangshi ,Tieshan,435000
+838,Hubei,Shiyan ,Maojian District,442000
+839,Hubei,Shiyan ,Yunxi,442600
+840,Hubei,Shiyan ,Fangxian,442100
+841,Hubei,Shiyan ,Zhangwan District,442000
+842,Hubei,Shiyan ,Zhushan,442200
+843,Hubei,Shiyan ,Danjiangkou,442700
+844,Hubei,Shiyan ,Yunxian County,442500
+845,Hubei,Shiyan ,Zhuxi,442300
+846,Hubei,Xiangfan,Xiangcheng,441000
+847,Hubei,Xiangfan,Nanzhang,441500
+848,Hubei,Xiangfan,Laohekou,441800
+849,Hubei,Xiangfan,Fancheng,441000
+850,Hubei,Xiangfan,Gucheng,441700
+851,Hubei,Xiangfan,Zaoyang,441200
+852,Hubei,Xiangfan,Xiangyang,441100
+853,Hubei,Xiangfan,Baokang,441600
+854,Hubei,Xiangfan,Yicheng,441400
+855,Hubei,Ezhou,Liangzihu,436000
+856,Hubei,Ezhou,Huarong,436000
+857,Hubei,Ezhou,Echeng,436000
+858,Hubei,Jingmen,Dongbao,448000
+859,Hubei,Jingmen,Shayang,448200
+860,Hubei,Jingmen,Duodao,448000
+861,Hubei,Jingmen,Zhongxiang,431900
+862,Hubei,Jingmen,Jiangshan,431800
+863,Hubei,Xiaogan,Xiaonan,432100
+864,Hubei,Xiaogan,Yunmeng,432500
+865,Hubei,Xiaogan,Hanchuan,432300
+866,Hubei,Xiaogan,Xiaochang,432900
+867,Hubei,Xiaogan,Yingcheng,432400
+868,Hubei,Xiaogan,Dawu,432800
+869,Hubei,Xiaogan,Anlu,432600
+870,Hubei,Jingzhou,Shashi,434000
+871,Hubei,Jingzhou,Jianli,433300
+872,Hubei,Jingzhou,Honghu,433200
+873,Hubei,Jingzhou,Jingzhou,434020
+874,Hubei,Jingzhou,Jiangling,434100
+875,Hubei,Jingzhou,Songzi,434200
+876,Hubei,Jingzhou,Gong'an,434300
+877,Hubei,Jingzhou,Shishou,434400
+878,Hubei,Huanggang,Huangzhou,438000
+879,Hubei,Huanggang,Luotian,438600
+880,Hubei,Huanggang,Qichun,435300
+881,Hubei,Huanggang,Wuxue,435400
+882,Hubei,Huanggang,Tuanfeng,438000
+883,Hubei,Huanggang,Yingshan,438700
+884,Hubei,Huanggang,Huangmei,435500
+885,Hubei,Huanggang,Hong'an,438400
+886,Hubei,Huanggang,Xishui,438200
+887,Hubei,Huanggang,Macheng,438300
+888,Hubei,Xianning,Xi'an'an,437000
+889,Hubei,Xianning,Chongyang,437500
+890,Hubei,Xianning,Jiayu,437200
+891,Hubei,Xianning,Tongshan,437600
+892,Hubei,Xianning,Tongcheng,437400
+893,Hubei,Xianning,Chibi,437300
+894,Hubei,Suizhou,Zengdu,441300
+895,Hubei,Suizhou,Suixian,441315
+896,Hubei,Suizhou,Guangshui,432700
+897,Hubei,Enshi,Enshi,445000
+898,Hubei,Enshi,Badong,444300
+899,Hubei,Enshi,Laifeng,445700
+900,Hubei,Enshi,Lichuan,445400
+901,Hubei,Enshi,Xuan'en,445500
+902,Hubei,Enshi,Hefeng,445800
+903,Hubei,Enshi,Jianshi,445300
+904,Hubei,Enshi,Xianfeng,445600
+905,Hubei,Other,Xiantao,433000
+906,Hubei,Other,Qianjiang,433100
+907,Hubei,Other,Tianmen,431700
+908,Hubei,Hubei,Shennongjia,442400
+909,Hebei,Shijiazhuang ,Chang'an District,050000
+910,Hebei,Shijiazhuang ,Xinhua,050000
+911,Hebei,Shijiazhuang ,Jingxing,050300
+912,Hebei,Shijiazhuang ,Xingtang,050600
+913,Hebei,Shijiazhuang ,Shenze,052500
+914,Hebei,Shijiazhuang ,Pingshan,050400
+915,Hebei,Shijiazhuang ,Xinji,052300
+916,Hebei,Shijiazhuang ,Xinle,050700
+917,Hebei,Shijiazhuang ,Qiaodong,050000
+918,Hebei,Shijiazhuang ,Yuhua,050000
+919,Hebei,Shijiazhuang ,Zhengding,050800
+920,Hebei,Shijiazhuang ,Lingshou,050500
+921,Hebei,Shijiazhuang ,Zanhuang,051230
+922,Hebei,Shijiazhuang ,Yuanshi,051130
+923,Hebei,Shijiazhuang ,Gaocheng,052160
+924,Hebei,Shijiazhuang ,Luquan,050200
+925,Hebei,Shijiazhuang ,Qiaoxi District,050000
+926,Hebei,Shijiazhuang ,Jingxingkuang District,050100
+927,Hebei,Shijiazhuang ,Luancheng,051430
+928,Hebei,Shijiazhuang ,Gaoyi,051330
+929,Hebei,Shijiazhuang ,Wuji,052400
+930,Hebei,Shijiazhuang ,Zhaoxian,051530
+931,Hebei,Shijiazhuang ,Jinzhou,052200
+932,Hebei,Tangshan ,Lunan,063000
+933,Hebei,Tangshan ,Kaiping,063000
+934,Hebei,Tangshan ,Luanxian,063700
+935,Hebei,Tangshan ,Qianxi,064300
+936,Hebei,Tangshan ,Zunhua,064200
+937,Hebei,Tangshan ,Lubei,063000
+938,Hebei,Tangshan ,Fengnan,063300
+939,Hebei,Tangshan ,Luannan,063500
+940,Hebei,Tangshan ,Yutian,064100
+941,Hebei,Tangshan ,Qian'an,064400
+942,Hebei,Tangshan ,Guye,063100
+943,Hebei,Tangshan ,Fengrun,063000
+944,Hebei,Tangshan ,Leting,063600
+945,Hebei,Tangshan ,Tanghai,063200
+946,Hebei,Qinhuangdao ,Haigang,066000
+947,Hebei,Qinhuangdao ,Qinglong,066500
+948,Hebei,Qinhuangdao ,Lulong,066400
+949,Hebei,Qinhuangdao ,Shanhaiguan District,066200
+950,Hebei,Qinhuangdao ,Changli,066600
+951,Hebei,Qinhuangdao ,Beidaihe District,066100
+952,Hebei,Qinhuangdao ,Funing,066300
+953,Hebei,Handan ,Hanshan,056000
+954,Hebei,Handan ,Fengfeng,056200
+955,Hebei,Handan ,Cheng'an,056700
+956,Hebei,Handan ,Cixian,056500
+957,Hebei,Handan ,Qiuxian,057450
+958,Hebei,Handan ,Guantao,057750
+959,Hebei,Handan ,Wu'an,056300
+960,Hebei,Handan ,Congtai,056000
+961,Hebei,Handan ,Handan,056000
+962,Hebei,Handan ,Daming,056900
+963,Hebei,Handan ,Feixiang,057550
+964,Hebei,Handan ,Jize,057350
+965,Hebei,Handan ,Weixian,056800
+966,Hebei,Handan ,Fuxing,056000
+967,Hebei,Handan ,Linzhang,056600
+968,Hebei,Handan ,Shexian,056400
+969,Hebei,Handan ,Yongnian,057150
+970,Hebei,Handan ,Guangping,057650
+971,Hebei,Handan ,Quzhou,057250
+972,Hebei,Xingtai ,Qiaodong,054000
+973,Hebei,Xingtai ,Lincheng,054300
+974,Hebei,Xingtai ,Longyao,055350
+975,Hebei,Xingtai ,Ningjin,055550
+976,Hebei,Xingtai ,Guangzong,054600
+977,Hebei,Xingtai ,Qinghe,054800
+978,Hebei,Xingtai ,Shahe,054100
+979,Hebei,Xingtai ,Qiaoxi,054000
+980,Hebei,Xingtai ,Neiqiu,054200
+981,Hebei,Xingtai ,Renxian,055150
+982,Hebei,Xingtai ,Julu,055250
+983,Hebei,Xingtai ,Pingxiang,054500
+984,Hebei,Xingtai ,Linxi,054900
+985,Hebei,Xingtai ,Xingtai,054000
+986,Hebei,Xingtai ,Baixiang,055450
+987,Hebei,Xingtai ,Nanhe,054400
+988,Hebei,Xingtai ,Xinhe,051730
+989,Hebei,Xingtai ,Weixian,054700
+990,Hebei,Xingtai ,Nangong,051800
+991,Hebei,Baoding ,Xinshi,071000
+992,Hebei,Baoding ,Mancheng,072150
+993,Hebei,Baoding ,Fuping,073200
+994,Hebei,Baoding ,Tangxian,072350
+995,Hebei,Baoding ,Laiyuan,074300
+996,Hebei,Baoding ,Yixian,074200
+997,Hebei,Baoding ,Shunping,072250
+998,Hebei,Baoding ,Zhuozhou,072750
+999,Hebei,Baoding ,Gaobeidian,074000
+1000,Hebei,Baoding ,Beishi,071000
+1001,Hebei,Baoding ,Qingyuan,071100
+1002,Hebei,Baoding ,Xushui,072550
+1003,Hebei,Baoding ,Gaoyang,071500
+1004,Hebei,Baoding ,Wangdu,072450
+1005,Hebei,Baoding ,Quyang,073100
+1006,Hebei,Baoding ,Boye,071300
+1007,Hebei,Baoding ,Dingzhou,073000
+1008,Hebei,Baoding ,Nanshi,071000
+1009,Hebei,Baoding ,Laishui,074100
+1010,Hebei,Baoding ,Dingxing,072650
+1011,Hebei,Baoding ,Rongcheng,071700
+1012,Hebei,Baoding ,Anxin,071600
+1013,Hebei,Baoding ,Lixian,071400
+1014,Hebei,Baoding ,Xiongxian,071800
+1015,Hebei,Baoding ,Anguo,071200
+1016,Hebei,Zhangjiakou ,Qiaodong,075000
+1017,Hebei,Zhangjiakou ,Xiahuayuan,075300
+1018,Hebei,Zhangjiakou ,Kangbao,076650
+1019,Hebei,Zhangjiakou ,Yuxian,075700
+1020,Hebei,Zhangjiakou ,Wanquan,076250
+1021,Hebei,Zhangjiakou ,Chicheng,075500
+1022,Hebei,Zhangjiakou ,Qiaoxi,075000
+1023,Hebei,Zhangjiakou ,Xuanhua,075100
+1024,Hebei,Zhangjiakou ,Guyuan,076550
+1025,Hebei,Zhangjiakou ,Yangyuan,075800
+1026,Hebei,Zhangjiakou ,Huailai,075400
+1027,Hebei,Zhangjiakou ,Chongli,076350
+1028,Hebei,Zhangjiakou ,Xuanhua,075000
+1029,Hebei,Zhangjiakou ,Zhangbei,076450
+1030,Hebei,Zhangjiakou ,Shangyi,076750
+1031,Hebei,Zhangjiakou ,Huaian,076150
+1032,Hebei,Zhangjiakou ,Zhuolu,075600
+1033,Hebei,Chengde ,Shuangqiao,067000
+1034,Hebei,Chengde ,Chengde,067400
+1035,Hebei,Chengde ,Luanping,068250
+1036,Hebei,Chengde ,Kuancheng,067600
+1037,Hebei,Chengde ,Shuangluan,067000
+1038,Hebei,Chengde ,Xinglong,067300
+1039,Hebei,Chengde ,Longhua,068150
+1040,Hebei,Chengde ,Weichang Man ,068450
+1041,Hebei,Chengde ,Yingshou,067200
+1042,Hebei,Chengde ,Pingquan,067500
+1043,Hebei,Chengde ,Fengning,068350
+1044,Hebei,Cangzhou ,Xinhua,061000
+1045,Hebei,Cangzhou ,Qingxian,062650
+1046,Hebei,Cangzhou ,Yanshan,061300
+1047,Hebei,Cangzhou ,Wuqiao,061800
+1048,Hebei,Cangzhou ,Botou,062150
+1049,Hebei,Cangzhou ,Hejian,062450
+1050,Hebei,Cangzhou ,Yunhe,061000
+1051,Hebei,Cangzhou ,Dongguang,061600
+1052,Hebei,Cangzhou ,Suning,062350
+1053,Hebei,Cangzhou ,Xianxian,062250
+1054,Hebei,Cangzhou ,Renqiu,062550
+1055,Hebei,Cangzhou ,Cangxian,061000
+1056,Hebei,Cangzhou ,Haixing,061200
+1057,Hebei,Cangzhou ,Nanpi,061500
+1058,Hebei,Cangzhou ,Mengcun,061400
+1059,Hebei,Cangzhou ,Huanghua,061100
+1060,Hebei,Langfang ,Anci,065000
+1061,Hebei,Langfang ,Yongqing,065600
+1062,Hebei,Langfang ,Wen'an,065800
+1063,Hebei,Langfang ,Sanhe,065200
+1064,Hebei,Langfang ,Guangyang,065000
+1065,Hebei,Langfang ,Xianghe,065400
+1066,Hebei,Langfang ,Dachang,065300
+1067,Hebei,Langfang ,Gu'an,065500
+1068,Hebei,Langfang ,Dacheng,065900
+1069,Hebei,Langfang ,Bazhou,065700
+1070,Hebei,Hengshui ,Taocheng,053000
+1071,Hebei,Hengshui ,Wuqiang,053300
+1072,Hebei,Hengshui ,Gucheng,253800
+1073,Hebei,Hengshui ,Yizhou,053200
+1074,Hebei,Hengshui ,Zaoqiang,053100
+1075,Hebei,Hengshui ,Raoyang,053900
+1076,Hebei,Hengshui ,Jingxian,053500
+1077,Hebei,Hengshui ,Shenzhou,052800
+1078,Hebei,Hengshui ,Wuyi,053400
+1079,Hebei,Hengshui ,Anping,053600
+1080,Hebei,Hengshui ,Fucheng,053700
+1081,Hainan,Haikou,Xiuying District,570100
+1082,Hainan,Haikou,Meilan District,570100
+1083,Hainan,Haikou,Longhua District,570100
+1084,Hainan,Haikou,Qiongshan District,571100
+1085,Hainan,Sanya,Wuzhishan,572200
+1086,Hainan,Sanya,Wenchang,571300
+1087,Hainan,Sanya,Ding'an,571200
+1088,Hainan,Sanya,Lingao,571800
+1089,Hainan,Sanya,Ledong,572500
+1090,Hainan,Sanya,Qiongzhong,572900
+1091,Hainan,Sanya,Qionghai,571400
+1092,Hainan,Sanya,Wanning,571500
+1093,Hainan,Sanya,Tunchang,571600
+1094,Hainan,Sanya,Baisha,572800
+1095,Hainan,Sanya,Lingshui,572400
+1096,Hainan,Sanya,Danzhou,571700
+1097,Hainan,Sanya,Dongfang,572600
+1098,Hainan,Sanya,Chengmai,571900
+1099,Hainan,Sanya,Changjiang,572700
+1100,Hainan,Sanya,Baoting,572300
+1101,Hainan,Sansha,Xisha,573199
+1102,Hainan,Sansha,Zhongsha,573199
+1103,Hainan,Sansha,Nansha,573199
+1104,Heilongjiang,Harbin ,Daoli,150000
+1105,Heilongjiang,Harbin ,Dongli,150000
+1106,Heilongjiang,Harbin ,Xiangfang,150000
+1107,Heilongjiang,Harbin ,Yilan,154800
+1108,Heilongjiang,Harbin ,Bayan,151800
+1109,Heilongjiang,Harbin ,Yanshou,150700
+1110,Heilongjiang,Harbin ,Wuchang,150200
+1111,Heilongjiang,Harbin ,Nangang,150000
+1112,Heilongjiang,Harbin ,Pingfang,150000
+1113,Heilongjiang,Harbin ,Hulan,150500
+1114,Heilongjiang,Harbin ,Fangzheng,150800
+1115,Heilongjiang,Harbin ,Mulan,151900
+1116,Heilongjiang,Harbin ,Shuangcheng,150100
+1117,Heilongjiang,Harbin ,Daowai,150000
+1118,Heilongjiang,Harbin ,Songbei,150000
+1119,Heilongjiang,Harbin ,Acheng,150300
+1120,Heilongjiang,Harbin ,Binxian,150400
+1121,Heilongjiang,Harbin ,Tonghe,150900
+1122,Heilongjiang,Harbin ,Shangzhi,150600
+1123,Heilongjiang,Daqing ,Saertu,163000
+1124,Heilongjiang,Daqing ,Honggang,163000
+1125,Heilongjiang,Daqing ,Zhaoyuan,166500
+1126,Heilongjiang,Daqing ,Longfeng,163000
+1127,Heilongjiang,Daqing ,Datong,163000
+1128,Heilongjiang,Daqing ,Lindian,166300
+1129,Heilongjiang,Daqing ,Ranghulu,163000
+1130,Heilongjiang,Daqing ,Zhaozhou,166400
+1131,Heilongjiang,Daqing ,Duerbote,166200
+1132,Heilongjiang,Qiqihar ,Longsha,161000
+1133,Heilongjiang,Qiqihar ,Ang'angxi,161000
+1134,Heilongjiang,Qiqihar ,Meilisi,161000
+1135,Heilongjiang,Qiqihar ,Tailai,162400
+1136,Heilongjiang,Qiqihar ,Keshan,161600
+1137,Heilongjiang,Qiqihar ,Nahe,161300
+1138,Heilongjiang,Qiqihar ,Jianhua,161000
+1139,Heilongjiang,Qiqihar ,Fularji,161000
+1140,Heilongjiang,Qiqihar ,Longjiang,161100
+1141,Heilongjiang,Qiqihar ,Gannan,162100
+1142,Heilongjiang,Qiqihar ,Kedong,164800
+1143,Heilongjiang,Qiqihar ,Tiefeng,161000
+1144,Heilongjiang,Qiqihar ,Nianzishan,161000
+1145,Heilongjiang,Qiqihar ,Yi'an,161500
+1146,Heilongjiang,Qiqihar ,Fuyu,161200
+1147,Heilongjiang,Qiqihar ,Baiquan,164700
+1148,Heilongjiang,Jixi ,Jiguan,158100
+1149,Heilongjiang,Jixi ,Lishu,158100
+1150,Heilongjiang,Jixi ,Jidong,158200
+1151,Heilongjiang,Jixi ,Hengshan,158100
+1152,Heilongjiang,Jixi ,Chengzihe,158100
+1153,Heilongjiang,Jixi ,Hulin,158400
+1154,Heilongjiang,Jixi ,Didao,158100
+1155,Heilongjiang,Jixi ,Mashan,158100
+1156,Heilongjiang,Jixi ,Mishan,158300
+1157,Heilongjiang,Yichun ,Yichun,153000
+1158,Heilongjiang,Yichun ,Xilin,153000
+1159,Heilongjiang,Yichun ,Meixi,153000
+1160,Heilongjiang,Yichun ,Wumahe,153000
+1161,Heilongjiang,Yichun ,Wuyiling,153000
+1162,Heilongjiang,Yichun ,Jiayin,153200
+1163,Heilongjiang,Yichun ,Nancha,153000
+1164,Heilongjiang,Yichun ,Cuiluan,153000
+1165,Heilongjiang,Yichun ,Jinshantun,153000
+1166,Heilongjiang,Yichun ,Tangwanghe,153000
+1167,Heilongjiang,Yichun ,Hongxing,153000
+1168,Heilongjiang,Yichun ,Tieli,152500
+1169,Heilongjiang,Yichun ,Youhao,153000
+1170,Heilongjiang,Yichun ,Xinqing,153000
+1171,Heilongjiang,Yichun ,Wuying,153000
+1172,Heilongjiang,Yichun ,Dailing,153000
+1173,Heilongjiang,Yichun ,Shangganling,153000
+1174,Heilongjiang,Hegang ,Xiangyang,154100
+1175,Heilongjiang,Hegang ,Xing'an,154100
+1176,Heilongjiang,Hegang ,Luobei,154200
+1177,Heilongjiang,Hegang ,Gongnong,154100
+1178,Heilongjiang,Hegang ,Dongshan,154100
+1179,Heilongjiang,Hegang ,Suibin,156200
+1180,Heilongjiang,Hegang ,Nanshan,154100
+1181,Heilongjiang,Hegang ,Xingshan,154100
+1182,Heilongjiang,Shuangyashan ,Jianshan,155100
+1183,Heilongjiang,Shuangyashan ,Baoshan,155100
+1184,Heilongjiang,Shuangyashan ,Baoqing,155600
+1185,Heilongjiang,Shuangyashan ,Lingdong,155100
+1186,Heilongjiang,Shuangyashan ,Jixian,155900
+1187,Heilongjiang,Shuangyashan ,Raohe,155700
+1188,Heilongjiang,Shuangyashan ,Sifangtai,155100
+1189,Heilongjiang,Shuangyashan ,Youyi,155800
+1190,Heilongjiang,Jiamusi,Xiangyang,154000
+1191,Heilongjiang,Jiamusi,Huanan,154400
+1192,Heilongjiang,Jiamusi,Fuyuan,156500
+1193,Heilongjiang,Jiamusi,Qianjin,154000
+1194,Heilongjiang,Jiamusi,Huachuan,154300
+1195,Heilongjiang,Jiamusi,Tongjiang,156400
+1196,Heilongjiang,Jiamusi,Dongfeng,154000
+1197,Heilongjiang,Jiamusi,Tangyuan,154700
+1198,Heilongjiang,Jiamusi,Fujin,156100
+1199,Heilongjiang,Qitaihe ,Xinxing,154600
+1200,Heilongjiang,Qitaihe ,Boli,154500
+1201,Heilongjiang,Qitaihe ,Taoshan,154600
+1202,Heilongjiang,Qitaihe ,Qiezihe,154600
+1203,Heilongjiang,Mudanjiang ,Dong'an,157000
+1204,Heilongjiang,Mudanjiang ,Xi'an,157000
+1205,Heilongjiang,Mudanjiang ,Suifenhe,157300
+1206,Heilongjiang,Mudanjiang ,Muling,157500
+1207,Heilongjiang,Mudanjiang ,Yangming,157000
+1208,Heilongjiang,Mudanjiang ,Dongning,157200
+1209,Heilongjiang,Mudanjiang ,Hailin,157100
+1210,Heilongjiang,Mudanjiang ,Aimin,157000
+1211,Heilongjiang,Mudanjiang ,Linkou,157600
+1212,Heilongjiang,Mudanjiang ,Ning'an,157400
+1213,Heilongjiang,Heihe ,Aihui,164300
+1214,Heilongjiang,Heihe ,Sunwu,164200
+1215,Heilongjiang,Heihe ,Nenjiang,161400
+1216,Heilongjiang,Heihe ,Beian,164000
+1217,Heilongjiang,Heihe ,Xunke,164400
+1218,Heilongjiang,Heihe ,Wudalianchi,164100
+1219,Heilongjiang,Suihua,Beilin,152000
+1220,Heilongjiang,Suihua,Qinggang,151600
+1221,Heilongjiang,Suihua,Suiling,152200
+1222,Heilongjiang,Suihua,Hailun,152300
+1223,Heilongjiang,Suihua,Wangkui,152100
+1224,Heilongjiang,Suihua,,152400
+1225,Heilongjiang,Suihua,Anda,151400
+1226,Heilongjiang,Suihua,Lanxi,151500
+1227,Heilongjiang,Suihua,Mingshui,151700
+1228,Heilongjiang,Suihua,Zhaodong,151100
+1229,Heilongjiang,Daxing'anling,Jagdaqi,165000
+1230,Heilongjiang,Daxing'anling,Mohe,165300
+1231,Heilongjiang,Daxing'anling,Huma,165100
+1232,Heilongjiang,Daxing'anling,Tahe,165200
+1233,Hunan,Changsha ,Furong District,410000
+1234,Hunan,Changsha ,Kaifu,410000
+1235,Hunan,Changsha ,Wangcheng,410200
+1236,Hunan,Changsha ,Tianxin District,410000
+1237,Hunan,Changsha ,Yuhua,410000
+1238,Hunan,Changsha ,Ningxiang,410600
+1239,Hunan,Changsha ,Yuelu,410000
+1240,Hunan,Changsha ,Changsha,410100
+1241,Hunan,Changsha ,Liuyang,410300
+1242,Hunan,Zhuzhou ,Hetang,412000
+1243,Hunan,Zhuzhou ,Tianyuan,412000
+1244,Hunan,Zhuzhou ,Chaling,412400
+1245,Hunan,Zhuzhou ,Lusong,412000
+1246,Hunan,Zhuzhou ,Zhuzhou,412000
+1247,Hunan,Zhuzhou ,Yanling,412500
+1248,Hunan,Zhuzhou ,Shifeng,412000
+1249,Hunan,Zhuzhou ,Youxian,412300
+1250,Hunan,Zhuzhou ,Liling,412200
+1251,Hunan,Xiangtan ,Yuhu,411100
+1252,Hunan,Xiangtan ,Xiangxiang,411400
+1253,Hunan,Xiangtan ,Yuetang,411100
+1254,Hunan,Xiangtan ,Shaoshan,411300
+1255,Hunan,Xiangtan ,Xiangtan,411200
+1256,Hunan,Hengyang ,Zhuhui,421000
+1257,Hunan,Hengyang ,Zhengxiang,421000
+1258,Hunan,Hengyang ,Hengnan,421100
+1259,Hunan,Hengyang ,Qidong,421600
+1260,Hunan,Hengyang ,Yanfeng,421000
+1261,Hunan,Hengyang ,Nanyue,421000
+1262,Hunan,Hengyang ,Hengshan,421300
+1263,Hunan,Hengyang ,Leiyang,421800
+1264,Hunan,Hengyang ,Shigu,421000
+1265,Hunan,Hengyang ,Hengyang,421200
+1266,Hunan,Hengyang ,Hengdong,421400
+1267,Hunan,Hengyang ,Changning,421500
+1268,Hunan,Shaoyang ,Shuangqing,422000
+1269,Hunan,Shaoyang ,Shaodong,422800
+1270,Hunan,Shaoyang ,Longhui,422200
+1271,Hunan,Shaoyang ,Xinning,422700
+1272,Hunan,Shaoyang ,Daxiang,422000
+1273,Hunan,Shaoyang ,Xinshao,422900
+1274,Hunan,Shaoyang ,Dongkou,422300
+1275,Hunan,Shaoyang ,Chengbu,422500
+1276,Hunan,Shaoyang ,Beita,422000
+1277,Hunan,Shaoyang ,Shaoyang,422100
+1278,Hunan,Shaoyang ,Suining,422600
+1279,Hunan,Shaoyang ,Wugang,422400
+1280,Hunan,Yueyang ,Yueyanglou,414000
+1281,Hunan,Yueyang ,Yueyang,414100
+1282,Hunan,Yueyang ,Pingjiang,410400
+1283,Hunan,Yueyang ,Yunxi,414000
+1284,Hunan,Yueyang ,Huarong,414200
+1285,Hunan,Yueyang ,Miluo,414400
+1286,Hunan,Yueyang ,Junshan,414000
+1287,Hunan,Yueyang ,Xiangyin,410500
+1288,Hunan,Yueyang ,Linxiang,414300
+1289,Hunan,Changde ,Wuling,415000
+1290,Hunan,Changde ,Hanshou,415900
+1291,Hunan,Changde ,Taoyuan,415700
+1292,Hunan,Changde ,Dingcheng,415100
+1293,Hunan,Changde ,Lixian,415500
+1294,Hunan,Changde ,Shimen,415300
+1295,Hunan,Changde ,Anxiang,415600
+1296,Hunan,Changde ,Linli,415200
+1297,Hunan,Changde ,Jinshi,415400
+1298,Hunan,Yiyang ,Ziyang,413000
+1299,Hunan,Yiyang ,Taojiang,413400
+1300,Hunan,Yiyang ,Heshan,413000
+1301,Hunan,Yiyang ,Anhua,413500
+1302,Hunan,Yiyang ,Nanxian,413200
+1303,Hunan,Yiyang ,Yuanjiang,413100
+1304,Hunan,Zhangjiajie ,Yongding,427000
+1305,Hunan,Zhangjiajie ,Sangzhi,427100
+1306,Hunan,Zhangjiajie ,Wulingyuan,427400
+1307,Hunan,Zhangjiajie ,Cili,427200
+1308,Hunan,Chenzhou ,Beihu,423000
+1309,Hunan,Chenzhou ,Yizhang,424200
+1310,Hunan,Chenzhou ,Linwu,424300
+1311,Hunan,Chenzhou ,Anren,423600
+1312,Hunan,Chenzhou ,Suxian,423000
+1313,Hunan,Chenzhou ,Yongxing,423300
+1314,Hunan,Chenzhou ,Rucheng,424100
+1315,Hunan,Chenzhou ,Zixing,423400
+1316,Hunan,Chenzhou ,Guiyang,424400
+1317,Hunan,Chenzhou ,Jiahe,424500
+1318,Hunan,Chenzhou ,Guidong,423500
+1319,Hunan,Yongzhou ,Lingling,425000
+1320,Hunan,Yongzhou ,Dong'an,425900
+1321,Hunan,Yongzhou ,Jiangyong,425400
+1322,Hunan,Yongzhou ,Xintian,425700
+1323,Hunan,Yongzhou ,Lengshuitan,425000
+1324,Hunan,Yongzhou ,Shuangpai,425200
+1325,Hunan,Yongzhou ,Ningyuan,425600
+1326,Hunan,Yongzhou ,Jianghua,425500
+1327,Hunan,Yongzhou ,Qiyang,426100
+1328,Hunan,Yongzhou ,Daoxian,425300
+1329,Hunan,Yongzhou ,Lanshan,425800
+1330,Hunan,Huaihua ,Hecheng,418000
+1331,Hunan,Huaihua ,Chenxi,419500
+1332,Hunan,Huaihua ,Mayang,419400
+1333,Hunan,Huaihua ,Jingzhou,418400
+1334,Hunan,Huaihua ,Zhongfang,418000
+1335,Hunan,Huaihua ,Xupu,419300
+1336,Hunan,Huaihua ,Xinhuang,419200
+1337,Hunan,Huaihua ,Tongdao,418500
+1338,Hunan,Huaihua ,Yaunling,419600
+1339,Hunan,Huaihua ,Huitong,418300
+1340,Hunan,Huaihua ,Zhijiang,419100
+1341,Hunan,Huaihua ,Hongjiang,418200
+1342,Hunan,Loudi,Louxing,417000
+1343,Hunan,Loudi,Lengshuijiang,417500
+1344,Hunan,Loudi,Shuangfeng,417700
+1345,Hunan,Loudi,Lianyuan,417100
+1346,Hunan,Loudi,Xinhua,417600
+1347,Hunan,Xiangxi,Jishou,416000
+1348,Hunan,Xiangxi,Huayuan,416400
+1349,Hunan,Xiangxi,Yongshun,416700
+1350,Hunan,Xiangxi,Luxi,416100
+1351,Hunan,Xiangxi,Baojing,416500
+1352,Hunan,Xiangxi,Longshan,416800
+1353,Hunan,Xiangxi,Fenghuang,416200
+1354,Hunan,Xiangxi,Guzhang,416300
+1355,Jilin,Changchun ,Nanguan,130000
+1356,Jilin,Changchun ,Erdao,130000
+1357,Jilin,Changchun ,Nong'an,130200
+1358,Jilin,Changchun ,Dehui,130300
+1359,Jilin,Changchun ,Kuancheng,130000
+1360,Jilin,Changchun ,Lvyuan,130000
+1361,Jilin,Changchun ,Jiutai,130500
+1362,Jilin,Changchun ,Chaoyang,130000
+1363,Jilin,Changchun ,Shuangyang,130600
+1364,Jilin,Changchun ,Yushu,130400
+1365,Jilin,Jilin ,Changyi,132000
+1366,Jilin,Jilin ,Fengman,132000
+1367,Jilin,Jilin ,Huadian,132400
+1368,Jilin,Jilin ,Longtan,132000
+1369,Jilin,Jilin ,Yongji,132100
+1370,Jilin,Jilin ,Shulan,132600
+1371,Jilin,Jilin ,Chuanying,132000
+1372,Jilin,Jilin ,Jiaohe,132500
+1373,Jilin,Jilin ,Panshi,132300
+1374,Jilin,Siping ,Tiexi,136000
+1375,Jilin,Siping ,Yitong,130700
+1376,Jilin,Siping ,Tiedong,136000
+1377,Jilin,Siping ,Gongzhuling,136100
+1378,Jilin,Siping ,Lishu,136500
+1379,Jilin,Siping ,Shuangliao,136400
+1380,Jilin,Liaoyuan ,Longshan,136200
+1381,Jilin,Liaoyuan ,Dongliao,136600
+1382,Jilin,Liaoyuan ,Xi'an,136200
+1383,Jilin,Liaoyuan ,Dongfeng,136300
+1384,Jilin,Tonghua ,Dongchang,134000
+1385,Jilin,Tonghua ,Huinan,135100
+1386,Jilin,Tonghua ,Jian,134200
+1387,Jilin,Tonghua ,Erdaojiang,134000
+1388,Jilin,Tonghua ,Liuhe,135300
+1389,Jilin,Tonghua ,Tonghua,134100
+1390,Jilin,Tonghua ,Meihekou,135000
+1391,Jilin,Baishan ,Badaojiang,134300
+1392,Jilin,Baishan ,Jingyu,134200
+1393,Jilin,Baishan ,Jiangyuan District,134700
+1394,Jilin,Baishan ,Changbai Chaoxian,134400
+1395,Jilin,Baishan ,Fusong,134500
+1396,Jilin,Baishan ,Linjiang,134600
+1397,Jilin,Songyuan ,Ningjiang,138000
+1398,Jilin,Songyuan ,Qian'an,131400
+1399,Jilin,Songyuan ,Qianguoerluosi,131100
+1400,Jilin,Songyuan ,Fuyu,131200
+1401,Jilin,Songyuan ,Changling,131500
+1402,Jilin,Baicheng ,Taobei,137000
+1403,Jilin,Baicheng ,Taonan,137100
+1404,Jilin,Baicheng ,Zhenlai,137300
+1405,Jilin,Baicheng ,Daan,131300
+1406,Jilin,Baicheng ,Tongyu,137200
+1407,Jilin,Yanbian,Yanji,133000
+1408,Jilin,Yanbian,Huichun,133300
+1409,Jilin,Yanbian,Wangqing,133200
+1410,Jilin,Yanbian,Tumen,133100
+1411,Jilin,Yanbian,Longjing,133400
+1412,Jilin,Yanbian,Antu,133600
+1413,Jilin,Yanbian,Dunhua,133700
+1414,Jilin,Yanbian,Helong,133500
+1415,Jiangsu,Nanjing ,Xuanwu,210000
+1416,Jiangsu,Nanjing ,Jianye,210000
+1417,Jiangsu,Nanjing ,Pukou,210000
+1418,Jiangsu,Nanjing ,Jiangning,211100
+1419,Jiangsu,Nanjing ,Gaochun,211300
+1420,Jiangsu,Nanjing ,Baixia,210000
+1421,Jiangsu,Nanjing ,Gulou,210000
+1422,Jiangsu,Nanjing ,Qixia,210000
+1423,Jiangsu,Nanjing ,Liuhe,211500
+1424,Jiangsu,Nanjing ,Qinhuai,210000
+1425,Jiangsu,Nanjing ,Xiaguan,210000
+1426,Jiangsu,Nanjing ,Yuhuatai,210000
+1427,Jiangsu,Nanjing ,Lishui,211200
+1428,Jiangsu,Suzhou ,Canglang,215000
+1429,Jiangsu,Suzhou ,Huqiu,215000
+1430,Jiangsu,Suzhou ,Changshu,215500
+1431,Jiangsu,Suzhou ,Wujiang,215200
+1432,Jiangsu,Suzhou ,Pingjiang,215000
+1433,Jiangsu,Suzhou ,Wuzhong,215100
+1434,Jiangsu,Suzhou ,Zhangjiagang,215600
+1435,Jiangsu,Suzhou ,Taicang,215400
+1436,Jiangsu,Suzhou ,Jinchang,215000
+1437,Jiangsu,Suzhou ,Xiangcheng,215100
+1438,Jiangsu,Suzhou ,Kunshan,215300
+1439,Jiangsu,Wuxi,Chong'an,214000
+1440,Jiangsu,Wuxi,Xishan,214000
+1441,Jiangsu,Wuxi,Yixing,214200
+1442,Jiangsu,Wuxi,Nanchang,214000
+1443,Jiangsu,Wuxi,Huishan,214000
+1444,Jiangsu,Wuxi,Beitang,214000
+1445,Jiangsu,Wuxi,Jiangyin,214400
+1446,Jiangsu,Xuzhou ,Gulou,221000
+1447,Jiangsu,Xuzhou ,Jiawang,221000
+1448,Jiangsu,Xuzhou ,Peixian,221600
+1449,Jiangsu,Xuzhou ,Xinyi,221400
+1450,Jiangsu,Xuzhou ,Yunlong,221000
+1451,Jiangsu,Xuzhou ,Quanshan,221000
+1452,Jiangsu,Xuzhou ,Tongshan,221100
+1453,Jiangsu,Xuzhou ,Pizhou,221300
+1454,Jiangsu,Xuzhou ,Jiuli,221000
+1455,Jiangsu,Xuzhou ,Fengxian,221700
+1456,Jiangsu,Xuzhou ,Suining,221200
+1457,Jiangsu,Changzhou ,Tianning,213000
+1458,Jiangsu,Changzhou ,Wujin,213100
+1459,Jiangsu,Changzhou ,Zhonglou,213000
+1460,Jiangsu,Changzhou ,Liyang,213300
+1461,Jiangsu,Changzhou ,Qishuyan,213000
+1462,Jiangsu,Changzhou ,Jintan,213200
+1463,Jiangsu,Nantong ,Chongchuan,226000
+1464,Jiangsu,Nantong ,Haian,226600
+1465,Jiangsu,Nantong ,Rugao,226500
+1466,Jiangsu,Nantong ,Gangzha,226000
+1467,Jiangsu,Nantong ,Rudong,226400
+1468,Jiangsu,Nantong ,Haimen,226100
+1469,Jiangsu,Nantong ,Tongzhou,226300
+1470,Jiangsu,Nantong ,Qidong,226200
+1471,Jiangsu,Lianyungang ,Lianyun,222000
+1472,Jiangsu,Lianyungang ,Ganyu,222100
+1473,Jiangsu,Lianyungang ,Guannan,223500
+1474,Jiangsu,Lianyungang ,Xinpu,222000
+1475,Jiangsu,Lianyungang ,Donghai,222300
+1476,Jiangsu,Lianyungang ,Haizhou,222000
+1477,Jiangsu,Lianyungang ,Guanyun,222200
+1478,Jiangsu,Huaian ,Qinghe,223001
+1479,Jiangsu,Huaian ,Qingpu,223001
+1480,Jiangsu,Huaian ,Xuyi,211700
+1481,Jiangsu,Huaian ,Chuzhou,223200
+1482,Jiangsu,Huaian ,Lianshui,223400
+1483,Jiangsu,Huaian ,Jinhu,211600
+1484,Jiangsu,Huaian ,Huaiyin,223300
+1485,Jiangsu,Huaian ,Hongze,223100
+1486,Jiangsu,Yancheng ,Yandu,224000
+1487,Jiangsu,Yancheng ,Funing,224400
+1488,Jiangsu,Yancheng ,Dongtai,224200
+1489,Jiangsu,Yancheng ,Xiangshui,224600
+1490,Jiangsu,Yancheng ,Sheyang,224300
+1491,Jiangsu,Yancheng ,Dafeng,224100
+1492,Jiangsu,Yancheng ,Binhai,224000
+1493,Jiangsu,Yancheng ,Jianhu,224700
+1494,Jiangsu,Yangzhou ,Guangling,225000
+1495,Jiangsu,Yangzhou ,Yizheng,211400
+1496,Jiangsu,Yangzhou ,Hanjiang,225100
+1497,Jiangsu,Yangzhou ,Gaoyou,225600
+1498,Jiangsu,Yangzhou ,Baoying,225800
+1499,Jiangsu,Yangzhou ,Jiangdu,225200
+1500,Jiangsu,Zhenjiang,Jingkou,212000
+1501,Jiangsu,Zhenjiang,Danyang,212300
+1502,Jiangsu,Zhenjiang,Runzhou,212000
+1503,Jiangsu,Zhenjiang,Yangzhong,212200
+1504,Jiangsu,Zhenjiang,Dantu,212100
+1505,Jiangsu,Zhenjiang,Jurong,212400
+1506,Jiangsu,Taizhou ,Hailing,225300
+1507,Jiangsu,Taizhou ,Jingjiang,214500
+1508,Jiangsu,Taizhou ,Gaogang,225300
+1509,Jiangsu,Taizhou ,Taixing,225400
+1510,Jiangsu,Taizhou ,Xinghua,225700
+1511,Jiangsu,Taizhou ,Jiangyan,225500
+1512,Jiangsu,Suqian,Sucheng,223800
+1513,Jiangsu,Suqian,Siyang,223700
+1514,Jiangsu,Suqian,Suyu,223800
+1515,Jiangsu,Suqian,Sihong,223900
+1516,Jiangsu,Suqian,Shuyang,223600
+1517,Jiangxi,Nanchang ,Donghu,330000
+1518,Jiangxi,Nanchang ,Wanli,330000
+1519,Jiangxi,Nanchang ,Anyi,330500
+1520,Jiangxi,Nanchang ,Xihu,330000
+1521,Jiangxi,Nanchang ,Nanchang,330200
+1522,Jiangxi,Nanchang ,Jinxian,331700
+1523,Jiangxi,Nanchang ,Qingyunpu,330000
+1524,Jiangxi,Nanchang ,Xinjian,330100
+1525,Jiangxi,Jingdezhen ,Changjiang,333000
+1526,Jiangxi,Jingdezhen ,Leping,333000
+1527,Jiangxi,Jingdezhen ,Zhushan,333000
+1528,Jiangxi,Jingdezhen ,Fuliang,333400
+1529,Jiangxi,Pingxiang ,Anyuan,337000
+1530,Jiangxi,Pingxiang ,Shangli,337000
+1531,Jiangxi,Pingxiang ,Xiangdong,337000
+1532,Jiangxi,Pingxiang ,Luxi,337000
+1533,Jiangxi,Pingxiang ,Lianhua,337100
+1534,Jiangxi,Jiujiang ,Lushan,332900
+1535,Jiangxi,Jiujiang ,Wuning,332300
+1536,Jiangxi,Jiujiang ,Dean,330400
+1537,Jiangxi,Jiujiang ,Hukou,332500
+1538,Jiangxi,Jiujiang ,Xunyang,332000
+1539,Jiangxi,Jiujiang ,Xiushui,332400
+1540,Jiangxi,Jiujiang ,Xingzi,332800
+1541,Jiangxi,Jiujiang ,Pengze,332700
+1542,Jiangxi,Jiujiang ,Jiujiang,332100
+1543,Jiangxi,Jiujiang ,Yongxiu,330300
+1544,Jiangxi,Jiujiang ,Duchang,332600
+1545,Jiangxi,Jiujiang ,Ruichang,332200
+1546,Jiangxi,Xinyu ,Yushui,338000
+1547,Jiangxi,Xinyu ,Fenyi,336600
+1548,Jiangxi,Yingtan ,Yuehu,335000
+1549,Jiangxi,Yingtan ,Yujiang,335200
+1550,Jiangxi,Yingtan ,Guixi,335400
+1551,Jiangxi,Ganzhou ,Zhanggong,341000
+1552,Jiangxi,Ganzhou ,Dayu,341500
+1553,Jiangxi,Ganzhou ,Anyuan,342100
+1554,Jiangxi,Ganzhou ,Quannan,341800
+1555,Jiangxi,Ganzhou ,Xingguo,342400
+1556,Jiangxi,Ganzhou ,Shicheng,342700
+1557,Jiangxi,Ganzhou ,Ganxian,341100
+1558,Jiangxi,Ganzhou ,Shangyou,341200
+1559,Jiangxi,Ganzhou ,Longnan,341700
+1560,Jiangxi,Ganzhou ,Ningdu,342800
+1561,Jiangxi,Ganzhou ,Huichang,342600
+1562,Jiangxi,Ganzhou ,Ruijin,342500
+1563,Jiangxi,Ganzhou ,Xinfeng,341600
+1564,Jiangxi,Ganzhou ,Chongyi,341300
+1565,Jiangxi,Ganzhou ,Dingnan,341900
+1566,Jiangxi,Ganzhou ,Yudu,342300
+1567,Jiangxi,Ganzhou ,Xunwu,342200
+1568,Jiangxi,Ganzhou ,Nankang,341400
+1569,Jiangxi,Ji'an ,Jizhou,343000
+1570,Jiangxi,Ji'an ,Jishui,331600
+1571,Jiangxi,Ji'an ,Yongfeng,331500
+1572,Jiangxi,Ji'an ,Wan'an,343800
+1573,Jiangxi,Ji'an ,Jinggangshan,343600
+1574,Jiangxi,Ji'an ,Qingyuan District,343000
+1575,Jiangxi,Ji'an ,Xiajiang,331400
+1576,Jiangxi,Ji'an ,Taihe,343700
+1577,Jiangxi,Ji'an ,Anfu,343200
+1578,Jiangxi,Ji'an ,Ji'an,343100
+1579,Jiangxi,Ji'an ,Xingan,331300
+1580,Jiangxi,Ji'an ,Suichuan,343900
+1581,Jiangxi,Ji'an ,Yongxin,343400
+1582,Jiangxi,Yichun ,Yuanzhou,336000
+1583,Jiangxi,Yichun ,Shanggao,336400
+1584,Jiangxi,Yichun ,Tonggu,336200
+1585,Jiangxi,Yichun ,Gaoan,330800
+1586,Jiangxi,Yichun ,Fengxin,330700
+1587,Jiangxi,Yichun ,Yifeng,336300
+1588,Jiangxi,Yichun ,Fengcheng,331100
+1589,Jiangxi,Yichun ,Wanzai,336100
+1590,Jiangxi,Yichun ,Jing'an,330600
+1591,Jiangxi,Yichun ,Zhangshu,331200
+1592,Jiangxi,Fuzhou ,Linchuan,344100
+1593,Jiangxi,Fuzhou ,Nanfeng,344500
+1594,Jiangxi,Fuzhou ,Yihuang,344400
+1595,Jiangxi,Fuzhou ,Dongxiang,331800
+1596,Jiangxi,Fuzhou ,Nancheng,344700
+1597,Jiangxi,Fuzhou ,Chongren,344200
+1598,Jiangxi,Fuzhou ,Jinxi,344800
+1599,Jiangxi,Fuzhou ,Guangchang,344900
+1600,Jiangxi,Fuzhou ,Lichuan,344600
+1601,Jiangxi,Fuzhou ,Le'an,344300
+1602,Jiangxi,Fuzhou ,Zixi,335300
+1603,Jiangxi,Shangrao ,Xinzhou,334000
+1604,Jiangxi,Shangrao ,Yushan,334700
+1605,Jiangxi,Shangrao ,Yiyang,334400
+1606,Jiangxi,Shangrao ,Wannian,335500
+1607,Jiangxi,Shangrao ,Shangrao,334100
+1608,Jiangxi,Shangrao ,Qianshan,334500
+1609,Jiangxi,Shangrao ,Yugan,335100
+1610,Jiangxi,Shangrao ,Wuyuan,333200
+1611,Jiangxi,Shangrao ,Guangfeng,334600
+1612,Jiangxi,Shangrao ,Hengfeng,334300
+1613,Jiangxi,Shangrao ,Poyang,333100
+1614,Jiangxi,Shangrao ,Dexing,334200
+1615,Liaoning,Shenyang ,Heping,110000
+1616,Liaoning,Shenyang ,Huanggu,110000
+1617,Liaoning,Shenyang ,Dongling,110000
+1618,Liaoning,Shenyang ,Liaozhong,110200
+1619,Liaoning,Shenyang ,Xinmin,110300
+1620,Liaoning,Shenyang ,Shenhe,110000
+1621,Liaoning,Shenyang ,Tiexi,110020
+1622,Liaoning,Shenyang ,Shenbei,110000
+1623,Liaoning,Shenyang ,Kangping,110500
+1624,Liaoning,Shenyang ,Dadong,110000
+1625,Liaoning,Shenyang ,Sujiatun,110100
+1626,Liaoning,Shenyang ,Yuhong,110000
+1627,Liaoning,Shenyang ,Faku,110400
+1628,Liaoning,Dalian ,Zhongshan,116000
+1629,Liaoning,Dalian ,Ganjingzi,116000
+1630,Liaoning,Dalian ,Changhai,116500
+1631,Liaoning,Dalian ,Zhuanghe,116400
+1632,Liaoning,Dalian ,Xigang,116000
+1633,Liaoning,Dalian ,Lvshunkou,116000
+1634,Liaoning,Dalian ,Wafangdian,116300
+1635,Liaoning,Dalian ,Shahekou,116000
+1636,Liaoning,Dalian ,Jinzhou,116000
+1637,Liaoning,Dalian ,Pulandian,116200
+1638,Liaoning,Anshan ,Tiedong,114000
+1639,Liaoning,Anshan ,Qianshan,114000
+1640,Liaoning,Anshan ,Haicheng,114200
+1641,Liaoning,Anshan ,Tiexi,114000
+1642,Liaoning,Anshan ,Taian,114100
+1643,Liaoning,Anshan ,Lishan,114000
+1644,Liaoning,Anshan ,Xiuyan,114300
+1645,Liaoning,Fushun ,Xinfu,113000
+1646,Liaoning,Fushun ,Shuncheng,113000
+1647,Liaoning,Fushun ,Qingyuan,113300
+1648,Liaoning,Fushun ,Dongzhou,113000
+1649,Liaoning,Fushun ,Fushun,113100
+1650,Liaoning,Fushun ,Wanghua,113000
+1651,Liaoning,Fushun ,Xinbin,113200
+1652,Liaoning,Benxi ,Pingshan,117000
+1653,Liaoning,Benxi ,Nanfen,117000
+1654,Liaoning,Benxi ,Xihu,117000
+1655,Liaoning,Benxi ,Benxi,117100
+1656,Liaoning,Benxi ,Mingshan,117000
+1657,Liaoning,Benxi ,Huanren,117200
+1658,Liaoning,Dandong ,Yuanbao,118000
+1659,Liaoning,Dandong ,Kuandian Man,118200
+1660,Liaoning,Dandong ,Zhenxing,118000
+1661,Liaoning,Dandong ,Donggang,118300
+1662,Liaoning,Dandong ,Zhen'an,118000
+1663,Liaoning,Dandong ,Fengcheng,118100
+1664,Liaoning,Jinzhou ,Guta,121000
+1665,Liaoning,Jinzhou ,Heishan,121400
+1666,Liaoning,Jinzhou ,Beizhen,121300
+1667,Liaoning,Jinzhou ,Linghe,121000
+1668,Liaoning,Jinzhou ,Yixian,121100
+1669,Liaoning,Jinzhou ,Taihe,121000
+1670,Liaoning,Jinzhou ,Linghai,121200
+1671,Liaoning,Yingkou ,Zhanqian,115000
+1672,Liaoning,Yingkou ,Laobian,115000
+1673,Liaoning,Yingkou ,Xishi,115000
+1674,Liaoning,Yingkou ,Gaizhou,115200
+1675,Liaoning,Yingkou ,Bayuquan,115007
+1676,Liaoning,Yingkou ,Dashiqiao,115100
+1677,Liaoning,Fuxin ,Haizhou,123000
+1678,Liaoning,Fuxin ,Qinghemen,123000
+1679,Liaoning,Fuxin ,Zhangwu,123200
+1680,Liaoning,Fuxin ,Xinqiu,123000
+1681,Liaoning,Fuxin ,Xihe,123000
+1682,Liaoning,Fuxin ,Fuxin Mongolian,123100
+1683,Liaoning,Fuxin ,Taiping,123000
+1684,Liaoning,Liaoyang ,Baita,111000
+1685,Liaoning,Liaoyang ,Gongchangling,111000
+1686,Liaoning,Liaoyang ,Dengta,111300
+1687,Liaoning,Liaoyang ,Wensheng,111000
+1688,Liaoning,Liaoyang ,Taizihe,111000
+1689,Liaoning,Liaoyang ,Hongwei,111000
+1690,Liaoning,Liaoyang ,Liaoyang,111200
+1691,Liaoning,Panjin ,Shuangtaizi,124000
+1692,Liaoning,Panjin ,Panshan,124100
+1693,Liaoning,Panjin ,Xinglongtai,124000
+1694,Liaoning,Panjin ,Dawa,124200
+1695,Liaoning,Tieling ,Yinzhou,112000
+1696,Liaoning,Tieling ,Xifeng,112400
+1697,Liaoning,Tieling ,Kaiyuan,112300
+1698,Liaoning,Tieling ,Qinhe,112000
+1699,Liaoning,Tieling ,Changtu,112500
+1700,Liaoning,Tieling ,Tieling,112600
+1701,Liaoning,Tieling ,Diaobingshan,112700
+1702,Liaoning,Chaoyang ,Shuangta,122000
+1703,Liaoning,Chaoyang ,Jianping,122400
+1704,Liaoning,Chaoyang ,Lingyuan,122500
+1705,Liaoning,Chaoyang ,Longcheng,122000
+1706,Liaoning,Chaoyang ,Kalaqin,122300
+1707,Liaoning,Chaoyang ,Chaoyang,122000
+1708,Liaoning,Chaoyang ,Beipiao,122100
+1709,Liaoning,Huludao,Lianshan,125000
+1710,Liaoning,Huludao,Suizhong,125200
+1711,Liaoning,Huludao,Longgang,125000
+1712,Liaoning,Huludao,Jianchang,125300
+1713,Liaoning,Huludao,Nanpiao,125000
+1714,Liaoning,Huludao,Xingcheng,125100
+1715,Macau,Macau,Macau,No zip code
+1716,Ningxia,Yinchuan ,Xingqing,750000
+1717,Ningxia,Yinchuan ,Xixia,750000
+1718,Ningxia,Yinchuan ,Jingfeng,750000
+1719,Ningxia,Yinchuan ,Yongning,750100
+1720,Ningxia,Yinchuan ,Helan,750200
+1721,Ningxia,Yinchuan ,Lingwu,751400
+1722,Ningxia,Shizuishan ,Dawukou,753000
+1723,Ningxia,Shizuishan ,Huinong,753600
+1724,Ningxia,Shizuishan ,Pingluo,753400
+1725,Ningxia,Wuzhong ,Litong,751100
+1726,Ningxia,Wuzhong ,Hongsibu,751100
+1727,Ningxia,Wuzhong ,Yanchi,751500
+1728,Ningxia,Wuzhong ,Tongxin,751300
+1729,Ningxia,Wuzhong ,Qingtongxia,751600
+1730,Ningxia,Guyuan ,Yuanzhou District,756000
+1731,Ningxia,Guyuan ,Xiji,756200
+1732,Ningxia,Guyuan ,Longde County,756300
+1733,Ningxia,Guyuan ,Jingyuan County,756400
+1734,Ningxia,Guyuan ,Pengyang,756500
+1735,Ningxia,Zhongwei,Shapotou,755000
+1736,Ningxia,Zhongwei,Zhongning,755100
+1737,Ningxia,Zhongwei,Haiyuan,755200
+1738,Qinghai,Xining ,Chengdong,810000
+1739,Qinghai,Xining ,Chengbei,810000
+1740,Qinghai,Xining ,Chengzhong,810000
+1741,Qinghai,Xining ,Datong,810100
+1742,Qinghai,Xining ,Chengxi,810000
+1743,Qinghai,Xining ,Huangzhong,811600
+1744,Qinghai,Xining ,Huangyuan,812100
+1745,Qinghai,Haidong,Ping'an,810600
+1746,Qinghai,Haidong,Minhe,810800
+1747,Qinghai,Haidong,Ledu,810700
+1748,Qinghai,Haidong,Huzhu,810500
+1749,Qinghai,Haidong,Hualong,810900
+1750,Qinghai,Haidong,Xunhua,811100
+1751,Qinghai,Haibei,Menyuan,810300
+1752,Qinghai,Haibei,Qilian,810400
+1753,Qinghai,Haibei,Haiyan,812200
+1754,Qinghai,Haibei,Gangcha,812300
+1755,Qinghai,Huangnan,Tongren,811300
+1756,Qinghai,Huangnan,Jianzha,811200
+1757,Qinghai,Huangnan,Zeku,811400
+1758,Qinghai,Huangnan,Henan,811500
+1759,Qinghai,Hainan,Gonghe,813000
+1760,Qinghai,Hainan,Tongde,813200
+1761,Qinghai,Hainan,Guide,811700
+1762,Qinghai,Hainan,Guinan,813100
+1763,Qinghai,Hainan,Xinghai,813300
+1764,Qinghai,Golog,Maqin,814000
+1765,Qinghai,Golog,Banma,814300
+1766,Qinghai,Golog,Gande,814100
+1767,Qinghai,Golog,Dari,814200
+1768,Qinghai,Golog,Jiuzhi,624700
+1769,Qinghai,Golog,Maduo,813500
+1770,Qinghai,Qinghai,Yushu,815000
+1771,Qinghai,Qinghai,Zaduo,815300
+1772,Qinghai,Qinghai,Zhiduo,815400
+1773,Qinghai,Qinghai,Chenduo,815100
+1774,Qinghai,Qinghai,Nangqian,815200
+1775,Qinghai,Qinghai,Qumalai,815500
+1776,Qinghai,Haixi ,Golmud,816000
+1777,Qinghai,Haixi ,Dulan,816100
+1778,Qinghai,Haixi ,Lenghu,816300
+1779,Qinghai,Haixi ,Magnnai,817000
+1780,Qinghai,Haixi ,Delhi,817000
+1781,Qinghai,Haixi ,Da,817000
+1782,Qinghai,Haixi ,Ulan,817100
+1783,Qinghai,Haixi ,Tianjun,817200
+1784,Sichuan,Chengdu,Jinjiang,610000
+1785,Sichuan,Chengdu,Wuhou,610000
+1786,Sichuan,Chengdu,Qingbaijiang,610300
+1787,Sichuan,Chengdu,Shuangliu,610200
+1788,Sichuan,Chengdu,Dayi,611300
+1789,Sichuan,Chengdu,Dujiangyan,611800
+1790,Sichuan,Chengdu,Chongzhou,611200
+1791,Sichuan,Chengdu,Qingyang,610000
+1792,Sichuan,Chengdu,Xhenghua,610000
+1793,Sichuan,Chengdu,Xindu,610500
+1794,Sichuan,Chengdu,Wenjiang,611100
+1795,Sichuan,Chengdu,Puxian,611600
+1796,Sichuan,Chengdu,Pengzhou,611900
+1797,Sichuan,Chengdu,Jinniu,610000
+1798,Sichuan,Chengdu,Longquanyi,610100
+1799,Sichuan,Chengdu,Jintang,610400
+1800,Sichuan,Chengdu,Pixian,611700
+1801,Sichuan,Chengdu,Xinjin,611400
+1802,Sichuan,Chengdu,Qionglai,611500
+1803,Sichuan,Zigong ,Ziliujing,643000
+1804,Sichuan,Zigong ,Yantan,643030
+1805,Sichuan,Zigong ,Gongjing,643020
+1806,Sichuan,Zigong ,Rongxian,643100
+1807,Sichuan,Zigong ,Daan,643010
+1808,Sichuan,Zigong ,Fushun,643200
+1809,Sichuan,Panzhihua ,Eastern,617000
+1810,Sichuan,Panzhihua ,Miyi,617200
+1811,Sichuan,Panzhihua ,Western,617000
+1812,Sichuan,Panzhihua ,Yanbian,617100
+1813,Sichuan,Panzhihua ,Renhe,617000
+1814,Sichuan,Luzhou ,Jiangyang,646000
+1815,Sichuan,Luzhou ,Luxian,646100
+1816,Sichuan,Luzhou ,Gulin,646500
+1817,Sichuan,Luzhou ,Naxi,646300
+1818,Sichuan,Luzhou ,Hejiang,646200
+1819,Sichuan,Luzhou ,Longmatan,646000
+1820,Sichuan,Luzhou ,Xuyong,646400
+1821,Sichuan,Deyang ,Jingyang,618000
+1822,Sichuan,Deyang ,Guanghan,618300
+1823,Sichuan,Deyang ,Zhongjiang,618100
+1824,Sichuan,Deyang ,Shifang,618400
+1825,Sichuan,Deyang ,Luojiang,618500
+1826,Sichuan,Deyang ,Mianzhu,618200
+1827,Sichuan,Mianyang,Fucheng,621000
+1828,Sichuan,Mianyang,Yanting,621600
+1829,Sichuan,Mianyang,Pingwu,622550
+1830,Sichuan,Mianyang,Youxian,621000
+1831,Sichuan,Mianyang,Anxian,622650
+1832,Sichuan,Mianyang,Jiangyou,621700
+1833,Sichuan,Mianyang,Santai,621100
+1834,Sichuan,Mianyang,Zitong,622150
+1835,Sichuan,Mianyang,Beichuan,622750
+1836,Sichuan,Guangyuan ,Lizhou,628000
+1837,Sichuan,Guangyuan ,Wangcang,628200
+1838,Sichuan,Guangyuan ,Cangxi,628400
+1839,Sichuan,Guangyuan ,Yuanba,628000
+1840,Sichuan,Guangyuan ,Qingchuan,628100
+1841,Sichuan,Guangyuan ,Chaotian,628000
+1842,Sichuan,Guangyuan ,Jiange,628300
+1843,Sichuan,Suining,Chuanshan,629000
+1844,Sichuan,Suining,Shehong,629200
+1845,Sichuan,Suining,Anju,629000
+1846,Sichuan,Suining,Daying,629300
+1847,Sichuan,Suining,Pengxi,629100
+1848,Sichuan,Neijiang ,Shizhong,641000
+1849,Sichuan,Neijiang ,Zizhong,641200
+1850,Sichuan,Neijiang ,Dongxing,641100
+1851,Sichuan,Neijiang ,Longchang,642150
+1852,Sichuan,Neijiang ,Weiyuan,642450
+1853,Sichuan,Leshan,Shizhong,614000
+1854,Sichuan,Leshan,Jinkouhe,614700
+1855,Sichuan,Leshan,Jiajiang,614100
+1856,Sichuan,Leshan,Ebian,614600
+1857,Sichuan,Leshan,Shawan,614900
+1858,Sichuan,Leshan,Qianwei,614400
+1859,Sichuan,Leshan,Muchuan,614500
+1860,Sichuan,Leshan,Mabian,614200
+1861,Sichuan,Leshan,Wutongqiao,614800
+1862,Sichuan,Leshan,Jingyan,613100
+1863,Sichuan,Leshan,Emeishan,614300
+1864,Sichuan,Nanchong ,Shunqing,637000
+1865,Sichuan,Nanchong ,Nanbu,637300
+1866,Sichuan,Nanchong ,Yilong,637600
+1867,Sichuan,Nanchong ,Gaoping,637100
+1868,Sichuan,Nanchong ,Yingshan,637700
+1869,Sichuan,Nanchong ,Xichong,637200
+1870,Sichuan,Nanchong ,Jialing,637500
+1871,Sichuan,Nanchong ,Peng;an,637800
+1872,Sichuan,Nanchong ,Langzhong,637400
+1873,Sichuan,Meishan,Dongpo,620000
+1874,Sichuan,Meishan,Hongya,620300
+1875,Sichuan,Meishan,Renshou,620500
+1876,Sichuan,Meishan,Danling,620200
+1877,Sichuan,Meishan,Pengshan,620800
+1878,Sichuan,Meishan,Qingshen,620400
+1879,Sichuan,Yibin ,Cuiping,644000
+1880,Sichuan,Yibin ,Jiang'an,644200
+1881,Sichuan,Yibin ,Gongxian,644500
+1882,Sichuan,Yibin ,Pingshan,645350
+1883,Sichuan,Yibin ,Yibin,644600
+1884,Sichuan,Yibin ,Changning,644300
+1885,Sichuan,Yibin ,Junlian,645250
+1886,Sichuan,Yibin ,Nanxi,644100
+1887,Sichuan,Yibin ,Gaoxian,645150
+1888,Sichuan,Yibin ,Xingwen,644400
+1889,Sichuan,Guang'an ,Guang'an,638550
+1890,Sichuan,Guang'an ,Linshui,638500
+1891,Sichuan,Guang'an ,Yuechi,638300
+1892,Sichuan,Guang'an ,Huaying,638600
+1893,Sichuan,Guang'an ,Wusheng,638400
+1894,Sichuan,Dazhou ,Tongchuan,635000
+1895,Sichuan,Dazhou ,Kaijiang,636250
+1896,Sichuan,Dazhou ,Wanyuan,636350
+1897,Sichuan,Dazhou ,Daxian,635000
+1898,Sichuan,Dazhou ,Dazhu,636100
+1899,Sichuan,Dazhou ,Xuanhan,636150
+1900,Sichuan,Dazhou ,Quxian,636200
+1901,Sichuan,Ya'an ,Yucheng,625000
+1902,Sichuan,Ya'an ,Hanyuan,625300
+1903,Sichuan,Ya'an ,Lushan,625600
+1904,Sichuan,Ya'an ,Mingshan,625100
+1905,Sichuan,Ya'an ,Shimian,625400
+1906,Sichuan,Ya'an ,Baoxing,625700
+1907,Sichuan,Ya'an ,Yingjing,625200
+1908,Sichuan,Ya'an ,Tianquan,625500
+1909,Sichuan,Bazhong,Bazhou,636600
+1910,Sichuan,Bazhong,Pingchang,636400
+1911,Sichuan,Bazhong,Tongjiang,636700
+1912,Sichuan,Bazhong,Nanjiang,635600
+1913,Sichuan,Ziyang ,Yanjiang,641300
+1914,Sichuan,Ziyang ,Jianyang,641400
+1915,Sichuan,Ziyang ,Anyue,642350
+1916,Sichuan,Ziyang ,Lezhi,641500
+1917,Sichuan,Aba,Wenchuan,623000
+1918,Sichuan,Aba,Songpan,623300
+1919,Sichuan,Aba,Xiaojin,624200
+1920,Sichuan,Aba,Zamtang,624300
+1921,Sichuan,Aba,Hongyuan,624400
+1922,Sichuan,Aba,Lixian,623100
+1923,Sichuan,Aba,Jiuzhaigou,623400
+1924,Sichuan,Aba,Heishui,623500
+1925,Sichuan,Aba,Aba,624600
+1926,Sichuan,Aba,Maoxian,623200
+1927,Sichuan,Aba,Jinchuan,624100
+1928,Sichuan,Aba,Barkam,624000
+1929,Sichuan,Aba,Zoige,624500
+1930,Sichuan,Garze ,Kangding,626000
+1931,Sichuan,Garze ,Jiulong,616200
+1932,Sichuan,Garze ,Luhuo,626500
+1933,Sichuan,Garze ,Dege,627250
+1934,Sichuan,Garze ,Seda,626600
+1935,Sichuan,Garze ,Xiangcheng,627850
+1936,Sichuan,Garze ,Luding,626100
+1937,Sichuan,Garze ,Yajiang,627450
+1938,Sichuan,Garze ,Ganzi,626700
+1939,Sichuan,Garze ,Baiyu,627150
+1940,Sichuan,Garze ,Litang,624300
+1941,Sichuan,Garze ,Daocheng,627750
+1942,Sichuan,Garze ,Danba,626300
+1943,Sichuan,Garze ,Daofu,626400
+1944,Sichuan,Garze ,Xinlong,626800
+1945,Sichuan,Garze ,Shiqu,627350
+1946,Sichuan,Garze ,Batang,627650
+1947,Sichuan,Garze ,Derong,627950
+1948,Sichuan,Liangshan,Xichang,615000
+1949,Sichuan,Liangshan,Dechang,615500
+1950,Sichuan,Liangshan,Ningnan,615400
+1951,Sichuan,Liangshan,Jinyang,615250
+1952,Sichuan,Liangshan,Mianning,615600
+1953,Sichuan,Liangshan,Meigu,616450
+1954,Sichuan,Liangshan,Muli Tibetan,615800
+1955,Sichuan,Liangshan,Huili,615100
+1956,Sichuan,Liangshan,Puge,615300
+1957,Sichuan,Liangshan,Zhaojue,615150
+1958,Sichuan,Liangshan,Yuexi,616650
+1959,Sichuan,Liangshan,Leibo,616550
+1960,Sichuan,Liangshan,Yanyuan,615700
+1961,Sichuan,Liangshan,Huidong,615200
+1962,Sichuan,Liangshan,Butuo,615350
+1963,Sichuan,Liangshan,Xide,615750
+1964,Sichuan,Liangshan,Ganluo,616850
+1965,Shandong,Jinan ,Lixia,250000
+1966,Shandong,Jinan ,Tianqiao,250000
+1967,Shandong,Jinan ,Pingyin,250400
+1968,Shandong,Jinan ,Zhangqiu,250200
+1969,Shandong,Jinan ,Shizhong,250000
+1970,Shandong,Jinan ,Licheng,250100
+1971,Shandong,Jinan ,Jiyang,251400
+1972,Shandong,Jinan ,Huaiyin,250000
+1973,Shandong,Jinan ,Changqing,250300
+1974,Shandong,Jinan ,Shanghe,251600
+1975,Shandong,Qingdao ,Shinan,266000
+1976,Shandong,Qingdao ,Huangdao,266000
+1977,Shandong,Qingdao ,Chengyang,266000
+1978,Shandong,Qingdao ,Pingdu,266700
+1979,Shandong,Qingdao ,Shibei,266000
+1980,Shandong,Qingdao ,Laoshan,266100
+1981,Shandong,Qingdao ,Jiaozhou,266300
+1982,Shandong,Qingdao ,Jiaonan,266400
+1983,Shandong,Qingdao ,Sifang,266000
+1984,Shandong,Qingdao ,Lishang,266000
+1985,Shandong,Qingdao ,Jimo,266200
+1986,Shandong,Qingdao ,Laixi,266600
+1987,Shandong,Zibo ,Zichuan,255100
+1988,Shandong,Zibo ,Linzi,255400
+1989,Shandong,Zibo ,Gaoqing,256300
+1990,Shandong,Zibo ,Zhangdian,255000
+1991,Shandong,Zibo ,Zhoucun,255300
+1992,Shandong,Zibo ,Yiyuan,256100
+1993,Shandong,Zibo ,Boshan,255200
+1994,Shandong,Zibo ,Huantai,256400
+1995,Shandong,Zaozhuang,Shizhong,277000
+1996,Shandong,Zaozhuang,Taierzhuang,277400
+1997,Shandong,Zaozhuang,Xuecheng,277000
+1998,Shandong,Zaozhuang,Shanting,277200
+1999,Shandong,Zaozhuang,Yicheng,277300
+2000,Shandong,Zaozhuang,Tengzhou,277500
+2001,Shandong,Dongying ,Dongying,257100
+2002,Shandong,Dongying ,Lijin,257400
+2003,Shandong,Dongying ,Hekou,257200
+2004,Shandong,Dongying ,Guangrao,257300
+2005,Shandong,Dongying ,Kenli,257500
+2006,Shandong,Yantai ,Zhifu,264000
+2007,Shandong,Yantai ,Laishan,264000
+2008,Shandong,Yantai ,Laiyang,265200
+2009,Shandong,Yantai ,Zhaoyuan,265400
+2010,Shandong,Yantai ,Fushan,265500
+2011,Shandong,Yantai ,Changdao,265800
+2012,Shandong,Yantai ,Laizhou,261400
+2013,Shandong,Yantai ,Qixia,265300
+2014,Shandong,Yantai ,Muping,264100
+2015,Shandong,Yantai ,Longkou,265700
+2016,Shandong,Yantai ,Penglai,265600
+2017,Shandong,Yantai ,Haiyang,265100
+2018,Shandong,Weifang ,Weicheng,261000
+2019,Shandong,Weifang ,Kuiwen,261000
+2020,Shandong,Weifang ,Qingzhou,262500
+2021,Shandong,Weifang ,Anqiu,262100
+2022,Shandong,Weifang ,Hanting,261100
+2023,Shandong,Weifang ,Linqu,262600
+2024,Shandong,Weifang ,Zhucheng,262200
+2025,Shandong,Weifang ,Gaomi,261500
+2026,Shandong,Weifang ,Fangzi,261200
+2027,Shandong,Weifang ,Changle,262400
+2028,Shandong,Weifang ,Shouguang,262700
+2029,Shandong,Weifang ,Shangyi,261300
+2030,Shandong,Jining ,Shizhong,272000
+2031,Shandong,Jining ,Yutai,272300
+2032,Shandong,Jining ,Wenshang,272500
+2033,Shandong,Jining ,Qufu,273100
+2034,Shandong,Jining ,Rencheng,272000
+2035,Shandong,Jining ,Jinxiang,272200
+2036,Shandong,Jining ,Sishui,273200
+2037,Shandong,Jining ,Yanzhou,273000
+2038,Shandong,Jining ,Weishan,277600
+2039,Shandong,Jining ,Jiaxiang,272400
+2040,Shandong,Jining ,Liangshan,273600
+2041,Shandong,Jining ,Zoucheng,273500
+2042,Shandong,Taian ,Taishan,271000
+2043,Shandong,Taian ,Dongping,271500
+2044,Shandong,Taian ,Daiyue,271000
+2045,Shandong,Taian ,Xintai,271200
+2046,Shandong,Taian ,Ningyang,271400
+2047,Shandong,Taian ,Feicheng,271600
+2048,Shandong,Weihai ,Huancui,264200
+2049,Shandong,Weihai ,Rushan,264500
+2050,Shandong,Weihai ,Wendeng,264400
+2051,Shandong,Weihai ,Rongcheng,264300
+2052,Shandong,Rizhao ,Donggang,276800
+2053,Shandong,Rizhao ,Juxian,276500
+2054,Shandong,Rizhao ,Lanshan,276800
+2055,Shandong,Rizhao ,Wulian,262300
+2056,Shandong,Laiwu ,Laicheng,271100
+2057,Shandong,Laiwu ,Gangcheng,271100
+2058,Shandong,Linyi ,Lanshan,276000
+2059,Shandong,Linyi ,Yinan,276300
+2060,Shandong,Linyi ,Cangshan,277700
+2061,Shandong,Linyi ,Junan,276600
+2062,Shandong,Linyi ,Luozhuang,276000
+2063,Shandong,Linyi ,Tancheng,276100
+2064,Shandong,Linyi ,Feixian,273400
+2065,Shandong,Linyi ,Mengyin,276200
+2066,Shandong,Linyi ,Hedong,276000
+2067,Shandong,Linyi ,Yishui,276400
+2068,Shandong,Linyi ,Pingyi,273300
+2069,Shandong,Linyi ,Linshu,276700
+2070,Shandong,Dezhou ,Decheng,253000
+2071,Shandong,Dezhou ,Qingyun,253700
+2072,Shandong,Dezhou ,Pingyuan,253100
+2073,Shandong,Dezhou ,Leling,253600
+2074,Shandong,Dezhou ,Lingxian,253500
+2075,Shandong,Dezhou ,Linyi,251500
+2076,Shandong,Dezhou ,Xiajin,253200
+2077,Shandong,Dezhou ,Yucheng,251200
+2078,Shandong,Dezhou ,Ningjin,253400
+2079,Shandong,Dezhou ,Qihe,251100
+2080,Shandong,Dezhou ,Wucheng,253300
+2081,Shandong,Liaocheng ,Dongchangfu,252000
+2082,Shandong,Liaocheng ,Chiping,252100
+2083,Shandong,Liaocheng ,Gaotang,252800
+2084,Shandong,Liaocheng ,Yanggu,252300
+2085,Shandong,Liaocheng ,Dong'e,252200
+2086,Shandong,Liaocheng ,Linqing,252600
+2087,Shandong,Liaocheng ,Shenxian,252400
+2088,Shandong,Liaocheng ,Guanxian,252500
+2089,Shandong,Binzhou ,Bincheng,256600
+2090,Shandong,Binzhou ,Wudi,251900
+2091,Shandong,Binzhou ,Zouping,256200
+2092,Shandong,Binzhou ,Huimin,251700
+2093,Shandong,Binzhou ,Zhanhua,256800
+2094,Shandong,Binzhou ,Yangxin,251800
+2095,Shandong,Binzhou ,Boxing,256500
+2096,Shandong,Heze ,Mudan,274000
+2097,Shandong,Heze ,Chengwu,274200
+2098,Shandong,Heze ,Juancheng,274600
+2099,Shandong,Heze ,Caoxian,274400
+2100,Shandong,Heze ,Juye,274900
+2101,Shandong,Heze ,Dingtao,274100
+2102,Shandong,Heze ,Shanxian,274300
+2103,Shandong,Heze ,Yuncheng,274700
+2104,Shandong,Heze ,Dongming,274500
+2105,Shanghai,Shanghai,Huangpu,200000
+2106,Shanghai,Shanghai,Xuhui,200000
+2107,Shanghai,Shanghai,Jing'an,200000
+2108,Shanghai,Shanghai,Zhabei,200000
+2109,Shanghai,Shanghai,Yangpu,200000
+2110,Shanghai,Shanghai,Baoshan,201900
+2111,Shanghai,Shanghai,Pudong,200120
+2112,Shanghai,Shanghai,Songjiang,201600
+2113,Shanghai,Shanghai,Fengxian,201400
+2114,Shanghai,Shanghai,Changning District,200000
+2115,Shanghai,Shanghai,Putuo,200000
+2116,Shanghai,Shanghai,Hongkou District,200000
+2117,Shanghai,Shanghai,Minhang District,201100
+2118,Shanghai,Shanghai,Jiading District,201800
+2119,Shanghai,Shanghai,Jinshan District,201500
+2120,Shanghai,Shanghai,Qingpu District,201700
+2121,Shanghai,Shanghai,Chongming,202150
+2122,Shaanxi,Xi'an ,Xincheng,710000
+2123,Shaanxi,Xi'an ,Beilin,710000
+2124,Shaanxi,Xi'an ,Lianhu,710000
+2125,Shaanxi,Xi'an ,Baqiao,710000
+2126,Shaanxi,Xi'an ,Weiyang,710000
+2127,Shaanxi,Xi'an ,Yanta,710000
+2128,Shaanxi,Xi'an ,Yanliang,710000
+2129,Shaanxi,Xi'an ,Lintong,710600
+2130,Shaanxi,Xi'an ,Chang'an,710100
+2131,Shaanxi,Xi'an ,Lantian County,710500
+2132,Shaanxi,Xi'an ,Zhouzhi,710400
+2133,Shaanxi,Xi'an ,Huxian,710300
+2134,Shaanxi,Xi'an ,Gaoling,710200
+2135,Shaanxi,Baoji ,Weibin,721000
+2136,Shaanxi,Baoji ,Jintai,721000
+2137,Shaanxi,Baoji ,Chencang,721300
+2138,Shaanxi,Baoji ,Fengxiang,721400
+2139,Shaanxi,Baoji ,Qishan,722400
+2140,Shaanxi,Baoji ,Fufeng,722200
+2141,Shaanxi,Baoji ,Meixian,722300
+2142,Shaanxi,Baoji ,Longxian,721200
+2143,Shaanxi,Baoji ,Qianyang,721100
+2144,Shaanxi,Baoji ,Linyou,721500
+2145,Shaanxi,Baoji ,Fengxian,721700
+2146,Shaanxi,Baoji ,Taibai,721600
+2147,Shaanxi,Xianyang ,Qindu,712000
+2148,Shaanxi,Xianyang ,Yangling,712100
+2149,Shaanxi,Xianyang ,Weicheng,712000
+2150,Shaanxi,Xianyang ,Sanyuan,713800
+2151,Shaanxi,Xianyang ,Jingyang,713700
+2152,Shaanxi,Xianyang ,Qianxian,713300
+2153,Shaanxi,Xianyang ,Liquan,713200
+2154,Shaanxi,Xianyang ,Yongshou,713400
+2155,Shaanxi,Xianyang ,Binxian,713500
+2156,Shaanxi,Xianyang ,Changwu,713600
+2157,Shaanxi,Xianyang ,Xunyi,711300
+2158,Shaanxi,Xianyang ,Chunhua,711200
+2159,Shaanxi,Xianyang ,Wugong,712200
+2160,Shaanxi,Xianyang ,Xingping,713100
+2161,Shaanxi,Weinan ,Linwei,714000
+2162,Shaanxi,Weinan ,Huaxian,714100
+2163,Shaanxi,Weinan ,Tongguan,714300
+2164,Shaanxi,Weinan ,Dali,715100
+2165,Shaanxi,Weinan ,Heyang,715300
+2166,Shaanxi,Weinan ,Chengcheng,715200
+2167,Shaanxi,Weinan ,Pucheng,715500
+2168,Shaanxi,Weinan ,BaishuI,715600
+2169,Shaanxi,Weinan ,Fuping,711700
+2170,Shaanxi,Weinan ,Hancheng,715400
+2171,Shaanxi,Weinan ,Huayin,714200
+2172,Shaanxi,Tongchuan ,Tongchuan,727000
+2173,Shaanxi,Tongchuan ,Yaozhou,727100
+2174,Shaanxi,Tongchuan ,Yijun,727200
+2175,Shaanxi,Yan'an,Baota,716000
+2176,Shaanxi,Yan'an,Yanchang,717100
+2177,Shaanxi,Yan'an,Yanchuan,717200
+2178,Shaanxi,Yan'an,Zichang,717300
+2179,Shaanxi,Yan'an,Ansai,717400
+2180,Shaanxi,Yan'an,Zhidan,717500
+2181,Shaanxi,Yan'an,Wuqi,717600
+2182,Shaanxi,Yan'an,Ganquan,716100
+2183,Shaanxi,Yan'an,Fuxian,727500
+2184,Shaanxi,Yan'an,Luochuan,727400
+2185,Shaanxi,Yan'an,Yichuan,716200
+2186,Shaanxi,Yan'an,Huanglong,715700
+2187,Shaanxi,Yan'an,Huangling,727300
+2188,Shaanxi,Hanzhong ,HantaI,723000
+2189,Shaanxi,Hanzhong ,Nanzheng,723100
+2190,Shaanxi,Hanzhong ,Chenggu,723200
+2191,Shaanxi,Hanzhong ,Yangxian,723300
+2192,Shaanxi,Hanzhong ,Xixiang,723500
+2193,Shaanxi,Hanzhong ,Mianxian,724200
+2194,Shaanxi,Hanzhong ,Ningqiang,724400
+2195,Shaanxi,Hanzhong ,Lueyang,724300
+2196,Shaanxi,Hanzhong ,Zhenba,723600
+2197,Shaanxi,Hanzhong ,Liuba,724100
+2198,Shaanxi,Hanzhong ,Foping,723400
+2199,Shaanxi,Yulin ,Yuyang,719000
+2200,Shaanxi,Yulin ,Shenmu,719300
+2201,Shaanxi,Yulin ,Fugu,719400
+2202,Shaanxi,Yulin ,Hengshan,719200
+2203,Shaanxi,Yulin ,Jingbian,718500
+2204,Shaanxi,Yulin ,Dingbian,718600
+2205,Shaanxi,Yulin ,Suide,718000
+2206,Shaanxi,Yulin ,Mizhi,718100
+2207,Shaanxi,Yulin ,Jiaxian,719200
+2208,Shaanxi,Yulin ,Wubu,718200
+2209,Shaanxi,Yulin ,Qingjian,718300
+2210,Shaanxi,Yulin ,Zizhou,718400
+2211,Shaanxi,Ankang ,Hanbin,725000
+2212,Shaanxi,Ankang ,Hanyin,725100
+2213,Shaanxi,Ankang ,Shiquan,725200
+2214,Shaanxi,Ankang ,Ningshan,711600
+2215,Shaanxi,Ankang ,Ziyang,725300
+2216,Shaanxi,Ankang ,Langao,725400
+2217,Shaanxi,Ankang ,Pingli,725500
+2218,Shaanxi,Ankang ,Zhenping,725600
+2219,Shaanxi,Ankang ,Xunyang,725700
+2220,Shaanxi,Ankang ,Baihe,725800
+2221,Shaanxi,Shangluo ,Shangzhou,726000
+2222,Shaanxi,Shangluo ,Luonan County,726100
+2223,Shaanxi,Shangluo ,Danfeng,726200
+2224,Shaanxi,Shangluo ,Shangnan,726300
+2225,Shaanxi,Shangluo ,Shanyang,726400
+2226,Shaanxi,Shangluo ,Zhen'an,711500
+2227,Shaanxi,Shangluo ,Zhashui,711400
+2228,Shanxi,Taiyuan,Xiaodian,030000
+2229,Shanxi,Taiyuan,Jiancaoping,030000
+2230,Shanxi,Taiyuan,Qingxu,030400
+2231,Shanxi,Taiyuan,Gujiao,030200
+2232,Shanxi,Taiyuan,Yingze,030000
+2233,Shanxi,Taiyuan,Wanbailin,030000
+2234,Shanxi,Taiyuan,Yangqu,030100
+2235,Shanxi,Taiyuan,Xinghualing,030000
+2236,Shanxi,Taiyuan,Jinyuan,030000
+2237,Shanxi,Taiyuan,Loufan,030300
+2238,Shanxi,Datong ,Chengqu,037000
+2239,Shanxi,Datong ,Xinrong,037000
+2240,Shanxi,Datong ,Guangling,037500
+2241,Shanxi,Datong ,Zuoyun,037100
+2242,Shanxi,Datong ,Kuangqu,037000
+2243,Shanxi,Datong ,Yanggao,038100
+2244,Shanxi,Datong ,Lingqiu,034400
+2245,Shanxi,Datong ,Datong,037300
+2246,Shanxi,Datong ,Nanjiao,037000
+2247,Shanxi,Datong ,Tianzhen,038200
+2248,Shanxi,Datong ,Hunyuan,037400
+2249,Shanxi,Yangquan ,Chengqu,045000
+2250,Shanxi,Yangquan ,Pingding,045200
+2251,Shanxi,Yangquan ,Kuangqu,045000
+2252,Shanxi,Yangquan ,Yuxian,045100
+2253,Shanxi,Yangquan ,Jiaoqu,045000
+2254,Shanxi,Changzhi ,Chengqu,046000
+2255,Shanxi,Changzhi ,Xiangyuan,046200
+2256,Shanxi,Changzhi ,Licheng,047600
+2257,Shanxi,Changzhi ,Wuxiang,046300
+2258,Shanxi,Changzhi ,Lucheng,047500
+2259,Shanxi,Changzhi ,Jiaoqu,046000
+2260,Shanxi,Changzhi ,Tunliu,046100
+2261,Shanxi,Changzhi ,Huguan,047300
+2262,Shanxi,Changzhi ,Qinxian,046400
+2263,Shanxi,Changzhi ,Changzhi,047100
+2264,Shanxi,Changzhi ,Pingshun,047400
+2265,Shanxi,Changzhi ,Zhangzi,046600
+2266,Shanxi,Changzhi ,Qinyuan,046500
+2267,Shanxi,Jincheng,Chengqu,048000
+2268,Shanxi,Jincheng,Lingchuan,048300
+2269,Shanxi,Jincheng,QinshuI,048200
+2270,Shanxi,Jincheng,Zezhou,048000
+2271,Shanxi,Jincheng,Yangcheng,048100
+2272,Shanxi,Jincheng,Gaoping,046700
+2273,Shanxi,Shuozhou ,Shuocheng,036002
+2274,Shanxi,Shuozhou ,Yingxian,037600
+2275,Shanxi,Shuozhou ,Pinglu,036800
+2276,Shanxi,Shuozhou ,Youyu,037200
+2277,Shanxi,Shuozhou ,Shanyin,036900
+2278,Shanxi,Shuozhou ,Huairen,038300
+2279,Shanxi,Jinzhong,Yuci,030600
+2280,Shanxi,Jinzhong,Heshun,032700
+2281,Shanxi,Jinzhong,Taigu,030800
+2282,Shanxi,Jinzhong,Lingshi,031300
+2283,Shanxi,Jinzhong,Yushe,031800
+2284,Shanxi,Jinzhong,Xiyang,045300
+2285,Shanxi,Jinzhong,Qixian,030900
+2286,Shanxi,Jinzhong,JiexiU,032000
+2287,Shanxi,Jinzhong,Zuoquan,032600
+2288,Shanxi,Jinzhong,Shouyang,045400
+2289,Shanxi,Jinzhong,Pingyao,031100
+2290,Shanxi,Yuncheng ,Yanhu,044000
+2291,Shanxi,Yuncheng ,Wenxi,043800
+2292,Shanxi,Yuncheng ,Jiangxian,043600
+2293,Shanxi,Yuncheng ,Pinglu,044300
+2294,Shanxi,Yuncheng ,Hejin,043300
+2295,Shanxi,Yuncheng ,Linyi,044100
+2296,Shanxi,Yuncheng ,Jishan,043200
+2297,Shanxi,Yuncheng ,Yuanqu,043700
+2298,Shanxi,Yuncheng ,Ruicheng,044600
+2299,Shanxi,Yuncheng ,Wanrong,044200
+2300,Shanxi,Yuncheng ,Xinjiang,043100
+2301,Shanxi,Yuncheng ,Xiaxian,044400
+2302,Shanxi,Yuncheng ,Yongji,044500
+2303,Shanxi,Linfen,Yaodu,041000
+2304,Shanxi,Linfen,Xiangfen,041500
+2305,Shanxi,Linfen,Anze,042500
+2306,Shanxi,Linfen,Xiangning,042100
+2307,Shanxi,Linfen,Yonghe,041400
+2308,Shanxi,Linfen,Houma,043000
+2309,Shanxi,Linfen,Quwo,043400
+2310,Shanxi,Linfen,Hongdong,041600
+2311,Shanxi,Linfen,Fushan,042600
+2312,Shanxi,Linfen,Daning,042300
+2313,Shanxi,Linfen,Puxian,041200
+2314,Shanxi,Linfen,Huozhou,031400
+2315,Shanxi,Linfen,Yicheng,043500
+2316,Shanxi,Linfen,Guxian,042400
+2317,Shanxi,Linfen,Jixian,042200
+2318,Shanxi,Linfen,Xixian,041300
+2319,Shanxi,Linfen,Fenxi,031500
+2320,Shanxi,Lvliang ,Lishi,033000
+2321,Shanxi,Lvliang ,Xingxian,035300
+2322,Shanxi,Lvliang ,Shilou,032500
+2323,Shanxi,Lvliang ,Zhongyang,033400
+2324,Shanxi,Lvliang ,Fenyang,032200
+2325,Shanxi,Lvliang ,WenshuI,032100
+2326,Shanxi,Lvliang ,Linxian,033200
+2327,Shanxi,Lvliang ,Lanxian,035200
+2328,Shanxi,Lvliang ,Jiaokou,032400
+2329,Shanxi,Lvliang ,Jiaocheng,030500
+2330,Shanxi,Lvliang ,Liulin,033300
+2331,Shanxi,Lvliang ,Fangshan,033100
+2332,Shanxi,Lvliang ,Xiaoyi,032300
+2333,Shanxi,Xinzhou,Xinfu,034000
+2334,Shanxi,Xinzhou,Daixian,034200
+2335,Shanxi,Xinzhou,Jingle,035100
+2336,Shanxi,Xinzhou,Kekan,036300
+2337,Shanxi,Xinzhou,Pianguan,036400
+2338,Shanxi,Xinzhou,Dingxiang,035400
+2339,Shanxi,Xinzhou,Fanshi,034300
+2340,Shanxi,Xinzhou,Shenchi,036100
+2341,Shanxi,Xinzhou,Hequ,036500
+2342,Shanxi,Xinzhou,Yuanping,034100
+2343,Shanxi,Xinzhou,Wutai,035500
+2344,Shanxi,Xinzhou,Ningwu,036000
+2345,Shanxi,Xinzhou,Wuzhai,036200
+2346,Shanxi,Xinzhou,Baode,036600
+2347,Taiwan,Taiwan,Taiwan,886
+2348,Taiwan,Taiwan,City,Zip Code
+2349,Taiwan,Taiwan,Taipei,100
+2350,Taiwan,Taiwan,Kaohsiung,800
+2351,Taiwan,Taiwan,Keelung,200
+2352,Taiwan,Taiwan,Hsinchu,300
+2353,Taiwan,Taiwan,Taichung,400
+2354,Taiwan,Taiwan,Chiayi,600
+2355,Taiwan,Taiwan,Tainan,700
+2356,Taiwan,Taiwan,Taipei,220
+2357,Taiwan,Taiwan,Taoyuan,330
+2358,Taiwan,Taiwan,Hsinchu,300
+2359,Taiwan,Taiwan,Miaoli,360
+2360,Taiwan,Taiwan,Taichung,420
+2361,Taiwan,Taiwan,Changhua,500
+2362,Taiwan,Taiwan,Nantou,540
+2363,Taiwan,Taiwan,Yunlin County,640
+2364,Taiwan,Taiwan,Chiayi County,600
+2365,Taiwan,Taiwan,Tainan County,730
+2366,Taiwan,Taiwan,Kaohsiung,830
+2367,Taiwan,Taiwan,Pingtung,900
+2368,Taiwan,Taiwan,Yilan,260
+2369,Taiwan,Taiwan,Hualien,970
+2370,Taiwan,Taiwan,Taitung,950
+2371,Taiwan,Taiwan,Penghu,880
+2372,Taiwan,Taiwan,Kinmen,362000
+2373,Taiwan,Taiwan,Lienchiang,350500
+2374,Xinjiang,Urumqi,Tianshan,830000
+2375,Xinjiang,Urumqi,Saybag,830000
+2376,Xinjiang,Urumqi,Xinshi,830000
+2377,Xinjiang,Urumqi,Shuimogou,830000
+2378,Xinjiang,Urumqi,Toutunhe,830000
+2379,Xinjiang,Urumqi,Midong,830000
+2380,Xinjiang,Urumqi,Urumqi,830000
+2381,Xinjiang,Karamay,Dushanzi,833600
+2382,Xinjiang,Karamay,Karamay,834000
+2383,Xinjiang,Karamay,Baijiantan,834000
+2384,Xinjiang,Karamay,Urho,834000
+2385,Xinjiang,Turpan,Turpan,838000
+2386,Xinjiang,Turpan,Shanshan,838200
+2387,Xinjiang,Turpan,Toksun,838100
+2388,Xinjiang,Kumul/Hami,Hami,839000
+2389,Xinjiang,Kumul/Hami,Yiwu,839300
+2390,Xinjiang,Kumul/Hami,Barkol,839200
+2391,Xinjiang,Changji,Changji,831100
+2392,Xinjiang,Changji,Fukang,831500
+2393,Xinjiang,Changji,Hutubi,831200
+2394,Xinjiang,Changji,Manas,832200
+2395,Xinjiang,Changji,Qitai,831800
+2396,Xinjiang,Changji,Jimsar,831800
+2397,Xinjiang,Changji,Mori,831900
+2398,Xinjiang,Bortala,Bole,833400
+2399,Xinjiang,Bortala,Jinghe,833300
+2400,Xinjiang,Bortala,Wenquan,833500
+2401,Xinjiang,Bayingolin,Korla,841000
+2402,Xinjiang,Bayingolin,Luntai,841600
+2403,Xinjiang,Bayingolin,Yuli,841500
+2404,Xinjiang,Bayingolin,Ruoqiang,841800
+2405,Xinjiang,Bayingolin,Qiemo,841900
+2406,Xinjiang,Bayingolin,Hejing,841300
+2407,Xinjiang,Bayingolin,Hoxud,841200
+2408,Xinjiang,Bayingolin,Bohu,841400
+2409,Xinjiang,Bayingolin,Yanqi,841100
+2410,Xinjiang,Aksu,Aksu,843000
+2411,Xinjiang,Aksu,Wensu,843100
+2412,Xinjiang,Aksu,Kuqa,842000
+2413,Xinjiang,Aksu,XayarCounty,842200
+2414,Xinjiang,Aksu,Xinhe/,842100
+2415,Xinjiang,Aksu,Baicheng,842300
+2416,Xinjiang,Aksu,Wushi,843400
+2417,Xinjiang,Aksu,Awat,843200
+2418,Xinjiang,Aksu,Kalpin,843600
+2419,Xinjiang,Kizilsu,Artux,845350
+2420,Xinjiang,Kizilsu,Akto,845550
+2421,Xinjiang,Kizilsu,Akqi,843500
+2422,Xinjiang,Kizilsu,Wuqia,845450
+2423,Xinjiang,Kashgar,Kashgar,844000
+2424,Xinjiang,Kashgar,Shufu,844100
+2425,Xinjiang,Kashgar,Shule,844200
+2426,Xinjiang,Kashgar,Yengisar,844500
+2427,Xinjiang,Kashgar,Zepu,844800
+2428,Xinjiang,Kashgar,Shache,844700
+2429,Xinjiang,Kashgar,Makit,844600
+2430,Xinjiang,Kashgar,Yopurga,844400
+2431,Xinjiang,Kashgar,Jiashi,844300
+2432,Xinjiang,Kashgar,Bachu,844900
+2433,Xinjiang,Kashgar,Yecheng,844900
+2434,Xinjiang,Kashgar,Taxkorgan,845250
+2435,Xinjiang,Hotan,Hotan,848000
+2436,Xinjiang,Hotan,Hotan,848000
+2437,Xinjiang,Hotan,Moyu,848100
+2438,Xinjiang,Hotan,Pishan,845150
+2439,Xinjiang,Hotan,Lop,848200
+2440,Xinjiang,Hotan,Qira,848300
+2441,Xinjiang,Hotan,Yutian,848400
+2442,Xinjiang,Hotan,Minfeng,848500
+2443,Xinjiang,Ili,Yining,835000
+2444,Xinjiang,Ili,Kuytun,833200
+2445,Xinjiang,Ili,Yining,835100
+2446,Xinjiang,Ili,Huocheng,835200
+2447,Xinjiang,Ili,Gongliu,835400
+2448,Xinjiang,Ili,Xinyuan,835800
+2449,Xinjiang,Ili,Zhaosu,835600
+2450,Xinjiang,Ili,Tekes,835500
+2451,Xinjiang,Ili,Nilka,835700
+2452,Xinjiang,Ili,Qapqal,835300
+2453,Xinjiang,Tacheng,Tacheng,834300
+2454,Xinjiang,Tacheng,Usu,833300
+2455,Xinjiang,Tacheng,Emin,834600
+2456,Xinjiang,Tacheng,Shawan,832100
+2457,Xinjiang,Tacheng,Toli,834500
+2458,Xinjiang,Tacheng,Yumin,834800
+2459,Xinjiang,Tacheng,Hoboksar,834400
+2460,Xinjiang,Altay,Altay,836500
+2461,Xinjiang,Altay,Burqin,836600
+2462,Xinjiang,Altay,Fuyun,836100
+2463,Xinjiang,Altay,Fuhai,836400
+2464,Xinjiang,Altay,Habahe,836700
+2465,Xinjiang,Altay,Qinghe,836200
+2466,Xinjiang,Altay,Jimunay,836800
+2467,Xinjiang,Xinjiang,City,Zip Code
+2468,Xinjiang,Xinjiang,Shihezi,832000
+2469,Xinjiang,Xinjiang,Arar,843300
+2470,Xinjiang,Xinjiang,Tumxuk,844000
+2471,Xinjiang,Xinjiang,Wujiaqu,831300
+2472,Tibet,Lhasa,Chengguan,850000
+2473,Tibet,Lhasa,Nyemo,851600
+2474,Tibet,Lhasa,Dagze,850100
+2475,Tibet,Lhasa,Lhunzhub,851600
+2476,Tibet,Lhasa,Quxu,850600
+2477,Tibet,Lhasa,Maizhokunggar,850200
+2478,Tibet,Lhasa,Damxung,851500
+2479,Tibet,Lhasa,Doilungdeqen,851400
+2480,Tibet,Chamdo,Chamdo,854000
+2481,Tibet,Chamdo,Riwoqe,855600
+2482,Tibet,Chamdo,Baxoi,854600
+2483,Tibet,Chamdo,Lhorong,855400
+2484,Tibet,Chamdo,Jomda,854100
+2485,Tibet,Chamdo,,855700
+2486,Tibet,Chamdo,Zogang,854400
+2487,Tibet,Chamdo,Banbar,855500
+2488,Tibet,Chamdo,Gonjo,854200
+2489,Tibet,Chamdo,Chag'yab,854300
+2490,Tibet,Chamdo,Markam,854500
+2491,Tibet,Lhoka,Nedong,856100
+2492,Tibet,Lhoka,Sangri,856200
+2493,Tibet,Lhoka,Comai,856900
+2494,Tibet,Lhoka,Lhunze,856600
+2495,Tibet,Lhoka,Zhanang,850800
+2496,Tibet,Lhoka,Qionggyai,856800
+2497,Tibet,Lhoka,Lhozhag,851200
+2498,Tibet,Lhoka,Cona,856700
+2499,Tibet,Lhoka,Gonggar,850700
+2500,Tibet,Lhoka,Qusum,856300
+2501,Tibet,Lhoka,Gyaca County,856400
+2502,Tibet,Lhoka,Nagarze,851100
+2503,Tibet,Shigatse,Shigatse,857000
+2504,Tibet,Shigatse,Tingri County,858200
+2505,Tibet,Shigatse,Ngamring,858500
+2506,Tibet,Shigatse,Ringbung,857200
+2507,Tibet,Shigatse,Zhongba,858800
+2508,Tibet,Shigatse,Nyalam,858300
+2509,Tibet,Shigatse,Namling,857100
+2510,Tibet,Shigatse,Sa'gya,857800
+2511,Tibet,Shigatse,Xaitongmoin,858900
+2512,Tibet,Shigatse,Kangmar,857500
+2513,Tibet,Shigatse,Yadong,857600
+2514,Tibet,Shigatse,Saga,858600
+2515,Tibet,Shigatse,Gyantse County,857400
+2516,Tibet,Shigatse,Lhatse,858100
+2517,Tibet,Shigatse,Bainang,857300
+2518,Tibet,Shigatse,Dinggye,857900
+2519,Tibet,Shigatse,Gyirong County,858700
+2520,Tibet,Shigatse,Gamba,857700
+2521,Tibet,Nagqu,Nagqu,852000
+2522,Tibet,Nagqu,Nyainrong,853500
+2523,Tibet,Nagqu,Sog,852200
+2524,Tibet,Nagqu,Nyima,853200
+2525,Tibet,Nagqu,Lhari County,852400
+2526,Tibet,Nagqu,Amdo,853400
+2527,Tibet,Nagqu,Baingoin,852500
+2528,Tibet,Nagqu,Biru,852300
+2529,Tibet,Nagqu,Xianza County,853100
+2530,Tibet,Nagqu,Baqen,852100
+2531,Tibet,Ali,Burang,859500
+2532,Tibet,Ali,Rutog,859700
+2533,Tibet,Ali,Coqen,859300
+2534,Tibet,Ali,Zanda,859600
+2535,Tibet,Ali,Ge'gyai,859100
+2536,Tibet,Ali,Gar,859000
+2537,Tibet,Ali,Gerze,859200
+2538,Tibet,Nyingchi,Nyingchi,860100
+2539,Tibet,Nyingchi,Medog,860700
+2540,Tibet,Nyingchi,Nang,860400
+2541,Tibet,Nyingchi,Gongbo’gyamda,860200
+2542,Tibet,Nyingchi,Bome,860300
+2543,Tibet,Nyingchi,Mainling,860500
+2544,Tibet,Nyingchi,Zayu County,860600
+2545,Yunnan,Kunming,Wuhua,650000
+2546,Yunnan,Kunming,Xishan,650100
+2547,Yunnan,Kunming,Jinning,650600
+2548,Yunnan,Kunming,Songming,651700
+2549,Yunnan,Kunming,Luquan,651500
+2550,Yunnan,Kunming,Panlong,650000
+2551,Yunnan,Kunming,Dongchuan,654100
+2552,Yunnan,Kunming,Fumin,650400
+2553,Yunnan,Kunming,Anning,650300
+2554,Yunnan,Kunming,Xundian,655200
+2555,Yunnan,Kunming,Guandu,650200
+2556,Yunnan,Kunming,Chenggong,650500
+2557,Yunnan,Kunming,Yiliang,652100
+2558,Yunnan,Kunming,Shilin,652200
+2559,Yunnan,Lijiang,Gucheng,674100
+2560,Yunnan,Lijiang,Yulong,674100
+2561,Yunnan,Lijiang,Yongsheng,674200
+2562,Yunnan,Lijiang,Ninglang,674300
+2563,Yunnan,Lijiang,Huaping,674800
+2564,Yunnan,Qujing,Qilin,655000
+2565,Yunnan,Qujing,Shizong,655700
+2566,Yunnan,Qujing,Huize,654200
+2567,Yunnan,Qujing,Malong,655100
+2568,Yunnan,Qujing,Luoping,655800
+2569,Yunnan,Qujing,Zhanyi,655500
+2570,Yunnan,Qujing,Luliang,655600
+2571,Yunnan,Qujing,Fuyuan,655500
+2572,Yunnan,Qujing,Xuanwu,655400
+2573,Yunnan,Yuxi,Hongta,653100
+2574,Yunnan,Yuxi,Tonghai,652700
+2575,Yunnan,Yuxi,Eshan,653200
+2576,Yunnan,Yuxi,Jiangchuan,652600
+2577,Yunnan,Yuxi,Huaning,652800
+2578,Yunnan,Yuxi,Xinping,653400
+2579,Yunnan,Yuxi,Chengjiang,652500
+2580,Yunnan,Yuxi,Yimen,651100
+2581,Yunnan,Yuxi,Yuanjiang,653300
+2582,Yunnan,Baoshan,Longyang,678000
+2583,Yunnan,Baoshan,Longling,678300
+2584,Yunnan,Baoshan,Shidian,678200
+2585,Yunnan,Baoshan,Changning,678100
+2586,Yunnan,Baoshan,Tengchong,679100
+2587,Yunnan,Zhaotong,Zhaoyang,657000
+2588,Yunnan,Zhaotong,Yanjin,657500
+2589,Yunnan,Zhaotong,Suijiang,657700
+2590,Yunnan,Zhaotong,Weixin,657900
+2591,Yunnan,Zhaotong,Ludian,657100
+2592,Yunnan,Zhaotong,Daguan,657400
+2593,Yunnan,Zhaotong,Zhenxiong,657200
+2594,Yunnan,Zhaotong,Shuifu,657800
+2595,Yunnan,Zhaotong,Qiaojia,654600
+2596,Yunnan,Zhaotong,Yongshan,657300
+2597,Yunnan,Zhaotong,Yiliang,657600
+2598,Yunnan,Pu'er,Simao,665000
+2599,Yunnan,Pu'er,Jingdong,676200
+2600,Yunnan,Pu'er,Jiangcheng,665900
+2601,Yunnan,Pu'er,Ximeng,665700
+2602,Yunnan,Pu'er,Ning'er,665000
+2603,Yunnan,Pu'er,Jinggu,666400
+2604,Yunnan,Pu'er,Menglian,665800
+2605,Yunnan,Pu'er,Mojiang,654800
+2606,Yunnan,Pu'er,Zhenyuan,666500
+2607,Yunnan,Pu'er,Lancang,665600
+2608,Yunnan,Lincang,Linxiang,677000
+2609,Yunnan,Lincang,Yongde,677600
+2610,Yunnan,Lincang,Gengma,677500
+2611,Yunnan,Lincang,Fengqing,675900
+2612,Yunnan,Lincang,Zhenkang,677700
+2613,Yunnan,Lincang,Cangyuan,677400
+2614,Yunnan,Lincang,Yunxian,675800
+2615,Yunnan,Lincang,Shuangjiang,677300
+2616,Yunnan,Chuxiong,Chuxiong,675000
+2617,Yunnan,Chuxiong,Nanhua,675200
+2618,Yunnan,Chuxiong,Yongren,651400
+2619,Yunnan,Chuxiong,Lufeng,651200
+2620,Yunnan,Chuxiong,Shuangbai,675100
+2621,Yunnan,Chuxiong,Yaoan,675300
+2622,Yunnan,Chuxiong,Yuanmou,651300
+2623,Yunnan,Chuxiong,Mouding,675500
+2624,Yunnan,Chuxiong,Dayao,675400
+2625,Yunnan,Chuxiong,Wuding,651600
+2626,Yunnan,Honghe,Gejiu,661000
+2627,Yunnan,Honghe,Jianshui,661200
+2628,Yunnan,Honghe,Luxi,652300
+2629,Yunnan,Honghe,Lvchun,662500
+2630,Yunnan,Honghe,Hekou,661300
+2631,Yunnan,Honghe,Kaiyuan,661600
+2632,Yunnan,Honghe,Shiping,654300
+2633,Yunnan,Honghe,Yuanyang,652400
+2634,Yunnan,Honghe,Pingbian,661200
+2635,Yunnan,Honghe,Mengzi,661100
+2636,Yunnan,Honghe,Mile,662200
+2637,Yunnan,Honghe,Honghe,654400
+2638,Yunnan,Honghe,Jinping,661500
+2639,Yunnan,Wenshan,Wenshan,663000
+2640,Yunnan,Wenshan,Malipo,663600
+2641,Yunnan,Wenshan,Guangnan,663300
+2642,Yunnan,Wenshan,Yanshan,663100
+2643,Yunnan,Wenshan,Maguan,663700
+2644,Yunnan,Wenshan,Funing,663400
+2645,Yunnan,Wenshan,Xichou,663500
+2646,Yunnan,Wenshan,Qiubei,663200
+2647,Yunnan,Xishuangbanna,Jinghong,666100
+2648,Yunnan,Xishuangbanna,Menghai,666200
+2649,Yunnan,Xishuangbanna,Mengla,666300
+2650,Yunnan,Dali,Dali,671000
+2651,Yunnan,Dali,Midu,675600
+2652,Yunnan,Dali,Eryuan,671200
+2653,Yunnan,Dali,Yangbi,672500
+2654,Yunnan,Dali,Xiangyun,672100
+2655,Yunnan,Dali,Yongping,672600
+2656,Yunnan,Dali,Jianchuan,671300
+2657,Yunnan,Dali,Nanjian,675700
+2658,Yunnan,Dali,Binchuan,671600
+2659,Yunnan,Dali,Yunlong,672700
+2660,Yunnan,Dali,Heqing,671500
+2661,Yunnan,Dali,Weishan,672400
+2662,Yunnan,Dehong,Ruili,678600
+2663,Yunnan,Dehong,Yingjiang,679300
+2664,Yunnan,Dehong,Luxi,678400
+2665,Yunnan,Dehong,Longchuan,678700
+2666,Yunnan,Dehong,Lianghe,679200
+2667,Yunnan,Nujiang,Lushui,673200
+2668,Yunnan,Nujiang,Lanping,671400
+2669,Yunnan,Nujiang,Fugong,673400
+2670,Yunnan,Nujiang,Gongshan,673500
+2671,Yunnan,Diqing,Shangri-la,674400
+2672,Yunnan,Diqing,Deqin,674500
+2673,Yunnan,Diqing,Weixi,674600
+2674,Zhejiang,Hangzhou,Shangcheng,310000
+2675,Zhejiang,Hangzhou,Gongshu,310000
+2676,Zhejiang,Hangzhou,Xiaoshan,311200
+2677,Zhejiang,Hangzhou,Chun'an,311700
+2678,Zhejiang,Hangzhou,Lin'an,311300
+2679,Zhejiang,Hangzhou,Xiacheng,310000
+2680,Zhejiang,Hangzhou,Xihu,310000
+2681,Zhejiang,Hangzhou,Yuhang,311100
+2682,Zhejiang,Hangzhou,Jiande,311600
+2683,Zhejiang,Hangzhou,Jianggan,310000
+2684,Zhejiang,Hangzhou,Binjiang,310000
+2685,Zhejiang,Hangzhou,Tonglu,311500
+2686,Zhejiang,Hangzhou,Fuyang,311400
+2687,Zhejiang,Jiaxing,Xiucheng,314000
+2688,Zhejiang,Jiaxing,Haining,314400
+2689,Zhejiang,Jiaxing,Jiashan,314100
+2690,Zhejiang,Jiaxing,Pinghu,314200
+2691,Zhejiang,Jiaxing,Haiyan,314300
+2692,Zhejiang,Jiaxing,Tongxiang,314500
+2693,Zhejiang,Shaoxing,Yuecheng,312000
+2694,Zhejiang,Shaoxing,Zhuji,311800
+2695,Zhejiang,Shaoxing,Shaoxing,312000
+2696,Zhejiang,Shaoxing,Shangyu,312300
+2697,Zhejiang,Shaoxing,Xinchang,312500
+2698,Zhejiang,Shaoxing,Shengzhou,312400
+2699,Zhejiang,Ningbo,Haishu,315000
+2700,Zhejiang,Ningbo,Beilun,315800
+2701,Zhejiang,Ningbo,Xiangshan,315700
+2702,Zhejiang,Ningbo,Cixi,315300
+2703,Zhejiang,Ningbo,Jiangdong,315000
+2704,Zhejiang,Ningbo,Zhenhai,315200
+2705,Zhejiang,Ningbo,Ninghai,315600
+2706,Zhejiang,Ningbo,Fenghua,315500
+2707,Zhejiang,Ningbo,Jiangbei,315000
+2708,Zhejiang,Ningbo,Yinzhou,315100
+2709,Zhejiang,Ningbo,Yuyao,315400
+2710,Zhejiang,Wenzhou,Lucheng,325000
+2711,Zhejiang,Wenzhou,Dongtou,325700
+2712,Zhejiang,Wenzhou,Cangnan,325800
+2713,Zhejiang,Wenzhou,Ruian,325200
+2714,Zhejiang,Wenzhou,Longwan,325000
+2715,Zhejiang,Wenzhou,Yongjia,325100
+2716,Zhejiang,Wenzhou,Wencheng,325300
+2717,Zhejiang,Wenzhou,Yueqing,325600
+2718,Zhejiang,Wenzhou,Ohai,325000
+2719,Zhejiang,Wenzhou,Pingyang,325400
+2720,Zhejiang,Wenzhou,Taishun,325500
+2721,Zhejiang,Huzhou,Wuxing,313000
+2722,Zhejiang,Huzhou,Changxing,313100
+2723,Zhejiang,Huzhou,Nanxun District,313000
+2724,Zhejiang,Huzhou,Anji,313300
+2725,Zhejiang,Huzhou,Deqing,313200
+2726,Zhejiang,Jinhua,Wucheng,321000
+2727,Zhejiang,Jinhua,Pujiang,322200
+2728,Zhejiang,Jinhua,Yiwu,322000
+2729,Zhejiang,Jinhua,Jindong,321000
+2730,Zhejiang,Jinhua,Pan'an,322300
+2731,Zhejiang,Jinhua,Dongyang,322100
+2732,Zhejiang,Jinhua,Wuyi,321200
+2733,Zhejiang,Jinhua,Lanxi,321100
+2734,Zhejiang,Jinhua,Yongkang,321300
+2735,Zhejiang,Quzhou,Kecheng,324000
+2736,Zhejiang,Quzhou,Kaihua,324300
+2737,Zhejiang,Quzhou,Qujiang,324000
+2738,Zhejiang,Quzhou,Longyou,324400
+2739,Zhejiang,Quzhou,Changshan,324200
+2740,Zhejiang,Quzhou,Jiangshan,324100
+2741,Zhejiang,Zhoushan,Dinghai,316000
+2742,Zhejiang,Zhoushan,Shengsi,202450
+2743,Zhejiang,Zhoushan,Putuo,316100
+2744,Zhejiang,Zhoushan,Daishan,316200
+2745,Zhejiang,Taizhou,Jiaojiang,317700
+2746,Zhejiang,Taizhou,Yuhuan,317600
+2747,Zhejiang,Taizhou,Xianju,317300
+2748,Zhejiang,Taizhou,Huangyan,318020
+2749,Zhejiang,Taizhou,Sanmen,317100
+2750,Zhejiang,Taizhou,Wenling,317500
+2751,Zhejiang,Taizhou,Luqiao,318000
+2752,Zhejiang,Taizhou,Tiantai,317200
+2753,Zhejiang,Taizhou,Linhai,317000
+2754,Zhejiang,Lishui,Liandu,323000
+2755,Zhejiang,Lishui,Suichang,323300
+2756,Zhejiang,Lishui,Qingyuan,323800
+2757,Zhejiang,Lishui,Qingtian,323900
+2758,Zhejiang,Lishui,Songyang,323400
+2759,Zhejiang,Lishui,Longqquan,323700
+2760,Zhejiang,Lishui,Jinyun,321400
+2761,Zhejiang,Lishui,Yunhe,323600
+2762,Zhejiang,Lishui,Jingning,323500

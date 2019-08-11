@@ -1,0 +1,493 @@
+,Name,Category,Latitude,Longitude,address,Province,City,District / County
+0,ShunDe Furniture Market,Furniture / Home Store,22.93677968491133,113.08620781386493,,Guangdong,Foshan,Shunde
+1,Louvre International Furniture Exhibition Center (中国罗浮宫国际家具博览中心),Furniture / Home Store,22.947236187315355,113.08486994124155,"325 National Rd, Lecong Sec | 325国道乐从路段",Guangdong,Foshan,Shunde
+2,Dongguan (东莞),City,23.04473954957371,113.75263452529907,,Guangdong,Dongguan,nan
+3,Dongguan Railway Station (东莞站),Train Station,23.09125277249941,113.85412530217263,东莞市茶山镇,Guangdong,Dongguan,nan
+4,Zhongshan Ferry Terminal (中山港客運碼頭),Pier,22.572677599531627,113.47329853787038,沿東江一路,Guangdong,Zhongshan,nan
+5,Jieyang Chaoshan International Airport (SWA) (揭阳潮汕国际机场),Airport,23.549018414469376,116.51050506794213,揭阳潮汕机场,Guangdong,Jieyang,Rongcheng
+6,Guilin walking street (正阳步行街),Road,25.277195011910244,110.29358012379599,正阳路,Guangxi,Guilin,Qixing District
+7,The Elephant Trunk Hill (象鼻山),Mountain,25.271560327951505,110.29146828457306,Guilin,Guangxi,Guilin,Qixing District
+8,Guilin 桂林,City,25.266431357740053,110.28153419494629,,Guangxi,Guilin,Qixing District
+9,Guilin Railway Station (桂林站),Train Station,25.263935863116863,110.2781844511628,39 Zhongshan S Rd | 中山南路39号,Guangxi,Guilin,Qixing District
+10,Guilin North Railway Station (桂林北站),Train Station,25.331793483279295,110.29778054719442,,Guangxi,Guilin,Qixing District
+11,Terminal 2 (2号航站楼),Airport Terminal,22.603767277179568,108.18219296471487,,Guangxi,Nanning,Jiangnan District
+12,Nanning Wuxu International Airport (NNG) (南宁吴圩国际机场),Airport,22.6058929061178,108.17897703498602,Wusong Town | 吴圩镇,Guangxi,Nanning,Jiangnan District
+13,Guiyang Longdongbao International Airport (KWE) (贵阳龙洞堡国际机场),Airport,26.544308558627424,106.79637908935547,贵阳龙洞堡机场,Guizhou,Guiyang,Nanming District
+14,Guiyang Longdongbao International Airport (KWE) (贵阳龙洞堡国际机场),Airport,26.544308558627424,106.79637908935547,贵阳龙洞堡机场,Guizhou,Guiyang,Yunyan
+15,Guiyang Longdongbao International Airport (KWE) (贵阳龙洞堡国际机场),Airport,26.544308558627424,106.79637908935547,贵阳龙洞堡机场,Guizhou,Guiyang,Xiaohe District
+16,Zhengzhou Railway Station (郑州站),Train Station,34.74737809925393,113.65370392799377,二马路82号,Henan,Zhengzhou ,Zhongyuan
+17,Zhengzhou East Railway Station (郑州东站),Train Station,34.760192959687686,113.77238491906367,199 Xinyi Rd | 心怡路199号,Henan,Zhengzhou ,Jinshui
+18,Zhengzhou Railway Station (郑州站),Train Station,34.74737809925393,113.65370392799377,二马路82号,Henan,Zhengzhou ,Jinshui
+19,Zhengzhou Railway Station (郑州站),Train Station,34.74737809925393,113.65370392799377,二马路82号,Henan,Zhengzhou ,Erqi
+20,Zhengzhou East Railway Station (郑州东站),Train Station,34.760192959687686,113.77238491906367,199 Xinyi Rd | 心怡路199号,Henan,Zhengzhou ,Guancheng
+21,Zhengzhou Railway Station (郑州站),Train Station,34.74737809925393,113.65370392799377,二马路82号,Henan,Zhengzhou ,Guancheng
+22,Shaolin Monastery (少林寺),Buddhist Temple,34.50930426154066,112.93519377708435,Shaojing Rd,Henan,Zhengzhou ,Dengfeng
+23,Luoyang Longmen Railway Station (洛阳龙门站),Train Station,34.595122376158756,112.45293248381313,通衢路,Henan,Luoyang,Laocheng
+24,Longmen Grottoes (龙门石窟),Historic Site,34.56316418897524,112.47144767686098,龙门文化旅游园区龙门桥西一号,Henan,Luoyang,Laocheng
+25,Luoyang Longmen Railway Station (洛阳龙门站),Train Station,34.595122376158756,112.45293248381313,通衢路,Henan,Luoyang,Jianxi
+26,Longmen Grottoes (龙门石窟),Historic Site,34.56316418897524,112.47144767686098,龙门文化旅游园区龙门桥西一号,Henan,Luoyang,Jianxi
+27,Luoyang Longmen Railway Station (洛阳龙门站),Train Station,34.595122376158756,112.45293248381313,通衢路,Henan,Luoyang,Xigong
+28,Longmen Grottoes (龙门石窟),Historic Site,34.56316418897524,112.47144767686098,龙门文化旅游园区龙门桥西一号,Henan,Luoyang,Xigong
+29,Luoyang Longmen Railway Station (洛阳龙门站),Train Station,34.595122376158756,112.45293248381313,通衢路,Henan,Luoyang,Chanhe
+30,Longmen Grottoes (龙门石窟),Historic Site,34.56316418897524,112.47144767686098,龙门文化旅游园区龙门桥西一号,Henan,Luoyang,Chanhe
+31,Luoyang Longmen Railway Station (洛阳龙门站),Train Station,34.595122376158756,112.45293248381313,通衢路,Henan,Luoyang,Luolong
+32,Longmen Grottoes (龙门石窟),Historic Site,34.56316418897524,112.47144767686098,龙门文化旅游园区龙门桥西一号,Henan,Luoyang,Luolong
+33,Shijiazhuang Railway Station (石家庄站),Train Station,38.00979295099081,114.47681318968534,Jingguang W Rd,Hebei,Shijiazhuang ,Qiaodong
+34,Shijiazhuang Railway Station (石家庄站),Train Station,38.00979295099081,114.47681318968534,Jingguang W Rd,Hebei,Shijiazhuang ,Yuhua
+35,Shijiazhuang Railway Station (石家庄站),Train Station,38.00979295099081,114.47681318968534,Jingguang W Rd,Hebei,Shijiazhuang ,Qiaoxi District
+36,Haikou Meilan International Airport (HAK) (海口美兰国际机场),Airport,19.94063749877337,110.45845437794924,中国海南省海口市美兰区琼文大道与201省道交叉口,Hainan,Haikou,Meilan District
+37,Haikou Meilan International Airport (HAK) (海口美兰国际机场),Airport,19.94063749877337,110.45845437794924,中国海南省海口市美兰区琼文大道与201省道交叉口,Hainan,Haikou,Longhua District
+38,Harbin Taiping International Airport (HRB) (哈尔滨太平国际机场),Airport,45.61992021934764,126.23597625643013,Airport Expressway,Heilongjiang,Harbin ,Daoli
+39,St. Sophia Church (圣·索菲亚教堂),Church,45.76821149774457,126.62087559700012,88 Toulong St,Heilongjiang,Harbin ,Xiangfang
+40,St. Sophia Church (圣·索菲亚教堂),Church,45.76821149774457,126.62087559700012,88 Toulong St,Heilongjiang,Harbin ,Nangang
+41,Ice & Snow World (冰雪大世界),Other Great Outdoors,45.77788003463297,126.5576934814453,松北大道,Heilongjiang,Harbin ,Nangang
+42,Sun Island (太阳岛),Park,45.78871398803641,126.58790588378906,松花江北岸太阳岛,Heilongjiang,Harbin ,Nangang
+43,Songhua River (松花江),River,45.779376562352425,126.61052227020264,松花江,Heilongjiang,Harbin ,Nangang
+44,Sun Island (太阳岛),Park,45.78871398803641,126.58790588378906,松花江北岸太阳岛,Heilongjiang,Harbin ,Hulan
+45,Ice & Snow World (冰雪大世界),Other Great Outdoors,45.77788003463297,126.5576934814453,松北大道,Heilongjiang,Harbin ,Hulan
+46,Songhua River (松花江),River,45.779376562352425,126.61052227020264,松花江,Heilongjiang,Harbin ,Hulan
+47,St. Sophia Church (圣·索菲亚教堂),Church,45.76821149774457,126.62087559700012,88 Toulong St,Heilongjiang,Harbin ,Hulan
+48,Shenyang Railway Station (沉阳火车站),Train Station,41.79234289431116,123.38823154936168,2 Shengli S St | 胜利南街2号,Liaoning,Shenyang ,Heping
+49,Shenyang North Railway Station (VWA) (沈阳北站),Train Station,41.81647740084389,123.43027120125409,102 Beizhan Rd.,Liaoning,Shenyang ,Heping
+50,Shenyang North Railway Station (VWA) (沈阳北站),Train Station,41.81647740084389,123.43027120125409,102 Beizhan Rd.,Liaoning,Shenyang ,Huanggu
+51,Shenyang Railway Station (沉阳火车站),Train Station,41.79234289431116,123.38823154936168,2 Shengli S St | 胜利南街2号,Liaoning,Shenyang ,Huanggu
+52,Shenyang North Railway Station (VWA) (沈阳北站),Train Station,41.81647740084389,123.43027120125409,102 Beizhan Rd.,Liaoning,Shenyang ,Dongling
+53,Shenyang Railway Station (沉阳火车站),Train Station,41.79234289431116,123.38823154936168,2 Shengli S St | 胜利南街2号,Liaoning,Shenyang ,Dongling
+54,Shenyang North Railway Station (VWA) (沈阳北站),Train Station,41.81647740084389,123.43027120125409,102 Beizhan Rd.,Liaoning,Shenyang ,Shenhe
+55,Shenyang Railway Station (沉阳火车站),Train Station,41.79234289431116,123.38823154936168,2 Shengli S St | 胜利南街2号,Liaoning,Shenyang ,Shenhe
+56,Shenyang Railway Station (沉阳火车站),Train Station,41.79234289431116,123.38823154936168,2 Shengli S St | 胜利南街2号,Liaoning,Shenyang ,Tiexi
+57,Shenyang North Railway Station (VWA) (沈阳北站),Train Station,41.81647740084389,123.43027120125409,102 Beizhan Rd.,Liaoning,Shenyang ,Tiexi
+58,Shenyang North Railway Station (VWA) (沈阳北站),Train Station,41.81647740084389,123.43027120125409,102 Beizhan Rd.,Liaoning,Shenyang ,Dadong
+59,Shenyang Railway Station (沉阳火车站),Train Station,41.79234289431116,123.38823154936168,2 Shengli S St | 胜利南街2号,Liaoning,Shenyang ,Dadong
+60,Shenyang Taoxian International Airport (SHE) (沈阳桃仙国际机场),Airport,41.63080563093262,123.48754048347475,Airport Rd | 机场路,Liaoning,Shenyang ,Sujiatun
+61,Dalian Railway Station (大连站),Train Station,38.9206987446267,121.6284073251394,Jianshe St.,Liaoning,Dalian ,Zhongshan
+62,Xinghai Square (星海广场),Plaza,38.88097787514875,121.58303260803224,星海广场,Liaoning,Dalian ,Zhongshan
+63,Dalian Zhoushuizi International Airport (DLC) (大连周水子国际机场),Airport,38.96410231616343,121.54156666249037,98 Yingke Rd | 迎客路98号,Liaoning,Dalian ,Zhongshan
+64,Dalian North Railway Station (DBL) (大连北站),Train Station,39.015084854373455,121.60301812197122,通海街1号,Liaoning,Dalian ,Zhongshan
+65,Dalian Zhoushuizi International Airport (DLC) (大连周水子国际机场),Airport,38.96410231616343,121.54156666249037,98 Yingke Rd | 迎客路98号,Liaoning,Dalian ,Ganjingzi
+66,Dalian North Railway Station (DBL) (大连北站),Train Station,39.015084854373455,121.60301812197122,通海街1号,Liaoning,Dalian ,Ganjingzi
+67,Dalian Railway Station (大连站),Train Station,38.9206987446267,121.6284073251394,Jianshe St.,Liaoning,Dalian ,Ganjingzi
+68,Xinghai Square (星海广场),Plaza,38.88097787514875,121.58303260803224,星海广场,Liaoning,Dalian ,Ganjingzi
+69,Dalian Railway Station (大连站),Train Station,38.9206987446267,121.6284073251394,Jianshe St.,Liaoning,Dalian ,Xigang
+70,Xinghai Square (星海广场),Plaza,38.88097787514875,121.58303260803224,星海广场,Liaoning,Dalian ,Xigang
+71,Dalian Zhoushuizi International Airport (DLC) (大连周水子国际机场),Airport,38.96410231616343,121.54156666249037,98 Yingke Rd | 迎客路98号,Liaoning,Dalian ,Xigang
+72,Dalian North Railway Station (DBL) (大连北站),Train Station,39.015084854373455,121.60301812197122,通海街1号,Liaoning,Dalian ,Xigang
+73,Xinghai Square (星海广场),Plaza,38.88097787514875,121.58303260803224,星海广场,Liaoning,Dalian ,Shahekou
+74,Dalian Railway Station (大连站),Train Station,38.9206987446267,121.6284073251394,Jianshe St.,Liaoning,Dalian ,Shahekou
+75,Dalian Zhoushuizi International Airport (DLC) (大连周水子国际机场),Airport,38.96410231616343,121.54156666249037,98 Yingke Rd | 迎客路98号,Liaoning,Dalian ,Shahekou
+76,Dalian North Railway Station (DBL) (大连北站),Train Station,39.015084854373455,121.60301812197122,通海街1号,Liaoning,Dalian ,Shahekou
+77,"Mandarin Oriental, Macau",Hotel,22.184605299496624,113.54699713624564,"Avenida Dr Sun Yat Sen, Cotai",Macau,Macau,Macau
+78,MGM Macau (澳門美高梅),Hotel,22.185954560840198,113.54788541793822,Avenida Dr. Sun Yat-Sen,Macau,Macau,Macau
+79,Macau Tower (澳門旅遊塔),Scenic Lookout,22.180069839942934,113.53764086588474,Largo da Torre de Macau,Macau,Macau,Macau
+80,Wynn Macau (永利澳門),Hotel,22.187921579488137,113.5466194152832,Rue Cidade de Sintra,Macau,Macau,Macau
+81,觀音蓮花苑 (觀音像) Centro Ecuménico Kun Iam,Sculpture Garden,22.185806,113.552114,Av. Dr. Sun Yat Sen,Macau,Macau,Macau
+82,The Eight (8餐廳 The Eight),Cantonese Restaurant,22.191370352589967,113.54387964930892,"2/F, Avenida de Lisboa",Macau,Macau,Macau
+83,StarWorld Macau (星際酒店),Casino,22.19029682848214,113.54789969803515,友誼大馬路 (Av. da Amizade),Macau,Macau,Macau
+84,Robuchon au Dôme (Robuchon au Dôme 天巢法國餐廳),French Restaurant,22.191098999521127,113.54334886213663,"43/F, Grand Lisboa, Avenida de Lisboa",Macau,Macau,Macau
+85,Hotel Lisboa Macau (澳門葡京酒店),Hotel,22.18984883367327,113.54438781738281,2-4 Avenida de Lisboa,Macau,Macau,Macau
+86,SKY 21,Lounge,22.190077320818293,113.54033231735228,21/F AIA Tower,Macau,Macau,Macau
+87,Grand Lapa Macau (澳門金麗華酒店),Hotel,22.192900216269432,113.55327128764658,956-1110 Avenida Da Amizade,Macau,Macau,Macau
+88,Rio Hotel & Casino,Hotel,22.19259298733935,113.54987422263082,33 Rua Gonzaga Gomes,Macau,Macau,Macau
+89,Margaret's Café e Nata (瑪嘉烈蛋撻),Dessert Shop,22.191884242272565,113.54191636106937,"Rua do Comandante Mata e Oliviera, 17-B",Macau,Macau,Macau
+90,Metropark Hotel Macau 澳門維景酒店,Hotel,22.19203826424608,113.54836077419638,199 Rua de Pequim,Macau,Macau,Macau
+91,Grand Lisboa Hotel and Casino (新葡京酒店賭場),Hotel,22.190383979394298,113.54334200481637,Avenida de Lisboa,Macau,Macau,Macau
+92,新麗華酒店 Hotel Sintra,Hotel,22.1906391020662,113.54188298242343,Avenida de D.João IV,Macau,Macau,Macau
+93,Sands Casino (Sands Casino 金沙娛樂場),Casino,22.191549595262657,113.55407448660134,Av. Dr. Sun Yat-Sen,Macau,Macau,Macau
+94,葡京娛樂場 Casino Lisboa,Casino,22.190037722584158,113.54363264629322,Avenida de Lisboa,Macau,Macau,Macau
+95,Chan Kong Kei (陳光記飯店),Cantonese Restaurant,22.19199353987998,113.54157032448478,"19 Rua do Dr. Pedro Jose Lobo, Centro",Macau,Macau,Macau
+96,Friendship Bridge 友誼大橋 Ponte de Amizade,Bridge,22.18178842134781,113.56336686398278,"Youyi Road, Se, Macau",Macau,Macau,Macau
+97,Grand Emperor Hotel 英皇娛樂酒店,Hotel,22.190237161657436,113.54057972983944,288 Avenida Comercial de Macau,Macau,Macau,Macau
+98,New Yaohan (新八佰伴 New Yaohan),Department Store,22.191193594758314,113.54044527021146,"Av. Comercial de Macau. Zona- A, Lote.1",Macau,Macau,Macau
+99,Sai Van Bridge (西灣大橋),Bridge,22.177917841373162,113.53443086723026,,Macau,Macau,Macau
+100,Macau Square (Macau Square 澳門廣場),Plaza,22.191471948452214,113.54125519477795,AVENIDA DO INFANTE D.HENRIQUE,Macau,Macau,Macau
+101,Macau Fisherman's Wharf 澳門漁人碼頭,Theme Park,22.193906842843806,113.55599640083646,Av. Dr. Sun Yat-Sen,Macau,Macau,Macau
+102,氹仔 Taipa,Neighborhood,22.157488867128546,113.55457809909753,,Macau,Macau,Macau
+103,Templo de A-Má 媽閣廟,Temple,22.18642366794579,113.5310901215587,媽閣第二巷5號,Macau,Macau,Macau
+104,Senado Square (議事亭前地),Plaza,22.193589890637657,113.53986787548072,Avenida do Almeida Ribeiro,Macau,Macau,Macau
+105,St. Dominic's Church (聖母玫瑰堂),Church,22.19451076840142,113.5403933419984,Largo de São Domingos,Macau,Macau,Macau
+106,St. Lawrence's Church (聖老楞佐教堂),Church,22.19036352688912,113.53684790079821,Ave. São Lourenço,Macau,Macau,Macau
+107,Fortaleza do Monte (Fortaleza do Monte 大炮台),Historic Site,22.196847226340623,113.5419585494095,澳門博物館前地,Macau,Macau,Macau
+108,Ruins of St. Paul's (大三巴牌坊),Historic Site,22.197419,113.540847,Travessa de São Paulo,Macau,Macau,Macau
+109,Tou Tou Koi (陶陶居海鮮酒家 Tou Tou Koi),Chinese Restaurant,22.194854996350553,113.53776709392038,澳門爐石塘巷6-8號,Macau,Macau,Macau
+110,Praça do Tap Seac (塔石廣場 Praça do Tap Seac),Plaza,22.198094004026533,113.54703783988953,塔石廣場,Macau,Macau,Macau
+111,Galaxy Hotel Macau (Galaxy Hotel Macau 銀河酒店),Hotel,22.15035359703095,113.55219413534728,Estrada da Baia de Nossa Senhora da Esperanca,Macau,Macau,Macau
+112,民政總署 Leal Senado Building,Art Gallery,22.193500668299833,113.53975521586844,亞美打利比盧大馬路163號,Macau,Macau,Macau
+113,Pastelaria Koi Kei 鉅記手信,Bakery,22.193667272482088,113.53989223243747,Senado Square,Macau,Macau,Macau
+114,Sofitel Macau at Ponte 16 (澳門十六浦索菲特酒店),Hotel,22.19711373177195,113.53633563969679,Rua do Visconde Paco de Arcos,Macau,Macau,Macau
+115,Fortaleza da Guia 東望洋炮台 (松山炮台),Lighthouse,22.196508615986772,113.54951346608762,Rampa da Guia,Macau,Macau,Macau
+116,Galaxy Macau (澳門銀河),Resort,22.149264678520673,113.5549849892942,Avenida Marginal Flor de Lotus,Macau,Macau,Macau
+117,Museum of Macau (Museum Of Macau 澳門博物館),History Museum,22.197137,113.542195,澳門博物館前地112號,Macau,Macau,Macau
+118,The Grand Canal Shoppes (威尼斯人購物中心),Shopping Mall,22.148552416163444,113.55925150650388,"The Venetian Macau, Castella Street, Di Moda Street and San Luca Street on Level 3",Macau,Macau,Macau
+119,The Venetian Macao (威尼斯人度假村),Resort,22.1481620838536,113.56151844431942,"Estrada da Baía de N. Senhora da Esperança, s/n",Macau,Macau,Macau
+120,Hotel Okura Macau (澳門大倉酒店),Hotel,22.149004812177466,113.55215705380483,"Galaxy Macau, Avenida Marginal Flor de Lotus",Macau,Macau,Macau
+121,Banyan Tree Macau (Banyan Tree Macau 澳門悦榕庄),Hotel,22.14871580035546,113.5524440898298,"Galaxy Macau, Avenida Marginal Flor de Lotus",Macau,Macau,Macau
+122,The House Of Dancing Water (水舞間),Theater,22.14989854722812,113.56839560447237,City Of Dreams,Macau,Macau,Macau
+123,North (北方館),Beijing Restaurant,22.14907069425319,113.56299964609713,"Casino Level 1, Shop 1015, The Venetian Macao",Macau,Macau,Macau
+124,JW Marriott Hotel Macau (澳門JW萬豪酒店),Hotel,22.146724763073763,113.55545546627047,"Galaxy Macauâ„¢, Estrada da Baía da Nossa Senhora da Esperança, s/n, COTAI",Macau,Macau,Macau
+125,Cotai Arena 金光綜藝館,Concert Hall,22.148371871525164,113.55849004591869,"Estrada Da Baia De Nossa, Senhora Da Esperancea S/N",Macau,Macau,Macau
+126,City of Dreams Macau (新濠天地),Hotel,22.149026,113.567277,"Estrada do Istmo, Cotai",Macau,Macau,Macau
+127,Lord Stow's Bakery & Cafe (安德魯餅店及咖啡店),Café,22.147303141127196,113.56245163262928,"Unit 2119A, Level 3, The Grand Canal Shoppes, The Venetian",Macau,Macau,Macau
+128,The Parisian Macao (澳門巴黎人),Hotel,22.14607179265913,113.56344223022461,"Estrada do Istmo, Lote 3",Macau,Macau,Macau
+129,Wong Chi Kei Noodles (黃枝記),Noodle House,22.194088977225448,113.54025991659746,新馬路議事亭前地17號,Macau,Macau,Macau
+130,"Conrad Macao, Cotai Central",Hotel,22.14663198070442,113.5643193958162,"At Sands Cotai Central, The Cotai Strip, Estrada do Istmo",Macau,Macau,Macau
+131,誠昌飯店 Seng Cheong Restaurant,Chinese Restaurant,22.153816106220642,113.556841550426,官也街 28-30號地下,Macau,Macau,Macau
+132,Yee Shun Milk Company (義順牛奶),Dessert Shop,22.192743637166746,113.5403979818143,新馬路381號,Macau,Macau,Macau
+133,Wynn Palace Cotai (永利皇宫),Resort,22.147194,113.56976,Av. da Nave Desportiva,Macau,Macau,Macau
+134,Portofino 碧濤意國漁鄉,Italian Restaurant,22.146094625406267,113.56085582770382,路氹城金光大道望德聖母灣大馬路澳門威尼斯人度假村酒店大運河購物中心1039-1049號舖,Macau,Macau,Macau
+135,"Four Seasons Hotel Macao, Cotai Strip (Four Seasons Hotel Macao, Cotai Strip 澳門四季酒店)",Resort,22.14552495827316,113.56165213524743,Est. da Baía de Nsa. Sra. da Esperança,Macau,Macau,Macau
+136,Sands Cotai Central (Sands Cotai Central 金沙城中心),Resort,22.1459958829737,113.56412786718239,Estrada do Istmo. s/n,Macau,Macau,Macau
+137,"Sheraton Grand Macao Hotel, Cotai Central (Sheraton Macao Hotel, Cotai Central)",Hotel,22.1453278,113.5653977,"Estrada Do Istmo. S/N, Cotai",Macau,Macau,Macau
+138,Eiffel Tower,Monument / Landmark,22.144048974620492,113.56197404696927,The Parisian Macao,Macau,Macau,Macau
+139,The Venetian Casino (The Venetian Casino 威尼斯人娛樂場),Casino,22.148273,113.56044,The Venetian Maacu Resort,Macau,Macau,Macau
+140,Chengdu East Railway Station (成都东站),Train Station,30.63110029608528,104.13878350065387,4 Wanke Rd.,Sichuan,Chengdu,Jinjiang
+141,Shangri-La Hotel Chengdu (成都香格里拉大酒店),Hotel,30.64547520420294,104.08317179282858,9 Binjiang E. Rd.,Sichuan,Chengdu,Jinjiang
+142,Taikoo Li (太古里),Shopping Mall,30.65502,104.081711,,Sichuan,Chengdu,Jinjiang
+143,方所 Fangsuo Commune,Bookstore,30.655599874371394,104.08031919371425,Taikoo Li,Sichuan,Chengdu,Jinjiang
+144,New Century Global Center (新世纪环球中心 New Century Global Center),Shopping Mall,30.57144745146452,104.06195732991252,1700 Tianfu Ave. N. Section,Sichuan,Chengdu,Jinjiang
+145,IFS (国际金融中心),Shopping Mall,30.656616907121787,104.07885038297985,锦江区红星路三段1号,Sichuan,Chengdu,Jinjiang
+146,Wuhou Shrine (武侯祠),Shrine,30.647349475904186,104.04686928660986,武侯祠大街231 | 231 Wuhouci St.,Sichuan,Chengdu,Jinjiang
+147,Jinli Street (锦里),Historic Site,30.648756572564924,104.04752522706985,武侯祠大街231号,Sichuan,Chengdu,Jinjiang
+148,Tianfu Square (天府广场),Plaza,30.659812863619912,104.06391455840223,Renmin E. Rd.,Sichuan,Chengdu,Jinjiang
+149,Chengdu (成都),City,30.6598058241697,104.06376600265502,,Sichuan,Chengdu,Jinjiang
+150,Wen Shu Monastery (文殊院),Temple,30.677062434955545,104.07037808376866,青羊区文殊院大街15号,Sichuan,Chengdu,Jinjiang
+151,Renmin Park (人民公园),Park,30.65958432661056,104.05475378036499,12 Shaocheng Rd.,Sichuan,Chengdu,Jinjiang
+152,Kuan Alley and Zhai Alley (宽窄巷子),Pedestrian Plaza,30.66587375483329,104.0513257883944,"Kuan Alley and Zhai Alley, Qingyang Dist.",Sichuan,Chengdu,Jinjiang
+153,Du Fu Thatched Cottage Museum (杜甫草堂),Historic Site,30.663097154899223,104.02556962664487,"37 Qinghua Rd., Qingyang Dist.",Sichuan,Chengdu,Jinjiang
+154,Wuhou Shrine (武侯祠),Shrine,30.647349475904186,104.04686928660986,武侯祠大街231 | 231 Wuhouci St.,Sichuan,Chengdu,Wuhou
+155,Jinli Street (锦里),Historic Site,30.648756572564924,104.04752522706985,武侯祠大街231号,Sichuan,Chengdu,Wuhou
+156,Renmin Park (人民公园),Park,30.65958432661056,104.05475378036499,12 Shaocheng Rd.,Sichuan,Chengdu,Wuhou
+157,Kuan Alley and Zhai Alley (宽窄巷子),Pedestrian Plaza,30.66587375483329,104.0513257883944,"Kuan Alley and Zhai Alley, Qingyang Dist.",Sichuan,Chengdu,Wuhou
+158,Du Fu Thatched Cottage Museum (杜甫草堂),Historic Site,30.663097154899223,104.02556962664487,"37 Qinghua Rd., Qingyang Dist.",Sichuan,Chengdu,Wuhou
+159,Tianfu Square (天府广场),Plaza,30.659812863619912,104.06391455840223,Renmin E. Rd.,Sichuan,Chengdu,Wuhou
+160,Chengdu (成都),City,30.6598058241697,104.06376600265502,,Sichuan,Chengdu,Wuhou
+161,Taikoo Li (太古里),Shopping Mall,30.65502,104.081711,,Sichuan,Chengdu,Wuhou
+162,IFS (国际金融中心),Shopping Mall,30.656616907121787,104.07885038297985,锦江区红星路三段1号,Sichuan,Chengdu,Wuhou
+163,方所 Fangsuo Commune,Bookstore,30.655599874371394,104.08031919371425,Taikoo Li,Sichuan,Chengdu,Wuhou
+164,Shangri-La Hotel Chengdu (成都香格里拉大酒店),Hotel,30.64547520420294,104.08317179282858,9 Binjiang E. Rd.,Sichuan,Chengdu,Wuhou
+165,Wen Shu Monastery (文殊院),Temple,30.677062434955545,104.07037808376866,青羊区文殊院大街15号,Sichuan,Chengdu,Wuhou
+166,New Century Global Center (新世纪环球中心 New Century Global Center),Shopping Mall,30.57144745146452,104.06195732991252,1700 Tianfu Ave. N. Section,Sichuan,Chengdu,Wuhou
+167,Chengdu East Railway Station (成都东站),Train Station,30.63110029608528,104.13878350065387,4 Wanke Rd.,Sichuan,Chengdu,Wuhou
+168,Air China First Class Check In,Airport Service,30.571443,103.95378,,Sichuan,Chengdu,Wuhou
+169,Starbucks (星巴克),Coffee Shop,30.573351637761938,103.9545565554273,3/F Shuangliu Airport T2,Sichuan,Chengdu,Wuhou
+170,Chengdu Shuangliu International Airport (CTU) (成都双流国际机场),Airport,30.580679210373585,103.95210262387991,,Sichuan,Chengdu,Wuhou
+171,China Immigration (中国边检),Border Crossing,30.583978213280886,103.95714664534925,CTU Airport,Sichuan,Chengdu,Wuhou
+172,Terminal 1 (成都双流国际机场T1),Airport Terminal,30.582064984177318,103.9567096483363,成都双流国际机场T1,Sichuan,Chengdu,Wuhou
+173,Terminal 2 (成都双流国际机场2号航站楼),Airport Terminal,30.571730882035606,103.95347435563235,成都双流国际机场T2,Sichuan,Chengdu,Wuhou
+174,No. 14 Giant Panda Enclosure,Zoo Exhibit,30.734999771585688,104.14352659781441,,Sichuan,Chengdu,Wuhou
+175,Chengdu Research Base of Giant Panda Breeding (成都大熊猫繁育研究基地),Zoo,30.735094198535524,104.14364329721819,"1375 Xiongmao Ave, Chenghua",Sichuan,Chengdu,Wuhou
+176,大熊猫月亮产房,Zoo Exhibit,30.741485191282003,104.13725167307808,,Sichuan,Chengdu,Wuhou
+177,New Century Global Center (新世纪环球中心 New Century Global Center),Shopping Mall,30.57144745146452,104.06195732991252,1700 Tianfu Ave. N. Section,Sichuan,Chengdu,Shuangliu
+178,Air China First Class Check In,Airport Service,30.571443,103.95378,,Sichuan,Chengdu,Shuangliu
+179,Starbucks (星巴克),Coffee Shop,30.573351637761938,103.9545565554273,3/F Shuangliu Airport T2,Sichuan,Chengdu,Shuangliu
+180,Chengdu Shuangliu International Airport (CTU) (成都双流国际机场),Airport,30.580679210373585,103.95210262387991,,Sichuan,Chengdu,Shuangliu
+181,Terminal 2 (成都双流国际机场2号航站楼),Airport Terminal,30.571730882035606,103.95347435563235,成都双流国际机场T2,Sichuan,Chengdu,Shuangliu
+182,Terminal 1 (成都双流国际机场T1),Airport Terminal,30.582064984177318,103.9567096483363,成都双流国际机场T1,Sichuan,Chengdu,Shuangliu
+183,China Immigration (中国边检),Border Crossing,30.583978213280886,103.95714664534925,CTU Airport,Sichuan,Chengdu,Shuangliu
+184,Wuhou Shrine (武侯祠),Shrine,30.647349475904186,104.04686928660986,武侯祠大街231 | 231 Wuhouci St.,Sichuan,Chengdu,Shuangliu
+185,Jinli Street (锦里),Historic Site,30.648756572564924,104.04752522706985,武侯祠大街231号,Sichuan,Chengdu,Shuangliu
+186,Shangri-La Hotel Chengdu (成都香格里拉大酒店),Hotel,30.64547520420294,104.08317179282858,9 Binjiang E. Rd.,Sichuan,Chengdu,Shuangliu
+187,Taikoo Li (太古里),Shopping Mall,30.65502,104.081711,,Sichuan,Chengdu,Shuangliu
+188,方所 Fangsuo Commune,Bookstore,30.655599874371394,104.08031919371425,Taikoo Li,Sichuan,Chengdu,Shuangliu
+189,IFS (国际金融中心),Shopping Mall,30.656616907121787,104.07885038297985,锦江区红星路三段1号,Sichuan,Chengdu,Shuangliu
+190,Renmin Park (人民公园),Park,30.65958432661056,104.05475378036499,12 Shaocheng Rd.,Sichuan,Chengdu,Shuangliu
+191,Kuan Alley and Zhai Alley (宽窄巷子),Pedestrian Plaza,30.66587375483329,104.0513257883944,"Kuan Alley and Zhai Alley, Qingyang Dist.",Sichuan,Chengdu,Shuangliu
+192,Du Fu Thatched Cottage Museum (杜甫草堂),Historic Site,30.663097154899223,104.02556962664487,"37 Qinghua Rd., Qingyang Dist.",Sichuan,Chengdu,Shuangliu
+193,Tianfu Square (天府广场),Plaza,30.659812863619912,104.06391455840223,Renmin E. Rd.,Sichuan,Chengdu,Shuangliu
+194,Chengdu (成都),City,30.6598058241697,104.06376600265502,,Sichuan,Chengdu,Shuangliu
+195,Wen Shu Monastery (文殊院),Temple,30.677062434955545,104.07037808376866,青羊区文殊院大街15号,Sichuan,Chengdu,Shuangliu
+196,Chengdu East Railway Station (成都东站),Train Station,30.63110029608528,104.13878350065387,4 Wanke Rd.,Sichuan,Chengdu,Shuangliu
+197,Dujiangyan Scenic Spot (都江堰风景区),Scenic Lookout,31.00335757951169,103.6101508140564,都江堰市,Sichuan,Chengdu,Dujiangyan
+198,Du Fu Thatched Cottage Museum (杜甫草堂),Historic Site,30.663097154899223,104.02556962664487,"37 Qinghua Rd., Qingyang Dist.",Sichuan,Chengdu,Qingyang
+199,Kuan Alley and Zhai Alley (宽窄巷子),Pedestrian Plaza,30.66587375483329,104.0513257883944,"Kuan Alley and Zhai Alley, Qingyang Dist.",Sichuan,Chengdu,Qingyang
+200,Jinli Street (锦里),Historic Site,30.648756572564924,104.04752522706985,武侯祠大街231号,Sichuan,Chengdu,Qingyang
+201,Wuhou Shrine (武侯祠),Shrine,30.647349475904186,104.04686928660986,武侯祠大街231 | 231 Wuhouci St.,Sichuan,Chengdu,Qingyang
+202,Renmin Park (人民公园),Park,30.65958432661056,104.05475378036499,12 Shaocheng Rd.,Sichuan,Chengdu,Qingyang
+203,Tianfu Square (天府广场),Plaza,30.659812863619912,104.06391455840223,Renmin E. Rd.,Sichuan,Chengdu,Qingyang
+204,Chengdu (成都),City,30.6598058241697,104.06376600265502,,Sichuan,Chengdu,Qingyang
+205,Wen Shu Monastery (文殊院),Temple,30.677062434955545,104.07037808376866,青羊区文殊院大街15号,Sichuan,Chengdu,Qingyang
+206,IFS (国际金融中心),Shopping Mall,30.656616907121787,104.07885038297985,锦江区红星路三段1号,Sichuan,Chengdu,Qingyang
+207,Taikoo Li (太古里),Shopping Mall,30.65502,104.081711,,Sichuan,Chengdu,Qingyang
+208,方所 Fangsuo Commune,Bookstore,30.655599874371394,104.08031919371425,Taikoo Li,Sichuan,Chengdu,Qingyang
+209,Shangri-La Hotel Chengdu (成都香格里拉大酒店),Hotel,30.64547520420294,104.08317179282858,9 Binjiang E. Rd.,Sichuan,Chengdu,Qingyang
+210,New Century Global Center (新世纪环球中心 New Century Global Center),Shopping Mall,30.57144745146452,104.06195732991252,1700 Tianfu Ave. N. Section,Sichuan,Chengdu,Qingyang
+211,Chengdu East Railway Station (成都东站),Train Station,30.63110029608528,104.13878350065387,4 Wanke Rd.,Sichuan,Chengdu,Qingyang
+212,Chengdu Shuangliu International Airport (CTU) (成都双流国际机场),Airport,30.580679210373585,103.95210262387991,,Sichuan,Chengdu,Qingyang
+213,China Immigration (中国边检),Border Crossing,30.583978213280886,103.95714664534925,CTU Airport,Sichuan,Chengdu,Qingyang
+214,Terminal 1 (成都双流国际机场T1),Airport Terminal,30.582064984177318,103.9567096483363,成都双流国际机场T1,Sichuan,Chengdu,Qingyang
+215,Air China First Class Check In,Airport Service,30.571443,103.95378,,Sichuan,Chengdu,Qingyang
+216,Starbucks (星巴克),Coffee Shop,30.573351637761938,103.9545565554273,3/F Shuangliu Airport T2,Sichuan,Chengdu,Qingyang
+217,Terminal 2 (成都双流国际机场2号航站楼),Airport Terminal,30.571730882035606,103.95347435563235,成都双流国际机场T2,Sichuan,Chengdu,Qingyang
+218,No. 14 Giant Panda Enclosure,Zoo Exhibit,30.734999771585688,104.14352659781441,,Sichuan,Chengdu,Qingyang
+219,Chengdu Research Base of Giant Panda Breeding (成都大熊猫繁育研究基地),Zoo,30.735094198535524,104.14364329721819,"1375 Xiongmao Ave, Chenghua",Sichuan,Chengdu,Qingyang
+220,大熊猫月亮产房,Zoo Exhibit,30.741485191282003,104.13725167307808,,Sichuan,Chengdu,Qingyang
+221,大熊猫月亮产房,Zoo Exhibit,30.741485191282003,104.13725167307808,,Sichuan,Chengdu,Xindu
+222,Chengdu Research Base of Giant Panda Breeding (成都大熊猫繁育研究基地),Zoo,30.735094198535524,104.14364329721819,"1375 Xiongmao Ave, Chenghua",Sichuan,Chengdu,Xindu
+223,No. 14 Giant Panda Enclosure,Zoo Exhibit,30.734999771585688,104.14352659781441,,Sichuan,Chengdu,Xindu
+224,Wen Shu Monastery (文殊院),Temple,30.677062434955545,104.07037808376866,青羊区文殊院大街15号,Sichuan,Chengdu,Jinniu
+225,Kuan Alley and Zhai Alley (宽窄巷子),Pedestrian Plaza,30.66587375483329,104.0513257883944,"Kuan Alley and Zhai Alley, Qingyang Dist.",Sichuan,Chengdu,Jinniu
+226,Renmin Park (人民公园),Park,30.65958432661056,104.05475378036499,12 Shaocheng Rd.,Sichuan,Chengdu,Jinniu
+227,Du Fu Thatched Cottage Museum (杜甫草堂),Historic Site,30.663097154899223,104.02556962664487,"37 Qinghua Rd., Qingyang Dist.",Sichuan,Chengdu,Jinniu
+228,Taikoo Li (太古里),Shopping Mall,30.65502,104.081711,,Sichuan,Chengdu,Jinniu
+229,IFS (国际金融中心),Shopping Mall,30.656616907121787,104.07885038297985,锦江区红星路三段1号,Sichuan,Chengdu,Jinniu
+230,方所 Fangsuo Commune,Bookstore,30.655599874371394,104.08031919371425,Taikoo Li,Sichuan,Chengdu,Jinniu
+231,Jinli Street (锦里),Historic Site,30.648756572564924,104.04752522706985,武侯祠大街231号,Sichuan,Chengdu,Jinniu
+232,Wuhou Shrine (武侯祠),Shrine,30.647349475904186,104.04686928660986,武侯祠大街231 | 231 Wuhouci St.,Sichuan,Chengdu,Jinniu
+233,Tianfu Square (天府广场),Plaza,30.659812863619912,104.06391455840223,Renmin E. Rd.,Sichuan,Chengdu,Jinniu
+234,Chengdu (成都),City,30.6598058241697,104.06376600265502,,Sichuan,Chengdu,Jinniu
+235,Shangri-La Hotel Chengdu (成都香格里拉大酒店),Hotel,30.64547520420294,104.08317179282858,9 Binjiang E. Rd.,Sichuan,Chengdu,Jinniu
+236,大熊猫月亮产房,Zoo Exhibit,30.741485191282003,104.13725167307808,,Sichuan,Chengdu,Jinniu
+237,No. 14 Giant Panda Enclosure,Zoo Exhibit,30.734999771585688,104.14352659781441,,Sichuan,Chengdu,Jinniu
+238,Chengdu Research Base of Giant Panda Breeding (成都大熊猫繁育研究基地),Zoo,30.735094198535524,104.14364329721819,"1375 Xiongmao Ave, Chenghua",Sichuan,Chengdu,Jinniu
+239,Chengdu East Railway Station (成都东站),Train Station,30.63110029608528,104.13878350065387,4 Wanke Rd.,Sichuan,Chengdu,Jinniu
+240,Chengdu East Railway Station (成都东站),Train Station,30.63110029608528,104.13878350065387,4 Wanke Rd.,Sichuan,Chengdu,Longquanyi
+241,Green Lake Park (翠湖公园),Park,25.051289,102.702131,翠湖路,Yunnan,Kunming,Panlong
+242,Kunming (昆明),City,25.051390832885463,102.70191192626953,,Yunnan,Kunming,Panlong
+243,Kunming Railway Station (昆明站),Train Station,25.01798988781625,102.72032260894775,官渡区永平路,Yunnan,Kunming,Panlong
+244,Stone Forest (石林),Scenic Lookout,24.82508875722945,103.32447558225562,Stone Forest,Yunnan,Kunming,Shilin
+245,Lijiang Old Town (丽江古城),Historic Site,26.87619220642287,100.23364283828286,,Yunnan,Lijiang,Gucheng
+246,Black Dragon Pool (黑龙潭公园),Park,26.88489422330808,100.23336907944945,云南省丽江市古城区教育路,Yunnan,Lijiang,Gucheng
+247,Four Square Street (四方街),Historic Site,26.87557119500201,100.23311451106916,大研古镇中心,Yunnan,Lijiang,Gucheng
+248,The Big Waterwheel (大水车),Outdoor Sculpture,26.87966470299254,100.23234379496552,古城北入口,Yunnan,Lijiang,Gucheng
+249,Shu He Ancient Town (束河古镇),Town,26.922616176193404,100.20461267060149,,Yunnan,Lijiang,Gucheng
+250,Ga Lào Cai (Lao Cai Station),Train Station,22.49209535440005,103.9779210496765,Khánh Yên,Yunnan,Honghe,Hekou
+251,Dali Old Town (大理古城),Historic Site,25.69429389451224,100.16167332641633,云南省大理市古城区,Yunnan,Dali,Dali
+252,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Shangcheng
+253,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Shangcheng
+254,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Shangcheng
+255,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Shangcheng
+256,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Shangcheng
+257,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Shangcheng
+258,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Shangcheng
+259,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Shangcheng
+260,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Shangcheng
+261,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Shangcheng
+262,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Shangcheng
+263,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Shangcheng
+264,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Shangcheng
+265,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Shangcheng
+266,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Shangcheng
+267,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Shangcheng
+268,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Shangcheng
+269,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Shangcheng
+270,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Shangcheng
+271,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Shangcheng
+272,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Shangcheng
+273,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Shangcheng
+274,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Shangcheng
+275,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Shangcheng
+276,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Shangcheng
+277,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Shangcheng
+278,Long Jing Village (龙井村),Other Great Outdoors,30.221390786759994,120.10716527795009,,Zhejiang,Hangzhou,Shangcheng
+279,Lingyin Temple (灵隐寺),Buddhist Temple,30.242837101961058,120.10103413990377,15号 Lingyin Rd,Zhejiang,Hangzhou,Shangcheng
+280,Song Dynasty Town (宋城),Theme Park,30.172502162764932,120.09477862335582,之江路148号,Zhejiang,Hangzhou,Shangcheng
+281,Mei Jia Wu Tea Village (梅家坞),Field,30.202615327950927,120.08158907848053,梅灵南路,Zhejiang,Hangzhou,Shangcheng
+282,Xixi National Wetland Park (西溪国家湿地公园),National Park,30.26750688018231,120.06482820087551,518 Tianmushan Rd.,Zhejiang,Hangzhou,Shangcheng
+283,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Gongshu
+284,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Gongshu
+285,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Gongshu
+286,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Gongshu
+287,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Gongshu
+288,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Gongshu
+289,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Gongshu
+290,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Gongshu
+291,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Gongshu
+292,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Gongshu
+293,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Gongshu
+294,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Gongshu
+295,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Gongshu
+296,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Gongshu
+297,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Gongshu
+298,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Gongshu
+299,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Gongshu
+300,Lingyin Temple (灵隐寺),Buddhist Temple,30.242837101961058,120.10103413990377,15号 Lingyin Rd,Zhejiang,Hangzhou,Gongshu
+301,Xixi National Wetland Park (西溪国家湿地公园),National Park,30.26750688018231,120.06482820087551,518 Tianmushan Rd.,Zhejiang,Hangzhou,Gongshu
+302,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Gongshu
+303,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Gongshu
+304,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Gongshu
+305,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Gongshu
+306,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Gongshu
+307,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Gongshu
+308,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Gongshu
+309,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Gongshu
+310,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Gongshu
+311,Long Jing Village (龙井村),Other Great Outdoors,30.221390786759994,120.10716527795009,,Zhejiang,Hangzhou,Gongshu
+312,Alibaba Xixi Campus (阿里巴巴西溪园区),Office,30.281823523542926,120.02112890962184,文一西路969号 | 969 Wenyi Rd.(W),Zhejiang,Hangzhou,Gongshu
+313,Mei Jia Wu Tea Village (梅家坞),Field,30.202615327950927,120.08158907848053,梅灵南路,Zhejiang,Hangzhou,Gongshu
+314,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Xiaoshan
+315,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Xiaoshan
+316,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Xiaoshan
+317,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Xiaoshan
+318,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Xiaoshan
+319,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Xiaoshan
+320,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Xiaoshan
+321,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Xiaoshan
+322,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Xiaoshan
+323,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Xiaoshan
+324,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Xiaoshan
+325,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Xiaoshan
+326,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Xiaoshan
+327,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Xiaoshan
+328,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Xiaoshan
+329,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Xiaoshan
+330,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Xiaoshan
+331,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Xiaoshan
+332,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Xiaoshan
+333,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Xiaoshan
+334,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Xiaoshan
+335,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Xiaoshan
+336,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Xiaoshan
+337,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Xiaoshan
+338,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Xiaoshan
+339,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Xiaoshan
+340,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Xiacheng
+341,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Xiacheng
+342,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Xiacheng
+343,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Xiacheng
+344,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Xiacheng
+345,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Xiacheng
+346,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Xiacheng
+347,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Xiacheng
+348,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Xiacheng
+349,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Xiacheng
+350,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Xiacheng
+351,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Xiacheng
+352,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Xiacheng
+353,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Xiacheng
+354,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Xiacheng
+355,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Xiacheng
+356,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Xiacheng
+357,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Xiacheng
+358,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Xiacheng
+359,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Xiacheng
+360,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Xiacheng
+361,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Xiacheng
+362,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Xiacheng
+363,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Xiacheng
+364,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Xiacheng
+365,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Xiacheng
+366,Lingyin Temple (灵隐寺),Buddhist Temple,30.242837101961058,120.10103413990377,15号 Lingyin Rd,Zhejiang,Hangzhou,Xiacheng
+367,Long Jing Village (龙井村),Other Great Outdoors,30.221390786759994,120.10716527795009,,Zhejiang,Hangzhou,Xiacheng
+368,Xixi National Wetland Park (西溪国家湿地公园),National Park,30.26750688018231,120.06482820087551,518 Tianmushan Rd.,Zhejiang,Hangzhou,Xiacheng
+369,Mei Jia Wu Tea Village (梅家坞),Field,30.202615327950927,120.08158907848053,梅灵南路,Zhejiang,Hangzhou,Xiacheng
+370,Song Dynasty Town (宋城),Theme Park,30.172502162764932,120.09477862335582,之江路148号,Zhejiang,Hangzhou,Xiacheng
+371,Alibaba Xixi Campus (阿里巴巴西溪园区),Office,30.281823523542926,120.02112890962184,文一西路969号 | 969 Wenyi Rd.(W),Zhejiang,Hangzhou,Xiacheng
+372,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Xihu
+373,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Xihu
+374,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Xihu
+375,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Xihu
+376,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Xihu
+377,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Xihu
+378,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Xihu
+379,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Xihu
+380,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Xihu
+381,Lingyin Temple (灵隐寺),Buddhist Temple,30.242837101961058,120.10103413990377,15号 Lingyin Rd,Zhejiang,Hangzhou,Xihu
+382,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Xihu
+383,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Xihu
+384,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Xihu
+385,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Xihu
+386,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Xihu
+387,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Xihu
+388,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Xihu
+389,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Xihu
+390,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Xihu
+391,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Xihu
+392,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Xihu
+393,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Xihu
+394,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Xihu
+395,Long Jing Village (龙井村),Other Great Outdoors,30.221390786759994,120.10716527795009,,Zhejiang,Hangzhou,Xihu
+396,Xixi National Wetland Park (西溪国家湿地公园),National Park,30.26750688018231,120.06482820087551,518 Tianmushan Rd.,Zhejiang,Hangzhou,Xihu
+397,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Xihu
+398,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Xihu
+399,Mei Jia Wu Tea Village (梅家坞),Field,30.202615327950927,120.08158907848053,梅灵南路,Zhejiang,Hangzhou,Xihu
+400,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Xihu
+401,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Xihu
+402,Song Dynasty Town (宋城),Theme Park,30.172502162764932,120.09477862335582,之江路148号,Zhejiang,Hangzhou,Xihu
+403,Alibaba Xixi Campus (阿里巴巴西溪园区),Office,30.281823523542926,120.02112890962184,文一西路969号 | 969 Wenyi Rd.(W),Zhejiang,Hangzhou,Xihu
+404,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Jianggan
+405,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Jianggan
+406,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Jianggan
+407,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Jianggan
+408,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Jianggan
+409,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Jianggan
+410,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Jianggan
+411,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Jianggan
+412,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Jianggan
+413,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Jianggan
+414,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Jianggan
+415,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Jianggan
+416,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Jianggan
+417,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Jianggan
+418,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Jianggan
+419,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Jianggan
+420,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Jianggan
+421,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Jianggan
+422,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Jianggan
+423,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Jianggan
+424,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Jianggan
+425,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Jianggan
+426,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Jianggan
+427,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Jianggan
+428,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Jianggan
+429,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Jianggan
+430,Lingyin Temple (灵隐寺),Buddhist Temple,30.242837101961058,120.10103413990377,15号 Lingyin Rd,Zhejiang,Hangzhou,Jianggan
+431,Long Jing Village (龙井村),Other Great Outdoors,30.221390786759994,120.10716527795009,,Zhejiang,Hangzhou,Jianggan
+432,Xixi National Wetland Park (西溪国家湿地公园),National Park,30.26750688018231,120.06482820087551,518 Tianmushan Rd.,Zhejiang,Hangzhou,Jianggan
+433,Mei Jia Wu Tea Village (梅家坞),Field,30.202615327950927,120.08158907848053,梅灵南路,Zhejiang,Hangzhou,Jianggan
+434,Song Dynasty Town (宋城),Theme Park,30.172502162764932,120.09477862335582,之江路148号,Zhejiang,Hangzhou,Jianggan
+435,MixC (万象城),Shopping Mall,30.25406284493166,120.21102905273436,富春路701号,Zhejiang,Hangzhou,Binjiang
+436,Hangzhou (杭州),City,30.249058231690526,120.20510673522948,,Zhejiang,Hangzhou,Binjiang
+437,Hangzhou Railway Station (杭州站),Train Station,30.2460553413756,120.17824172973634,环城东路1号,Zhejiang,Hangzhou,Binjiang
+438,Hefang Street (河坊街),Road,30.24301528486329,120.16395092010498,河坊街,Zhejiang,Hangzhou,Binjiang
+439,Orioles Singing in the Willows (柳浪闻莺),Scenic Lookout,30.241905885208222,120.15220669933332,上城区南山路87号,Zhejiang,Hangzhou,Binjiang
+440,Apple West Lake (Apple 西湖),Electronics Store,30.256470355368247,120.15879034996033,"平海路100号, 上城区",Zhejiang,Hangzhou,Binjiang
+441,Leifeng Pagoda (雷峰塔),Buddhist Temple,30.232793429839354,120.14492733954943,15 Nanshan Rd.,Zhejiang,Hangzhou,Binjiang
+442,Intime Mall (银泰百货),Shopping Mall,30.24568460781187,120.16068935394287,延安路98号,Zhejiang,Hangzhou,Binjiang
+443,Hubin Intime In77 (湖滨银泰 In77),Shopping Mall,30.255760913207293,120.15885419456319,258 Yan'an Rd | 延安路258号,Zhejiang,Hangzhou,Binjiang
+444,Grand Hyatt Hangzhou (杭州凱悦酒店),Hotel,30.25710682832521,120.15673458823491,28 Hu Bin Rd,Zhejiang,Hangzhou,Binjiang
+445,West Lake Fountain (西湖喷泉),Fountain,30.256416778549536,120.15650510787964,湖滨路 Hubin Rd.,Zhejiang,Hangzhou,Binjiang
+446,Bai Causeway (白堤),Trail,30.25908754737835,120.14546245336533,Beishan Rd.,Zhejiang,Hangzhou,Binjiang
+447,Hangzhou Kerry Centre (杭州嘉里中心),Shopping Plaza,30.262957423287748,120.1582485437393,270 Qinchun Rd,Zhejiang,Hangzhou,Binjiang
+448,Su Causeway (苏堤),Trail,30.23908531635247,120.13554096221924,西湖北山路,Zhejiang,Hangzhou,Binjiang
+449,Three Pools Mirroring the Moon (三潭印月),Lake,30.24095763227088,120.14071226119995,西湖中部 | Central West Lake,Zhejiang,Hangzhou,Binjiang
+450,Duanqiao Canxue (断桥殘雪),Bridge,30.261407510361593,120.14747600651276,西湖,Zhejiang,Hangzhou,Binjiang
+451,Wulin Square (武林广场),Plaza,30.27400237851271,120.15836931640139,体育场路,Zhejiang,Hangzhou,Binjiang
+452,Lou Wai Lou (樓外樓),Chinese Restaurant,30.25245155719744,120.13592821999924,湖口路3号 | 3 Hukou Rd.,Zhejiang,Hangzhou,Binjiang
+453,West Lake (西湖),Lake,30.255192323655105,120.15567426371622,Hangzhou,Zhejiang,Hangzhou,Binjiang
+454,Viewing Fish at Flower Pond (花港观鱼),Lake,30.23361183188337,120.13697862625122,西湖苏堤,Zhejiang,Hangzhou,Binjiang
+455,Impression West Lake (印象西湖),Performing Arts Venue,30.25339858241126,120.13029400868912,北山路 Beishan Rd.,Zhejiang,Hangzhou,Binjiang
+456,West Lake Cultural Square (西湖文化广场),Plaza,30.27849257583462,120.15863430817392,西湖文化广场,Zhejiang,Hangzhou,Binjiang
+457,Yue Fei Temple (岳王庙),Temple,30.2539404338066,120.13008614897129,北山路西80号 | 80 Bei Shan Rd.,Zhejiang,Hangzhou,Binjiang
+458,Hangzhou Tower (杭州大厦),Shopping Mall,30.275638361655673,120.15666095251835,1 Wulin Sq | 武林广场1号,Zhejiang,Hangzhou,Binjiang
+459,Hangzhou East Railway Station (杭州东站),Train Station,30.29366443503979,120.20834684371948,1 Tiancheng Rd,Zhejiang,Hangzhou,Binjiang
+460,Breeze-Ruffled Lotus at Winding Garden (曲院风荷),Lake,30.253783791516373,120.12817935578255,北山路89号,Zhejiang,Hangzhou,Binjiang
+461,Long Jing Village (龙井村),Other Great Outdoors,30.221390786759994,120.10716527795009,,Zhejiang,Hangzhou,Binjiang
+462,Lingyin Temple (灵隐寺),Buddhist Temple,30.242837101961058,120.10103413990377,15号 Lingyin Rd,Zhejiang,Hangzhou,Binjiang
+463,Song Dynasty Town (宋城),Theme Park,30.172502162764932,120.09477862335582,之江路148号,Zhejiang,Hangzhou,Binjiang
+464,Mei Jia Wu Tea Village (梅家坞),Field,30.202615327950927,120.08158907848053,梅灵南路,Zhejiang,Hangzhou,Binjiang
+465,Tongxiang Railway Station (TVX) (桐乡站),Train Station,30.539745375330007,120.56357797023516,桐乡站,Zhejiang,Jiaxing,Haining
+466,Jiaxing Service Area (嘉兴服务区),Rest Area,30.624859821441532,120.67304340832457,沪杭高速公路 G60,Zhejiang,Jiaxing,Haining
+467,Jiaxing Service Area (嘉兴服务区),Rest Area,30.624859821441532,120.67304340832457,沪杭高速公路 G60,Zhejiang,Jiaxing,Tongxiang
+468,Tongxiang Railway Station (TVX) (桐乡站),Train Station,30.539745375330007,120.56357797023516,桐乡站,Zhejiang,Jiaxing,Tongxiang
+469,Ningbo Lishe International Airport (NGB) (宁波栎社国际机场),Airport,29.82089202777397,121.4620167016983,Hangan Rd | 航安路,Zhejiang,Ningbo,Haishu
+470,Tianyi Square (天一广场),Plaza,29.871908268231252,121.54998779296875,88 Zhongshan Rd,Zhejiang,Ningbo,Jiangbei
+471,Ningbo Railway Station (宁波火车站),Train Station,29.864497641910763,121.53285954147577,宁波海曙区南站东路19号,Zhejiang,Ningbo,Jiangbei
+472,Ningbo Lishe International Airport (NGB) (宁波栎社国际机场),Airport,29.82089202777397,121.4620167016983,Hangan Rd | 航安路,Zhejiang,Ningbo,Jiangbei
+473,Wenzhou South Railway Station (温州南站),Train Station,27.969337992347615,120.58187943311945,潘桥镇,Zhejiang,Wenzhou,Lucheng
+474,Wenzhou Longwan International Airport (WNZ) (温州龙湾国际机场),Airport,27.91654666827614,120.84842383861542,1 Airport Ave,Zhejiang,Wenzhou,Longwan
+475,Starbucks (星巴克),Coffee Shop,29.310860267987913,120.07844183162618,工人北路2号,Zhejiang,Jinhua,Yiwu
+476,Sultan Turkish Restaurant,Turkish Restaurant,29.3185715104265,120.08707472964383,Chouzhou N Rd,Zhejiang,Jinhua,Yiwu
+477,Bosphorus Turkish Restaurant,Turkish Restaurant,29.316328,120.089609,,Zhejiang,Jinhua,Yiwu
+478,Yiwu (义乌),City,29.322450626829646,120.08910948559189,,Zhejiang,Jinhua,Yiwu
+479,Yiwu International Trade City (义乌国际商贸城),Convention Center,29.330208581559578,120.09797128596378,900 Chouzhou N Rd,Zhejiang,Jinhua,Yiwu
+480,Futian Market,Shopping Mall,29.333882027116786,120.0994434952162,"27498 No4 Street H, Area 3F No 59",Zhejiang,Jinhua,Yiwu
+481,District 3 Yiwu International Trade Market,Convention Center,29.339316637170455,120.1030478012981,福田路,Zhejiang,Jinhua,Yiwu
+482,District 4 Yiwu. International Trade Center,Shop & Service,29.343836267092914,120.1056762325178,,Zhejiang,Jinhua,Yiwu
+483,Yiwu Airport (YIW) (义乌机场),Airport,29.342912577378833,120.02783920615911,,Zhejiang,Jinhua,Yiwu
+484,Yiwu Railway Station (YIU) (义乌站),Train Station,29.380887722694897,120.03869473368447,北站大道333号,Zhejiang,Jinhua,Yiwu
+485,Sultan Turkish Restaurant,Turkish Restaurant,29.3185715104265,120.08707472964383,Chouzhou N Rd,Zhejiang,Jinhua,Dongyang
+486,Yiwu International Trade City (义乌国际商贸城),Convention Center,29.330208581559578,120.09797128596378,900 Chouzhou N Rd,Zhejiang,Jinhua,Dongyang
+487,Bosphorus Turkish Restaurant,Turkish Restaurant,29.316328,120.089609,,Zhejiang,Jinhua,Dongyang
+488,District 4 Yiwu. International Trade Center,Shop & Service,29.343836267092914,120.1056762325178,,Zhejiang,Jinhua,Dongyang
+489,Futian Market,Shopping Mall,29.333882027116786,120.0994434952162,"27498 No4 Street H, Area 3F No 59",Zhejiang,Jinhua,Dongyang
+490,District 3 Yiwu International Trade Market,Convention Center,29.339316637170455,120.1030478012981,福田路,Zhejiang,Jinhua,Dongyang
+491,Yiwu (义乌),City,29.322450626829646,120.08910948559189,,Zhejiang,Jinhua,Dongyang
