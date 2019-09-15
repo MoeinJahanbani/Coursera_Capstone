@@ -136,7 +136,7 @@
 134,Chongqing,Chongqing,Qianjiang,409000,"Qianjiang,Chongqing,China",29.536148,108.7673528
 135,Chongqing,Chongqing,Changshou,401220,"Changshou,Chongqing,China",29.956916,107.135375
 136,Chongqing,Chongqing,Jiangjin,402260,"Jiangjin,Chongqing,China",29.0312579,106.2732111
-137,Chongqing,Chongqing,Hechuan,401520,"Hechuan,Chongqing,China",29.9969268,106.2605768
+137,Chongqing,Chongqing,Hechuan,401520,"Hechuan,Chongqing,China",29.9746891,106.272238
 138,Chongqing,Chongqing,Yongchuan,402160,"Yongchuan,Chongqing,China",29.29285,105.870081
 139,Chongqing,Chongqing,Nanchuan,408400,"Nanchuan,Chongqing,China",29.1521509,107.1827786
 140,Chongqing,Chongqing,County,Zip Code,"County,Chongqing,China",29.5585712,106.5492822
@@ -151,7 +151,7 @@
 149,Chongqing,Chongqing,Fengdu,408200,"Fengdu,Chongqing,China",29.889273,107.822787
 150,Chongqing,Chongqing,Dianjiang,408300,"Dianjiang,Chongqing,China",30.3337678,107.3463333
 151,Chongqing,Chongqing,Wulong,408500,"Wulong,Chongqing,China",29.3284452,107.7552723
-152,Chongqing,Chongqing,Zhongxian,404300,"Zhongxian,Chongqing,China",30.1131891,107.9590666
+152,Chongqing,Chongqing,Zhongxian,404300,"Zhongxian,Chongqing,China",30.7606843,108.4853371
 153,Chongqing,Chongqing,Kaixian,405400,"Kaixian,Chongqing,China",,
 154,Chongqing,Chongqing,Yunyang,404500,"Yunyang,Chongqing,China",31.0333358,108.8624984
 155,Chongqing,Chongqing,Fengjie,404600,"Fengjie,Chongqing,China",30.9645818,109.3989566
@@ -161,54 +161,54 @@
 159,Chongqing,Chongqing,Xiushan,409900,"Xiushan,Chongqing,China",28.52289285,109.000511221475
 160,Chongqing,Chongqing,Youyang,409800,"Youyang,Chongqing,China",28.844414,108.7634259
 161,Chongqing,Chongqing,Pengshui,409600,"Pengshui,Chongqing,China",29.2962877,108.1610845
-162,Fujian,Fuzhou,Gulou District,350000,"Gulou District,Fuzhou,Fujian,China",26.0912409,119.277556322237
-163,Fujian,Fuzhou,Mawei District,350000,"Mawei District,Fuzhou,Fujian,China",26.0702613,119.457881378256
-164,Fujian,Fuzhou,Lianjiang County,350500,"Lianjiang County,Fuzhou,Fujian,China",26.25290615,119.622490129542
-165,Fujian,Fuzhou,Yongtai,350700,"Yongtai,Fuzhou,Fujian,China",25.8695961,118.9279542
+162,Fujian,Fuzhou,Gulou District,350000,"Gulou District,Fuzhou,Fujian,China",26.0850844,119.2990881
+163,Fujian,Fuzhou,Mawei District,350000,"Mawei District,Fuzhou,Fujian,China",25.9922204,119.450796
+164,Fujian,Fuzhou,Lianjiang County,350500,"Lianjiang County,Fuzhou,Fujian,China",26.2014892,119.534595
+165,Fujian,Fuzhou,Yongtai,350700,"Yongtai,Fuzhou,Fujian,China",25.8463272,118.8130599
 166,Fujian,Fuzhou,Changle,350200,"Changle,Fuzhou,Fujian,China",25.9660393,119.5185643
-167,Fujian,Fuzhou,Taijiang District,350000,"Taijiang District,Fuzhou,Fujian,China",26.0583744,119.31422827837
-168,Fujian,Fuzhou,Cangshan,350000,"Cangshan,Fuzhou,Fujian,China",26.03331595,119.303935679648
+167,Fujian,Fuzhou,Taijiang District,350000,"Taijiang District,Fuzhou,Fujian,China",26.0558001,119.3092115
+168,Fujian,Fuzhou,Cangshan,350000,"Cangshan,Fuzhou,Fujian,China",26.0499778,119.2685656
 169,Fujian,Fuzhou,Jin'an,350000,"Jin'an,Fuzhou,Fujian,China",26.22896875,119.299077360263
-170,Fujian,Fuzhou,Minhou County,350100,"Minhou County,Fuzhou,Fujian,China",26.20198105,119.067813886907
+170,Fujian,Fuzhou,Minhou County,350100,"Minhou County,Fuzhou,Fujian,China",26.2276316,119.0758082
 171,Fujian,Fuzhou,Luoyuan,350600,"Luoyuan,Fuzhou,Fujian,China",26.4929647,119.5448198
-172,Fujian,Fuzhou,Minqing,350800,"Minqing,Fuzhou,Fujian,China",26.223883,118.8590245
+172,Fujian,Fuzhou,Minqing,350800,"Minqing,Fuzhou,Fujian,China",26.1901088,118.7498961
 173,Fujian,Fuzhou,Pingtan,350400,"Pingtan,Fuzhou,Fujian,China",25.516667,119.7925262
 174,Fujian,Fuzhou,Fuqing,350300,"Fuqing,Fuzhou,Fujian,China",25.7237321,119.3795377
-175,Fujian,Xiamen,Siming,361000,"Siming,Xiamen,Fujian,China",24.4482833,118.0773848
-176,Fujian,Xiamen,Jimei,361000,"Jimei,Xiamen,Fujian,China",24.5780219,118.0922581
-177,Fujian,Xiamen,Haicang District,361000,"Haicang District,Xiamen,Fujian,China",24.5438434,117.966191577203
+175,Fujian,Xiamen,Siming,361000,"Siming,Xiamen,Fujian,China",24.4660028,118.123878957677
+176,Fujian,Xiamen,Jimei,361000,"Jimei,Xiamen,Fujian,China",24.6494075,118.013487950659
+177,Fujian,Xiamen,Haicang District,361000,"Haicang District,Xiamen,Fujian,China",24.5438644,117.966292282236
 178,Fujian,Xiamen,Huli District,361000,"Huli District,Xiamen,Fujian,China",24.5197379,118.122750893812
 179,Fujian,Xiamen,Tongan,361100,"Tongan,Xiamen,Fujian,China",24.7254351,118.1470669
-180,Fujian,Xiamen,Xiang'an,361100,"Xiang'an,Xiamen,Fujian,China",24.68180615,118.264459053997
-181,Fujian,Quanzhou,Licheng District,362000,"Licheng District,Quanzhou,Fujian,China",24.9021159,118.542915113227
+180,Fujian,Xiamen,Xiang'an,361100,"Xiang'an,Xiamen,Fujian,China",24.620611,118.2434276
+181,Fujian,Quanzhou,Licheng District,362000,"Licheng District,Quanzhou,Fujian,China",24.910564,118.5822144
 182,Fujian,Quanzhou,Quangang District,362100,"Quangang District,Quanzhou,Fujian,China",25.16653155,118.840906815585
 183,Fujian,Quanzhou,Yongchun County,362600,"Yongchun County,Quanzhou,Fujian,China",25.3620509,118.1365912
-184,Fujian,Quanzhou,Shishi,362700,"Shishi,Quanzhou,Fujian,China",24.7337639,118.6439351
-185,Fujian,Quanzhou,Fengze District,362000,"Fengze District,Quanzhou,Fujian,China",24.92331695,118.635897758147
-186,Fujian,Quanzhou,Luojiang District,362000,"Luojiang District,Quanzhou,Fujian,China",25.12192705,118.619052962861
+184,Fujian,Quanzhou,Shishi,362700,"Shishi,Quanzhou,Fujian,China",24.74149825,118.672703771017
+185,Fujian,Quanzhou,Fengze District,362000,"Fengze District,Quanzhou,Fujian,China",24.8928541,118.6084597
+186,Fujian,Quanzhou,Luojiang District,362000,"Luojiang District,Quanzhou,Fujian,China",24.9428767,118.6667601
 187,Fujian,Quanzhou,Huian County,362100,"Huian County,Quanzhou,Fujian,China",24.9917675,118.813035400803
-188,Fujian,Quanzhou,Anxi ,362400,"Anxi ,Quanzhou,Fujian,China",25.0582843,118.1817065
-189,Fujian,Quanzhou,Dehua,362500,"Dehua,Quanzhou,Fujian,China",25.4945484,118.2362336
+188,Fujian,Quanzhou,Anxi ,362400,"Anxi ,Quanzhou,Fujian,China",25.0883325,117.9154134
+189,Fujian,Quanzhou,Dehua,362500,"Dehua,Quanzhou,Fujian,China",25.667531,118.223438096199
 190,Fujian,Quanzhou,Jinmen,362000,"Jinmen,Quanzhou,Fujian,China",,
 191,Fujian,Quanzhou,Jinjiang,362200,"Jinjiang,Quanzhou,Fujian,China",24.784435,118.5477505
-192,Fujian,Quanzhou,Nan'an,362300,"Nan'an,Quanzhou,Fujian,China",24.9634415,118.3815602
+192,Fujian,Quanzhou,Nan'an,362300,"Nan'an,Quanzhou,Fujian,China",24.94111145,118.322927670003
 193,Fujian,Putian,Chengxiang District,351100,"Chengxiang District,Putian,Fujian,China",25.4258611,118.932039930886
 194,Fujian,Putian,Hanjiang District,351100,"Hanjiang District,Putian,Fujian,China",25.57418155,119.067559491764
 195,Fujian,Putian,Licheng District,351100,"Licheng District,Putian,Fujian,China",25.4272241,119.048838440749
-196,Fujian,Putian,Xianyou County,351200,"Xianyou County,Putian,Fujian,China",25.4421024,118.639324882079
+196,Fujian,Putian,Xianyou County,351200,"Xianyou County,Putian,Fujian,China",25.3634907,118.6868364
 197,Fujian,Putian,Xiuyu District,351100,"Xiuyu District,Putian,Fujian,China",25.23099195,119.219029414472
-198,Fujian,Sanming,Meilie District,365000,"Meilie District,Sanming,Fujian,China",26.3153572,117.63953622521
+198,Fujian,Sanming,Meilie District,365000,"Meilie District,Sanming,Fujian,China",26.2750213,117.6413951
 199,Fujian,Sanming,Qingliu,365300,"Qingliu,Sanming,Fujian,China",26.1757177,116.8075874
 200,Fujian,Sanming,Youxi,365100,"Youxi,Sanming,Fujian,China",26.1490539,118.1136492
 201,Fujian,Sanming,Taining,354400,"Taining,Sanming,Fujian,China",26.9030136,117.1705536
-202,Fujian,Sanming,Sanyuan District,365000,"Sanyuan District,Sanming,Fujian,China",26.1673618,117.547655270304
+202,Fujian,Sanming,Sanyuan District,365000,"Sanyuan District,Sanming,Fujian,China",26.2374327,117.603111
 203,Fujian,Sanming,Mingxi,365200,"Mingxi,Sanming,Fujian,China",26.359355,117.1967922
-204,Fujian,Sanming,Ninghua,365400,"Ninghua,Sanming,Fujian,China",26.2652762,116.6497871
-205,Fujian,Sanming,Datian County,366100,"Datian County,Sanming,Fujian,China",25.8203944,117.764499757517
-206,Fujian,Sanming,Shaxian,365500,"Shaxian,Sanming,Fujian,China",26.3990589,117.7880552
+204,Fujian,Sanming,Ninghua,365400,"Ninghua,Sanming,Fujian,China",26.3165514,116.651459539305
+205,Fujian,Sanming,Datian County,366100,"Datian County,Sanming,Fujian,China",25.695655,117.8422453
+206,Fujian,Sanming,Shaxian,365500,"Shaxian,Sanming,Fujian,China",26.39259,117.77236
 207,Fujian,Sanming,Jiangle,353300,"Jiangle,Sanming,Fujian,China",26.7318594,117.4663942
 208,Fujian,Sanming,Jianning,354500,"Jianning,Sanming,Fujian,China",26.8342826,116.841406
-209,Fujian,Sanming,Yongan City,366000,"Yongan City,Sanming,Fujian,China",25.88302515,117.322492766656
+209,Fujian,Sanming,Yongan City,366000,"Yongan City,Sanming,Fujian,China",25.9438841,117.3601018
 210,Fujian,Zhangzhou,Xiangcheng District,363000,"Xiangcheng District,Zhangzhou,Fujian,China",24.5136973,117.6491194
 211,Fujian,Zhangzhou,Zhangpu County,363200,"Zhangpu County,Zhangzhou,Fujian,China",24.1201316,117.6086533
 212,Fujian,Zhangzhou,Dongshan,363400,"Dongshan,Zhangzhou,Fujian,China",23.7036247,117.4248448
@@ -221,29 +221,29 @@
 219,Fujian,Zhangzhou,Pinghe,363700,"Pinghe,Zhangzhou,Fujian,China",24.3659798,117.3095011
 220,Fujian,Zhangzhou,Longhai,363100,"Longhai,Zhangzhou,Fujian,China",24.4490237,117.8132438
 221,Fujian,Nanping,Yanping District,353000,"Yanping District,Nanping,Fujian,China",26.6408323,118.1778773
-222,Fujian,Nanping,Guangze County,354100,"Guangze County,Nanping,Fujian,China",27.6456714,117.324091641791
+222,Fujian,Nanping,Guangze County,354100,"Guangze County,Nanping,Fujian,China",27.5423226,117.3274109
 223,Fujian,Nanping,Shaowu,354000,"Shaowu,Nanping,Fujian,China",27.3437632,117.4871877
 224,Fujian,Nanping,Jianyang,354200,"Jianyang,Nanping,Fujian,China",27.3348608,118.1152714
 225,Fujian,Nanping,Shunchang,353200,"Shunchang,Nanping,Fujian,China",26.7965076,117.805262
 226,Fujian,Nanping,Pucheng,353400,"Pucheng,Nanping,Fujian,China",27.920665,118.5364676
 227,Fujian,Nanping,Songxi,353500,"Songxi,Nanping,Fujian,China",27.5297298,118.7804371
-228,Fujian,Nanping,Zhenghe,353600,"Zhenghe,Nanping,Fujian,China",27.3087658,118.9858554
+228,Fujian,Nanping,Zhenghe,353600,"Zhenghe,Nanping,Fujian,China",27.3668621,118.8523942
 229,Fujian,Nanping,Wuyishan,354300,"Wuyishan,Nanping,Fujian,China",27.7590448,118.0297688
 230,Fujian,Nanping,Jian'ou,353100,"Jian'ou,Nanping,Fujian,China",27.0252649,118.3003243
-231,Fujian,Longyan,Xinluo District,364000,"Xinluo District,Longyan,Fujian,China",25.1866454,117.037412390349
-232,Fujian,Longyan,Shanghang County,364200,"Shanghang County,Longyan,Fujian,China",25.1090851,116.517186172089
+231,Fujian,Longyan,Xinluo District,364000,"Xinluo District,Longyan,Fujian,China",25.1010314,117.0322636
+232,Fujian,Longyan,Shanghang County,364200,"Shanghang County,Longyan,Fujian,China",25.0513616,116.4150502
 233,Fujian,Longyan,Zhangping,364400,"Zhangping,Longyan,Fujian,China",25.2923579,117.414772
 234,Fujian,Longyan,Changting,366300,"Changting,Longyan,Fujian,China",25.8365297,116.3528512
 235,Fujian,Longyan,Yongding,364100,"Yongding,Longyan,Fujian,China",24.7264405,116.7269188
 236,Fujian,Longyan,Wuping,364300,"Wuping,Longyan,Fujian,China",25.0980757,116.0956689
 237,Fujian,Longyan,Liancheng,366200,"Liancheng,Longyan,Fujian,China",25.7125573,116.74956
-238,Fujian,Ningde,Jiaocheng District,352000,"Jiaocheng District,Ningde,Fujian,China",26.7472146,119.405054917788
-239,Fujian,Ningde,Pingnan County,352300,"Pingnan County,Ningde,Fujian,China",26.94873685,118.937812929437
-240,Fujian,Ningde,Zherong,355300,"Zherong,Ningde,Fujian,China",27.216667,119.866667
-241,Fujian,Ningde,Xiapu County,355100,"Xiapu County,Ningde,Fujian,China",26.9605382,119.9745153
-242,Fujian,Ningde,Gutian,352200,"Gutian,Ningde,Fujian,China",26.5810904,118.7416373
-243,Fujian,Ningde,Shouning,355500,"Shouning,Ningde,Fujian,China",27.4026889,119.5020949
-244,Fujian,Ningde,Zhouning County,355400,"Zhouning County,Ningde,Fujian,China",27.10620545,119.282918945754
+238,Fujian,Ningde,Jiaocheng District,352000,"Jiaocheng District,Ningde,Fujian,China",26.6637689,119.5217603
+239,Fujian,Ningde,Pingnan County,352300,"Pingnan County,Ningde,Fujian,China",26.9120598,118.981458
+240,Fujian,Ningde,Zherong,355300,"Zherong,Ningde,Fujian,China",27.2377615,119.8962904
+241,Fujian,Ningde,Xiapu County,355100,"Xiapu County,Ningde,Fujian,China",26.8885275,120.0009531
+242,Fujian,Ningde,Gutian,352200,"Gutian,Ningde,Fujian,China",26.6234938,118.8582237
+243,Fujian,Ningde,Shouning,355500,"Shouning,Ningde,Fujian,China",27.4569839,119.5101439
+244,Fujian,Ningde,Zhouning County,355400,"Zhouning County,Ningde,Fujian,China",27.1072041,119.3339545
 245,Fujian,Ningde,Fuan,355000,"Fuan,Ningde,Fujian,China",27.0909995,119.6433621
 246,Fujian,Ningde,Fuding,355200,"Fuding,Ningde,Fujian,China",27.3274216,120.2126329
 247,Guangdong,Guangzhou,Liwan,510000,"Liwan,Guangzhou,Guangdong,China",23.128625,113.239199
@@ -501,7 +501,7 @@
 499,Guangxi,Wuzhou,Changzhou District,543000,"Changzhou District,Wuzhou,Guangxi,China",23.54446825,111.145966852861
 500,Guangxi,Wuzhou,Mengshan,546700,"Mengshan,Wuzhou,Guangxi,China",24.203133,110.521554
 501,Guangxi,Beihai,Haicheng District,536000,"Haicheng District,Beihai,Guangxi,China",21.52220995,109.185091466089
-502,Guangxi,Beihai,Hepu,536100,"Hepu,Beihai,Guangxi,China",21.683333,109.15
+502,Guangxi,Beihai,Hepu,536100,"Hepu,Beihai,Guangxi,China",21.6635899,109.2029238
 503,Guangxi,Beihai,Yinhai District,536000,"Yinhai District,Beihai,Guangxi,China",21.52554575,109.302808178591
 504,Guangxi,Beihai,Tieshangang District,536000,"Tieshangang District,Beihai,Guangxi,China",21.5642193,109.487582194896
 505,Guangxi,Fangcheng,Gangkou,538000,"Gangkou,Fangcheng,Guangxi,China",21.6015573,108.464133158061
@@ -609,7 +609,7 @@
 607,Guizhou,Tongren,Songtao,554100,"Songtao,Tongren,Guizhou,China",28.1688039,109.19847
 608,Guizhou,Qianxinan,Xingyi City,562400,"Xingyi City,Qianxinan,Guizhou,China",25.0997,104.7954
 609,Guizhou,Qianxinan,Qinglong,561400,"Qinglong,Qianxinan,Guizhou,China",25.79306,105.179182
-610,Guizhou,Qianxinan,Ceheng,552200,"Ceheng,Qianxinan,Guizhou,China",24.96433,105.7943
+610,Guizhou,Qianxinan,Ceheng,552200,"Ceheng,Qianxinan,Guizhou,China",24.9870215,105.8136734
 611,Guizhou,Qianxinan,Xingren,562300,"Xingren,Qianxinan,Guizhou,China",25.50503,105.19988
 612,Guizhou,Qianxinan,Zhenfeng,562200,"Zhenfeng,Qianxinan,Guizhou,China",25.4549,105.6417
 613,Guizhou,Qianxinan,Anlong,552400,"Anlong,Qianxinan,Guizhou,China",25.2109136,105.3149496
@@ -651,39 +651,39 @@
 649,Guizhou,Qiannan,Dushan,558200,"Dushan,Qiannan,Guizhou,China",25.726227,107.567303
 650,Guizhou,Qiannan,Changshun,550700,"Changshun,Qiannan,Guizhou,China",26.0005466,106.4273045
 651,Guizhou,Qiannan,Sandu,558100,"Sandu,Qiannan,Guizhou,China",25.90445,107.951003
-652,Henan,Zhengzhou ,Zhongyuan,450000,"Zhongyuan,Zhengzhou ,Henan,China",34.7800182,113.546720865746
+652,Henan,Zhengzhou ,Zhongyuan,450000,"Zhongyuan,Zhengzhou ,Henan,China",34.7462943,113.5896897
 653,Henan,Zhengzhou ,Jinshui,450000,"Jinshui,Zhengzhou ,Henan,China",34.81125785,113.726993436037
-654,Henan,Zhengzhou ,Zhongmu,451450,"Zhongmu,Zhengzhou ,Henan,China",34.725574,114.020586
+654,Henan,Zhengzhou ,Zhongmu,451450,"Zhongmu,Zhengzhou ,Henan,China",34.7208827,113.9698171
 655,Henan,Zhengzhou ,Xinmi,452370,"Xinmi,Zhengzhou ,Henan,China",34.5307313,113.3761237
 656,Henan,Zhengzhou ,Erqi,450000,"Erqi,Zhengzhou ,Henan,China",34.6854092,113.582540022945
 657,Henan,Zhengzhou ,Shangjie,450041,"Shangjie,Zhengzhou ,Henan,China",34.77923005,113.277946865312
 658,Henan,Zhengzhou ,Gongyi,451200,"Gongyi,Zhengzhou ,Henan,China",34.754623,112.9798562
 659,Henan,Zhengzhou ,Xinzheng,451100,"Xinzheng,Zhengzhou ,Henan,China",34.3971133,113.7336778
 660,Henan,Zhengzhou ,Guancheng,450000,"Guancheng,Zhengzhou ,Henan,China",34.6956779,113.7488755
-661,Henan,Zhengzhou ,Huiji,450000,"Huiji,Zhengzhou ,Henan,China",34.8836133,113.639261265815
+661,Henan,Zhengzhou ,Huiji,450000,"Huiji,Zhengzhou ,Henan,China",34.88093185,113.641401034518
 662,Henan,Zhengzhou ,Xingyang,450100,"Xingyang,Zhengzhou ,Henan,China",34.7899788,113.3809573
 663,Henan,Zhengzhou ,Dengfeng,452470,"Dengfeng,Zhengzhou ,Henan,China",34.4551772,113.0444455
 664,Henan,Luoyang,Laocheng,471000,"Laocheng,Luoyang,Henan,China",34.6857018,112.47285
-665,Henan,Luoyang,Jianxi,471000,"Jianxi,Luoyang,Henan,China",34.6518742,112.352431155672
+665,Henan,Luoyang,Jianxi,471000,"Jianxi,Luoyang,Henan,China",34.67167,112.372204
 666,Henan,Luoyang,Mengjin,471100,"Mengjin,Luoyang,Henan,China",34.8270022,112.4383457
 667,Henan,Luoyang,Songxian,471400,"Songxian,Luoyang,Henan,China",34.1289855,112.0782208
 668,Henan,Luoyang,Luoning,471700,"Luoning,Luoyang,Henan,China",34.3437633,111.4859594
 669,Henan,Luoyang,Xigong,471000,"Xigong,Luoyang,Henan,China",34.6782279,112.4331588
-670,Henan,Luoyang,Jili,471000,"Jili,Luoyang,Henan,China",34.899759,112.6014558
+670,Henan,Luoyang,Jili,471000,"Jili,Luoyang,Henan,China",34.8971974,112.5906345
 671,Henan,Luoyang,Xin'an,471800,"Xin'an,Luoyang,Henan,China",34.7305005,112.1277741
-672,Henan,Luoyang,Ruyang,471200,"Ruyang,Luoyang,Henan,China",34.1496382,112.4632777
-673,Henan,Luoyang,Yichuan,471300,"Yichuan,Luoyang,Henan,China",34.4253186,112.4251064
-674,Henan,Luoyang,Chanhe,471000,"Chanhe,Luoyang,Henan,China",34.6847391,112.4910126
-675,Henan,Luoyang,Luolong,471000,"Luolong,Luoyang,Henan,China",34.6417743,112.49395932868
-676,Henan,Luoyang,Luanchuan,471500,"Luanchuan,Luoyang,Henan,China",33.7848107,111.6166183
-677,Henan,Luoyang,Yiyang,471600,"Yiyang,Luoyang,Henan,China",34.5205725,112.1787425
-678,Henan,Luoyang,Yanshi,,"Yanshi,Luoyang,Henan,China",34.7309816,112.7769607
-679,Henan,Sanmenxia ,Hubin,472000,"Hubin,Sanmenxia ,Henan,China",34.7540887,111.252901876715
+672,Henan,Luoyang,Ruyang,471200,"Ruyang,Luoyang,Henan,China",34.131111,112.454722
+673,Henan,Luoyang,Yichuan,471300,"Yichuan,Luoyang,Henan,China",34.404342,112.4744933
+674,Henan,Luoyang,Chanhe,471000,"Chanhe,Luoyang,Henan,China",34.7096288,112.5009392
+675,Henan,Luoyang,Luolong,471000,"Luolong,Luoyang,Henan,China",34.598165,112.5497139
+676,Henan,Luoyang,Luanchuan,471500,"Luanchuan,Luoyang,Henan,China",33.980833,111.616667
+677,Henan,Luoyang,Yiyang,471600,"Yiyang,Luoyang,Henan,China",34.473611,112.076111
+678,Henan,Luoyang,Yanshi,,"Yanshi,Luoyang,Henan,China",34.7333075,112.7677155
+679,Henan,Sanmenxia ,Hubin,472000,"Hubin,Sanmenxia ,Henan,China",34.7635284,111.2647573
 680,Henan,Sanmenxia ,Lushi,472200,"Lushi,Sanmenxia ,Henan,China",33.974825,110.985853
-681,Henan,Sanmenxia ,Mianchi,472400,"Mianchi,Sanmenxia ,Henan,China",34.7693164,111.7516047
+681,Henan,Sanmenxia ,Mianchi,472400,"Mianchi,Sanmenxia ,Henan,China",34.885,111.832778
 682,Henan,Sanmenxia ,Yima,472300,"Yima,Sanmenxia ,Henan,China",34.7454924,111.8661916
-683,Henan,Sanmenxia ,Shanxian,472100,"Shanxian,Sanmenxia ,Henan,China",,
-684,Henan,Sanmenxia ,Lingbao,472500,"Lingbao,Sanmenxia ,Henan,China",34.5227346,110.8704085
+683,Henan,Sanmenxia ,Shanxian,472100,"Shanxian,Sanmenxia ,Henan,China",34.6689381,111.373435
+684,Henan,Sanmenxia ,Lingbao,472500,"Lingbao,Sanmenxia ,Henan,China",34.5453526,110.8795605
 685,Henan,Kaifeng ,Longting,475000,"Longting,Kaifeng ,Henan,China",34.8215083,114.268585409617
 686,Henan,Kaifeng ,Yuwangtai,475000,"Yuwangtai,Kaifeng ,Henan,China",34.7457336,114.37352227667
 687,Henan,Kaifeng ,Tongxu,475400,"Tongxu,Kaifeng ,Henan,China",34.4837479,114.4614976
@@ -694,49 +694,49 @@
 692,Henan,Kaifeng ,Shunhe,475000,"Shunhe,Kaifeng ,Henan,China",34.80915445,114.439424267983
 693,Henan,Kaifeng ,Qixian,475200,"Qixian,Kaifeng ,Henan,China",34.5506962,114.7750938
 694,Henan,Kaifeng ,Kaifeng,475100,"Kaifeng,Kaifeng ,Henan,China",34.7961106,114.3472038
-695,Henan,Pingdingshan ,Xinhua,467000,"Xinhua,Pingdingshan ,Henan,China",33.7705881,113.175598777179
-696,Henan,Pingdingshan ,Zhanhe,467000,"Zhanhe,Pingdingshan ,Henan,China",33.70877535,113.242150411139
-697,Henan,Pingdingshan ,Lushan,467300,"Lushan,Pingdingshan ,Henan,China",33.7410488,112.9027367
+695,Henan,Pingdingshan ,Xinhua,467000,"Xinhua,Pingdingshan ,Henan,China",33.7729834,113.176802575
+696,Henan,Pingdingshan ,Zhanhe,467000,"Zhanhe,Pingdingshan ,Henan,China",33.7042851,113.242699003833
+697,Henan,Pingdingshan ,Lushan,467300,"Lushan,Pingdingshan ,Henan,China",33.787222,112.785
 698,Henan,Pingdingshan ,Ruzhou,467500,"Ruzhou,Pingdingshan ,Henan,China",34.1678145,112.8392579
-699,Henan,Pingdingshan ,Weidong,467000,"Weidong,Pingdingshan ,Henan,China",33.77571065,113.35451536763
+699,Henan,Pingdingshan ,Weidong,467000,"Weidong,Pingdingshan ,Henan,China",33.7718418,113.358892201692
 700,Henan,Pingdingshan ,Baofeng,467400,"Baofeng,Pingdingshan ,Henan,China",33.8702659,113.048325
 701,Henan,Pingdingshan ,Jiaxian,467100,"Jiaxian,Pingdingshan ,Henan,China",33.9753148,113.2062565
 702,Henan,Pingdingshan ,Shilong,467000,"Shilong,Pingdingshan ,Henan,China",33.9011385,112.8929572
-703,Henan,Pingdingshan ,Yexian,467200,"Yexian,Pingdingshan ,Henan,China",33.6255088,113.3637534
+703,Henan,Pingdingshan ,Yexian,467200,"Yexian,Pingdingshan ,Henan,China",33.54912,113.361272
 704,Henan,Pingdingshan ,Wugang,462500,"Wugang,Pingdingshan ,Henan,China",33.2828949,113.4864164
-705,Henan,Anyang ,Wenfeng,455000,"Wenfeng,Anyang ,Henan,China",36.0393344,114.413484358433
-706,Henan,Anyang ,Long'an,455000,"Long'an,Anyang ,Henan,China",36.033503,114.257362120091
+705,Henan,Anyang ,Wenfeng,455000,"Wenfeng,Anyang ,Henan,China",36.0940024,114.3512634
+706,Henan,Anyang ,Long'an,455000,"Long'an,Anyang ,Henan,China",36.0595261,114.1618278
 707,Henan,Anyang ,Huaxian,456400,"Huaxian,Anyang ,Henan,China",35.5765029,114.5184726
-708,Henan,Anyang ,Beiguan,455000,"Beiguan,Anyang ,Henan,China",36.1324935,114.373678639879
+708,Henan,Anyang ,Beiguan,455000,"Beiguan,Anyang ,Henan,China",36.1588159,114.368984
 709,Henan,Anyang ,Anyang,455100,"Anyang,Anyang ,Henan,China",36.1023552,114.33633
-710,Henan,Anyang ,Neihuang,456300,"Neihuang,Anyang ,Henan,China",35.9540544,114.9005399
-711,Henan,Anyang ,Yindu,455000,"Yindu,Anyang ,Henan,China",36.1326562,114.278005741626
+710,Henan,Anyang ,Neihuang,456300,"Neihuang,Anyang ,Henan,China",35.908542,114.8261463
+711,Henan,Anyang ,Yindu,455000,"Yindu,Anyang ,Henan,China",36.1905901,114.15564
 712,Henan,Anyang ,Shangyin,456150,"Shangyin,Anyang ,Henan,China",,
-713,Henan,Anyang ,Linzhou,456500,"Linzhou,Anyang ,Henan,China",36.008956,113.848134
-714,Henan,Hebi ,Heshan,458000,"Heshan,Hebi ,Henan,China",35.9800562,114.136659159395
+713,Henan,Anyang ,Linzhou,456500,"Linzhou,Anyang ,Henan,China",36.0673949,113.8105402
+714,Henan,Hebi ,Heshan,458000,"Heshan,Hebi ,Henan,China",35.9535538,114.1520684
 715,Henan,Hebi ,Xunxian,456250,"Xunxian,Hebi ,Henan,China",35.6730516,114.5479074
-716,Henan,Hebi ,Shancheng,458000,"Shancheng,Hebi ,Henan,China",35.9213528,114.213949253038
+716,Henan,Hebi ,Shancheng,458000,"Shancheng,Hebi ,Henan,China",35.8957258,114.1822808
 717,Henan,Hebi ,Qixian,456750,"Qixian,Hebi ,Henan,China",35.6217454,114.2027583
-718,Henan,Hebi ,Qibin,458000,"Qibin,Hebi ,Henan,China",35.7513015,114.2816319
-719,Henan,Xinxiang ,Hongqi,453000,"Hongqi,Xinxiang ,Henan,China",35.27541485,113.973925997885
-720,Henan,Xinxiang ,Yuanyang,453500,"Yuanyang,Xinxiang ,Henan,China",35.0675448,113.9388654
-721,Henan,Xinxiang ,Changyuan,453400,"Changyuan,Xinxiang ,Henan,China",35.2000381,114.6629926
-722,Henan,Xinxiang ,Xinxiang,453700,"Xinxiang,Xinxiang ,Henan,China",35.2992063,113.8780633
-723,Henan,Xinxiang ,Yanjin,453200,"Yanjin,Xinxiang ,Henan,China",35.1491109,114.1946384
-724,Henan,Xinxiang ,Weihui,453100,"Weihui,Xinxiang ,Henan,China",35.4126425,114.0633095
+718,Henan,Hebi ,Qibin,458000,"Qibin,Hebi ,Henan,China",35.803218,114.21531
+719,Henan,Xinxiang ,Hongqi,453000,"Hongqi,Xinxiang ,Henan,China",35.2855387,113.969442
+720,Henan,Xinxiang ,Yuanyang,453500,"Yuanyang,Xinxiang ,Henan,China",35.0565329,113.958833
+721,Henan,Xinxiang ,Changyuan,453400,"Changyuan,Xinxiang ,Henan,China",35.2174577,114.7668021
+722,Henan,Xinxiang ,Xinxiang,453700,"Xinxiang,Xinxiang ,Henan,China",35.3021133,113.9202062
+723,Henan,Xinxiang ,Yanjin,453200,"Yanjin,Xinxiang ,Henan,China",35.259256,114.218442
+724,Henan,Xinxiang ,Weihui,453100,"Weihui,Xinxiang ,Henan,China",35.489017,114.072574
 725,Henan,Xinxiang ,Huojia,453800,"Huojia,Xinxiang ,Henan,China",35.258,113.6433269
 726,Henan,Xinxiang ,Fengqiu,453300,"Fengqiu,Xinxiang ,Henan,China",35.0432308,114.42108
-727,Henan,Xinxiang ,Huixian,453600,"Huixian,Xinxiang ,Henan,China",35.4625141,113.7976228
-728,Henan,Jiaozuo ,Jiefang,454150,"Jiefang,Jiaozuo ,Henan,China",35.2361327,113.211948474008
-729,Henan,Jiaozuo ,Shanyang,454150,"Shanyang,Jiaozuo ,Henan,China",35.20727705,113.308349730584
+727,Henan,Xinxiang ,Huixian,453600,"Huixian,Xinxiang ,Henan,China",35.5590727,113.6880522
+728,Henan,Jiaozuo ,Jiefang,454150,"Jiefang,Jiaozuo ,Henan,China",35.2422958,113.2152587
+729,Henan,Jiaozuo ,Shanyang,454150,"Shanyang,Jiaozuo ,Henan,China",35.2419798,113.2403616
 730,Henan,Jiaozuo ,Wuzhi,454950,"Wuzhi,Jiaozuo ,Henan,China",35.0984028,113.4011621
-731,Henan,Jiaozuo ,Mengzhou,454750,"Mengzhou,Jiaozuo ,Henan,China",34.9065165,112.7808419
-732,Henan,Jiaozuo ,Zhongzhan,454150,"Zhongzhan,Jiaozuo ,Henan,China",35.26560265,113.126600474153
+731,Henan,Jiaozuo ,Mengzhou,454750,"Mengzhou,Jiaozuo ,Henan,China",34.9065165,112.7920963
+732,Henan,Jiaozuo ,Zhongzhan,454150,"Zhongzhan,Jiaozuo ,Henan,China",35.2398658,113.165609
 733,Henan,Jiaozuo ,Xiuwu,454350,"Xiuwu,Jiaozuo ,Henan,China",35.2289285,113.4415477
 734,Henan,Jiaozuo ,Wenxian,454850,"Wenxian,Jiaozuo ,Henan,China",34.9370595,113.0755846
-735,Henan,Jiaozuo ,Macun,454150,"Macun,Jiaozuo ,Henan,China",35.2878455,113.370439934714
+735,Henan,Jiaozuo ,Macun,454150,"Macun,Jiaozuo ,Henan,China",35.2980504,113.3675375
 736,Henan,Jiaozuo ,Boai,454450,"Boai,Jiaozuo ,Henan,China",35.1704956,113.0668539
-737,Henan,Jiaozuo ,Qinyang,454550,"Qinyang,Jiaozuo ,Henan,China",35.0925791,112.9341595
+737,Henan,Jiaozuo ,Qinyang,454550,"Qinyang,Jiaozuo ,Henan,China",35.0856355,112.942221
 738,Henan,Puyang ,Qingfeng,457300,"Qingfeng,Puyang ,Henan,China",35.8910279,115.0983324
 739,Henan,Puyang ,Taiqian,457600,"Taiqian,Puyang ,Henan,China",35.9687678,115.8664298
 740,Henan,Puyang ,Nanle,457400,"Nanle,Puyang ,Henan,China",36.0757936,115.1994079
@@ -748,24 +748,24 @@
 746,Henan,Xuchang ,Yuzhou,452570,"Yuzhou,Xuchang ,Henan,China",34.1598968,113.4666612
 747,Henan,Xuchang ,Yanling,461200,"Yanling,Xuchang ,Henan,China",34.0030505,114.190688301185
 748,Henan,Xuchang ,Changge,461500,"Changge,Xuchang ,Henan,China",34.2156961,113.7676736
-749,Henan,Luohe ,Yuanhui,462000,"Yuanhui,Luohe ,Henan,China",33.53547295,113.940618501727
+749,Henan,Luohe ,Yuanhui,462000,"Yuanhui,Luohe ,Henan,China",33.52990785,113.943858108576
 750,Henan,Luohe ,Wuyang,462400,"Wuyang,Luohe ,Henan,China",33.4411499,113.604221
 751,Henan,Luohe ,Yancheng,462300,"Yancheng,Luohe ,Henan,China",33.66877165,113.937197221363
 752,Henan,Luohe ,Linying,462600,"Linying,Luohe ,Henan,China",33.815351,113.9344444
 753,Henan,Luohe ,Zhaoling,462300,"Zhaoling,Luohe ,Henan,China",,
-754,Henan,Nanyang,Wancheng,473000,"Wancheng,Nanyang,Henan,China",32.89424515,112.607480077213
-755,Henan,Nanyang,Fangcheng,473200,"Fangcheng,Nanyang,Henan,China",33.2595393,113.005701
-756,Henan,Nanyang,Neixiang,474350,"Neixiang,Nanyang,Henan,China",33.0489046,111.8362274
-757,Henan,Nanyang,Tanghe,473400,"Tanghe,Nanyang,Henan,China",32.6923715,112.8332499
+754,Henan,Nanyang,Wancheng,473000,"Wancheng,Nanyang,Henan,China",32.9030957,112.619109
+755,Henan,Nanyang,Fangcheng,473200,"Fangcheng,Nanyang,Henan,China",33.2593594,113.0001059
+756,Henan,Nanyang,Neixiang,474350,"Neixiang,Nanyang,Henan,China",33.243611,111.843333
+757,Henan,Nanyang,Tanghe,473400,"Tanghe,Nanyang,Henan,China",32.729722,112.834722
 758,Henan,Nanyang,Dengzhou,474150,"Dengzhou,Nanyang,Henan,China",32.6880537,112.0818901
-759,Henan,Nanyang,Wolong,473000,"Wolong,Nanyang,Henan,China",32.9903517,112.470712440259
-760,Henan,Nanyang,Xixia,474550,"Xixia,Nanyang,Henan,China",33.3062151,111.4678675
-761,Henan,Nanyang,Xichuan,474450,"Xichuan,Nanyang,Henan,China",33.137962,111.4820499
+759,Henan,Nanyang,Wolong,473000,"Wolong,Nanyang,Henan,China",32.9893246,112.5200606
+760,Henan,Nanyang,Xixia,474550,"Xixia,Nanyang,Henan,China",33.4925341,111.3936758
+761,Henan,Nanyang,Xichuan,474450,"Xichuan,Nanyang,Henan,China",33.091667,111.389722
 762,Henan,Nanyang,Xinye,473500,"Xinye,Nanyang,Henan,China",32.5257537,112.3633342
 763,Henan,Nanyang,Nanzhao,474650,"Nanzhao,Nanyang,Henan,China",33.4915839,112.4280693
-764,Henan,Nanyang,Zhenping,474250,"Zhenping,Nanyang,Henan,China",33.0368537,112.2298021
-765,Henan,Nanyang,Sheqi,473300,"Sheqi,Nanyang,Henan,China",33.0613355,112.9353332
-766,Henan,Nanyang,Tongbai,474750,"Tongbai,Nanyang,Henan,China",32.3767776,113.4090367
+764,Henan,Nanyang,Zhenping,474250,"Zhenping,Nanyang,Henan,China",33.109722,112.143611
+765,Henan,Nanyang,Sheqi,473300,"Sheqi,Nanyang,Henan,China",32.989722,112.947222
+766,Henan,Nanyang,Tongbai,474750,"Tongbai,Nanyang,Henan,China",32.3716785,113.4009463
 767,Henan,Shangqiu,Liangyuan,476000,"Liangyuan,Shangqiu,Henan,China",34.4800144,115.571207929078
 768,Henan,Shangqiu,Suixian,476900,"Suixian,Shangqiu,Henan,China",34.4277215,115.0636189
 769,Henan,Shangqiu,Yucheng,476300,"Yucheng,Shangqiu,Henan,China",34.4022178,115.8229595
@@ -775,18 +775,18 @@
 773,Henan,Shangqiu,Minquan,476800,"Minquan,Shangqiu,Henan,China",34.6453668,115.1381153
 774,Henan,Shangqiu,Zhecheng,476200,"Zhecheng,Shangqiu,Henan,China",34.10386465,115.324208758043
 775,Henan,Shangqiu,Yongcheng,476600,"Yongcheng,Shangqiu,Henan,China",33.937026,116.3663081
-776,Henan,Xinyang,Shihe,464000,"Shihe,Xinyang,Henan,China",32.1148921,115.7252685
-777,Henan,Xinyang,Guangshan,465450,"Guangshan,Xinyang,Henan,China",32.0118328,114.9132055
+776,Henan,Xinyang,Shihe,464000,"Shihe,Xinyang,Henan,China",32.017801,113.993328
+777,Henan,Xinyang,Guangshan,465450,"Guangshan,Xinyang,Henan,China",32.0115188,114.8989505
 778,Henan,Xinyang,Gushi,465200,"Gushi,Xinyang,Henan,China",32.1711564,115.6488813
-779,Henan,Xinyang,Xixian,464300,"Xixian,Xinyang,Henan,China",32.3468553,114.727466
-780,Henan,Xinyang,Pingqiao District,464000,"Pingqiao District,Xinyang,Henan,China",32.30626775,114.139910243509
-781,Henan,Xinyang,Xinxian,465500,"Xinxian,Xinyang,Henan,China",31.6462976,114.880012
+779,Henan,Xinyang,Xixian,464300,"Xixian,Xinyang,Henan,China",32.403889,114.865278
+780,Henan,Xinyang,Pingqiao District,464000,"Pingqiao District,Xinyang,Henan,China",32.3393634,114.0911834
+781,Henan,Xinyang,Xinxian,465500,"Xinxian,Xinyang,Henan,China",31.6447987,114.8837377
 782,Henan,Xinyang,Huangchuan,465150,"Huangchuan,Xinyang,Henan,China",32.1412061,115.0419218
-783,Henan,Xinyang,Luoshan,464200,"Luoshan,Xinyang,Henan,China",32.1680092,114.545094
+783,Henan,Xinyang,Luoshan,464200,"Luoshan,Xinyang,Henan,China",32.031964,114.436626
 784,Henan,Xinyang,Shangcheng,465350,"Shangcheng,Xinyang,Henan,China",31.8039251,115.4002849
-785,Henan,Xinyang,Huaibin,464400,"Huaibin,Xinyang,Henan,China",32.4737762,115.4140835
+785,Henan,Xinyang,Huaibin,464400,"Huaibin,Xinyang,Henan,China",32.448706,115.321893
 786,Henan,Zhoukou,Chuanhui,466000,"Chuanhui,Zhoukou,Henan,China",33.6443685,114.652948406129
-787,Henan,Zhoukou,Shangshui,466100,"Shangshui,Zhoukou,Henan,China",33.5427337,114.6029189
+787,Henan,Zhoukou,Shangshui,466100,"Shangshui,Zhoukou,Henan,China",33.52039685,114.577151572039
 788,Henan,Zhoukou,Huaiyang,466700,"Huaiyang,Zhoukou,Henan,China",33.7015501,114.9103376
 789,Henan,Zhoukou,Xiangcheng,466200,"Xiangcheng,Zhoukou,Henan,China",33.4430697,114.9031316
 790,Henan,Zhoukou,Fugou,461300,"Fugou,Zhoukou,Henan,China",34.0560556,114.3890051
@@ -795,16 +795,16 @@
 793,Henan,Zhoukou,Xihua,466600,"Xihua,Zhoukou,Henan,China",33.7907486,114.5262476
 794,Henan,Zhoukou,Dancheng,477150,"Dancheng,Zhoukou,Henan,China",33.6406649,115.1943501
 795,Henan,Zhoukou,Luyi,477200,"Luyi,Zhoukou,Henan,China",33.8629228,115.4821629
-796,Henan,Zhumadian,Yicheng,463000,"Yicheng,Zhumadian,Henan,China",32.9739589,113.94498811796
-797,Henan,Zhumadian,Pingyu,463400,"Pingyu,Zhumadian,Henan,China",32.9655173,114.6122582
+796,Henan,Zhumadian,Yicheng,463000,"Yicheng,Zhumadian,Henan,China",32.9770159,114.0282093
+797,Henan,Zhumadian,Pingyu,463400,"Pingyu,Zhumadian,Henan,China",32.958377,114.6303073
 798,Henan,Zhumadian,Miyang,463700,"Miyang,Zhumadian,Henan,China",,
-799,Henan,Zhumadian,Xincai,463500,"Xincai,Zhumadian,Henan,China",32.7551347,114.9504636
-800,Henan,Zhumadian,Xiping,463900,"Xiping,Zhumadian,Henan,China",33.3833188,114.0209155
-801,Henan,Zhumadian,Zhengyang,463600,"Zhengyang,Zhumadian,Henan,China",32.6116031,114.38877
-802,Henan,Zhumadian,Runan,463300,"Runan,Zhumadian,Henan,China",33.0058562,114.3433966
-803,Henan,Zhumadian,Shangcai,463800,"Shangcai,Zhumadian,Henan,China",33.2681888,114.2690577
-804,Henan,Zhumadian,Queshan,463200,"Queshan,Zhumadian,Henan,China",32.80532,114.0102203
-805,Henan,Zhumadian,Suiping,463100,"Suiping,Zhumadian,Henan,China",33.1491984,113.9990399
+799,Henan,Zhumadian,Xincai,463500,"Xincai,Zhumadian,Henan,China",32.7579396,114.9555949
+800,Henan,Zhumadian,Xiping,463900,"Xiping,Zhumadian,Henan,China",33.390556,113.9175
+801,Henan,Zhumadian,Zhengyang,463600,"Zhengyang,Zhumadian,Henan,China",32.6053396,114.3857958
+802,Henan,Zhumadian,Runan,463300,"Runan,Zhumadian,Henan,China",32.9048251,114.3037627
+803,Henan,Zhumadian,Shangcai,463800,"Shangcai,Zhumadian,Henan,China",33.306104,114.423802
+804,Henan,Zhumadian,Queshan,463200,"Queshan,Zhumadian,Henan,China",32.67193,114.0247738
+805,Henan,Zhumadian,Suiping,463100,"Suiping,Zhumadian,Henan,China",33.1442038,113.999748
 806,Henan,Jiyuan,Jiyuan,454650,"Jiyuan,Henan,China",35.0945453,112.5810521
 807,Hubei,Wuhan ,Jiang'an District,430014,"Jiang'an District,Wuhan ,Hubei,China",30.6400234,114.304850771265
 808,Hubei,Wuhan ,Hanyang District,430050,"Hanyang District,Wuhan ,Hubei,China",30.5427066,114.226773344801
@@ -827,7 +827,7 @@
 825,Hubei,Yichang ,Wujiagang,443000,"Wujiagang,Yichang ,Hubei,China",30.6513362,111.365370948806
 826,Hubei,Yichang ,Yiling,443100,"Yiling,Yichang ,Hubei,China",31.0013682,111.2891277
 827,Hubei,Yichang ,Zigui,443600,"Zigui,Yichang ,Hubei,China",30.9187599,110.6976267
-828,Hubei,Yichang ,Yidu,443000,"Yidu,Yichang ,Hubei,China",30.3818328,111.4438635
+828,Hubei,Yichang ,Yidu,443000,"Yidu,Yichang ,Hubei,China",30.3819696,111.4436927
 829,Hubei,Yichang ,Dianjun,443000,"Dianjun,Yichang ,Hubei,China",30.695691,111.2624448
 830,Hubei,Yichang ,Yuan'an,444200,"Yuan'an,Yichang ,Hubei,China",31.1692457,111.565485
 831,Hubei,Yichang ,Changyang,443500,"Changyang,Yichang ,Hubei,China",30.4752105,111.2015265
@@ -847,7 +847,7 @@
 845,Hubei,Shiyan ,Zhuxi,442300,"Zhuxi,Shiyan ,Hubei,China",32.3204783,109.7103815
 846,Hubei,Xiangfan,Xiangcheng,441000,"Xiangcheng,Xiangfan,Hubei,China",32.0125453,112.1278125
 847,Hubei,Xiangfan,Nanzhang,441500,"Nanzhang,Xiangfan,Hubei,China",31.7769206,111.8331767
-848,Hubei,Xiangfan,Laohekou,441800,"Laohekou,Xiangfan,Hubei,China",32.3615609,111.6791987
+848,Hubei,Xiangfan,Laohekou,441800,"Laohekou,Xiangfan,Hubei,China",32.436328,111.756394
 849,Hubei,Xiangfan,Fancheng,441000,"Fancheng,Xiangfan,Hubei,China",32.1143805,111.9725964
 850,Hubei,Xiangfan,Gucheng,441700,"Gucheng,Xiangfan,Hubei,China",32.2656451,111.6474338
 851,Hubei,Xiangfan,Zaoyang,441200,"Zaoyang,Xiangfan,Hubei,China",32.0789484,112.7678414
@@ -886,7 +886,7 @@
 884,Hubei,Huanggang,Huangmei,435500,"Huangmei,Huanggang,Hubei,China",30.0754675,115.9344837
 885,Hubei,Huanggang,Hong'an,438400,"Hong'an,Huanggang,Hubei,China",31.2760789,114.6420279
 886,Hubei,Huanggang,Xishui,438200,"Xishui,Huanggang,Hubei,China",30.5999444,115.2993133
-887,Hubei,Huanggang,Macheng,438300,"Macheng,Huanggang,Hubei,China",31.1708218,115.0159244
+887,Hubei,Huanggang,Macheng,438300,"Macheng,Huanggang,Hubei,China",31.3198572,115.1108647
 888,Hubei,Xianning,Xi'an'an,437000,"Xi'an'an,Xianning,Hubei,China",29.8504659,114.3907293
 889,Hubei,Xianning,Chongyang,437500,"Chongyang,Xianning,Hubei,China",29.5588253,114.0338289
 890,Hubei,Xianning,Jiayu,437200,"Jiayu,Xianning,Hubei,China",29.9724209,113.9335326
@@ -895,7 +895,7 @@
 893,Hubei,Xianning,Chibi,437300,"Chibi,Xianning,Hubei,China",29.7273129,113.9020959
 894,Hubei,Suizhou,Zengdu,441300,"Zengdu,Suizhou,Hubei,China",31.7516886,113.3704339
 895,Hubei,Suizhou,Suixian,441315,"Suixian,Suizhou,Hubei,China",31.8845726,113.2850289
-896,Hubei,Suizhou,Guangshui,432700,"Guangshui,Suizhou,Hubei,China",31.6190052,113.8203522
+896,Hubei,Suizhou,Guangshui,432700,"Guangshui,Suizhou,Hubei,China",31.6838156,113.8407641
 897,Hubei,Enshi,Enshi,445000,"Enshi,Hubei,China",30.1980965,109.6755462
 898,Hubei,Enshi,Badong,444300,"Badong,Enshi,Hubei,China",31.0446443,110.3352957
 899,Hubei,Enshi,Laifeng,445700,"Laifeng,Enshi,Hubei,China",29.456724,109.192905
@@ -965,7 +965,7 @@
 963,Hebei,Handan ,Feixiang,057550,"Feixiang,Handan ,Hebei,China",36.5506972,114.7959218
 964,Hebei,Handan ,Jize,057350,"Jize,Handan ,Hebei,China",36.9087316,114.8759868
 965,Hebei,Handan ,Weixian,056800,"Weixian,Handan ,Hebei,China",36.3596001,114.9297848
-966,Hebei,Handan ,Fuxing,056000,"Fuxing,Handan ,Hebei,China",36.5513553,114.322118540316
+966,Hebei,Handan ,Fuxing,056000,"Fuxing,Handan ,Hebei,China",36.616667,114.448333
 967,Hebei,Handan ,Linzhang,056600,"Linzhang,Handan ,Hebei,China",36.3341789,114.5976255
 968,Hebei,Handan ,Shexian,056400,"Shexian,Handan ,Hebei,China",36.577368,113.662035
 969,Hebei,Handan ,Yongnian,057150,"Yongnian,Handan ,Hebei,China",36.7758678,114.4862767
@@ -1025,7 +1025,7 @@
 1023,Hebei,Zhangjiakou ,Xuanhua,075100,"Xuanhua,Zhangjiakou ,Hebei,China",40.4937523,115.0256472
 1024,Hebei,Zhangjiakou ,Guyuan,076550,"Guyuan,Zhangjiakou ,Hebei,China",41.6681741,115.6821748
 1025,Hebei,Zhangjiakou ,Yangyuan,075800,"Yangyuan,Zhangjiakou ,Hebei,China",40.083333,114.2
-1026,Hebei,Zhangjiakou ,Huailai,075400,"Huailai,Zhangjiakou ,Hebei,China",40.344626,115.640078
+1026,Hebei,Zhangjiakou ,Huailai,075400,"Huailai,Zhangjiakou ,Hebei,China",40.413261,115.5113854
 1027,Hebei,Zhangjiakou ,Chongli,076350,"Chongli,Zhangjiakou ,Hebei,China",41.0440313,115.2237588
 1028,Hebei,Zhangjiakou ,Xuanhua,075000,"Xuanhua,Zhangjiakou ,Hebei,China",40.4937523,115.0256472
 1029,Hebei,Zhangjiakou ,Zhangbei,076450,"Zhangbei,Zhangjiakou ,Hebei,China",41.287775,114.769295
@@ -1043,18 +1043,18 @@
 1041,Hebei,Chengde ,Yingshou,067200,"Yingshou,Chengde ,Hebei,China",,
 1042,Hebei,Chengde ,Pingquan,067500,"Pingquan,Chengde ,Hebei,China",41.0090901,118.6896611
 1043,Hebei,Chengde ,Fengning,068350,"Fengning,Chengde ,Hebei,China",41.2194964,116.6340777
-1044,Hebei,Cangzhou ,Xinhua,061000,"Xinhua,Cangzhou ,Hebei,China",38.30838885,116.897547509178
-1045,Hebei,Cangzhou ,Qingxian,062650,"Qingxian,Cangzhou ,Hebei,China",38.5742905,116.8121731
+1044,Hebei,Cangzhou ,Xinhua,061000,"Xinhua,Cangzhou ,Hebei,China",38.315,116.866667
+1045,Hebei,Cangzhou ,Qingxian,062650,"Qingxian,Cangzhou ,Hebei,China",38.577162,116.832931
 1046,Hebei,Cangzhou ,Yanshan,061300,"Yanshan,Cangzhou ,Hebei,China",38.0609393,117.2243142
 1047,Hebei,Cangzhou ,Wuqiao,061800,"Wuqiao,Cangzhou ,Hebei,China",37.6259062,116.3863759
-1048,Hebei,Cangzhou ,Botou,062150,"Botou,Cangzhou ,Hebei,China",38.075323,116.5545965
+1048,Hebei,Cangzhou ,Botou,062150,"Botou,Cangzhou ,Hebei,China",38.0821748,116.3714834
 1049,Hebei,Cangzhou ,Hejian,062450,"Hejian,Cangzhou ,Hebei,China",38.4425293,116.0901457
-1050,Hebei,Cangzhou ,Yunhe,061000,"Yunhe,Cangzhou ,Hebei,China",38.3145703,116.819981428757
+1050,Hebei,Cangzhou ,Yunhe,061000,"Yunhe,Cangzhou ,Hebei,China",38.311667,116.85
 1051,Hebei,Cangzhou ,Dongguang,061600,"Dongguang,Cangzhou ,Hebei,China",37.8823846,116.5427315
 1052,Hebei,Cangzhou ,Suning,062350,"Suning,Cangzhou ,Hebei,China",38.4264187,115.8265322
-1053,Hebei,Cangzhou ,Xianxian,062250,"Xianxian,Cangzhou ,Hebei,China",38.1904931,116.1191021
-1054,Hebei,Cangzhou ,Renqiu,062550,"Renqiu,Cangzhou ,Hebei,China",38.7096277,116.1011772
-1055,Hebei,Cangzhou ,Cangxian,061000,"Cangxian,Cangzhou ,Hebei,China",38.3166801,116.8666971
+1053,Hebei,Cangzhou ,Xianxian,062250,"Xianxian,Cangzhou ,Hebei,China",38.1917009,116.141620826966
+1054,Hebei,Cangzhou ,Renqiu,062550,"Renqiu,Cangzhou ,Hebei,China",38.7063767,116.1062203
+1055,Hebei,Cangzhou ,Cangxian,061000,"Cangxian,Cangzhou ,Hebei,China",38.2049506,117.0272184
 1056,Hebei,Cangzhou ,Haixing,061200,"Haixing,Cangzhou ,Hebei,China",38.1406662,117.4908501
 1057,Hebei,Cangzhou ,Nanpi,061500,"Nanpi,Cangzhou ,Hebei,China",38.0397796,116.7036635
 1058,Hebei,Cangzhou ,Mengcun,061400,"Mengcun,Cangzhou ,Hebei,China",38.0549012,117.0962452
@@ -1132,7 +1132,7 @@
 1130,Heilongjiang,Daqing ,Zhaozhou,166400,"Zhaozhou,Daqing ,Heilongjiang,China",45.8509486,125.2870292
 1131,Heilongjiang,Daqing ,Duerbote,166200,"Duerbote,Daqing ,Heilongjiang,China",46.523189,124.224404
 1132,Heilongjiang,Qiqihar ,Longsha,161000,"Longsha,Qiqihar ,Heilongjiang,China",47.2776439,123.9163872
-1133,Heilongjiang,Qiqihar ,Ang'angxi,161000,"Ang'angxi,Qiqihar ,Heilongjiang,China",47.14167,123.914486
+1133,Heilongjiang,Qiqihar ,Ang'angxi,161000,"Ang'angxi,Qiqihar ,Heilongjiang,China",47.1571075,123.8018548
 1134,Heilongjiang,Qiqihar ,Meilisi,161000,"Meilisi,Qiqihar ,Heilongjiang,China",47.545477,123.821107
 1135,Heilongjiang,Qiqihar ,Tailai,162400,"Tailai,Qiqihar ,Heilongjiang,China",46.5443277,123.5469477
 1136,Heilongjiang,Qiqihar ,Keshan,161600,"Keshan,Qiqihar ,Heilongjiang,China",48.1838575,125.6957904
@@ -1157,20 +1157,20 @@
 1155,Heilongjiang,Jixi ,Mashan,158100,"Mashan,Jixi ,Heilongjiang,China",45.2118509,130.5491263
 1156,Heilongjiang,Jixi ,Mishan,158300,"Mishan,Jixi ,Heilongjiang,China",45.4701565,132.1986356
 1157,Heilongjiang,Yichun ,Yichun,153000,"Yichun,Yichun ,Heilongjiang,China",47.7231316,128.8785919
-1158,Heilongjiang,Yichun ,Xilin,153000,"Xilin,Yichun ,Heilongjiang,China",47.4843944,129.2909903
-1159,Heilongjiang,Yichun ,Meixi,153000,"Meixi,Yichun ,Heilongjiang,China",47.7491738,129.2823847
+1158,Heilongjiang,Yichun ,Xilin,153000,"Xilin,Yichun ,Heilongjiang,China",47.4762477,129.3014276
+1159,Heilongjiang,Yichun ,Meixi,153000,"Meixi,Yichun ,Heilongjiang,China",47.6318006,129.1362284
 1160,Heilongjiang,Yichun ,Wumahe,153000,"Wumahe,Yichun ,Heilongjiang,China",47.5628274,128.7561691
-1161,Heilongjiang,Yichun ,Wuyiling,153000,"Wuyiling,Yichun ,Heilongjiang,China",48.5891895,129.4358436
+1161,Heilongjiang,Yichun ,Wuyiling,153000,"Wuyiling,Yichun ,Heilongjiang,China",48.7359317,129.466015
 1162,Heilongjiang,Yichun ,Jiayin,153200,"Jiayin,Yichun ,Heilongjiang,China",48.782785,129.853084
 1163,Heilongjiang,Yichun ,Nancha,153000,"Nancha,Yichun ,Heilongjiang,China",47.054532,129.36213
 1164,Heilongjiang,Yichun ,Cuiluan,153000,"Cuiluan,Yichun ,Heilongjiang,China",47.661002,128.4735901
 1165,Heilongjiang,Yichun ,Jinshantun,153000,"Jinshantun,Yichun ,Heilongjiang,China",47.5160431,129.6126818
 1166,Heilongjiang,Yichun ,Tangwanghe,153000,"Tangwanghe,Yichun ,Heilongjiang,China",48.4575558,129.57419
-1167,Heilongjiang,Yichun ,Hongxing,153000,"Hongxing,Yichun ,Heilongjiang,China",48.2394843,129.3911358
+1167,Heilongjiang,Yichun ,Hongxing,153000,"Hongxing,Yichun ,Heilongjiang,China",46.982292,129.146585
 1168,Heilongjiang,Yichun ,Tieli,152500,"Tieli,Yichun ,Heilongjiang,China",46.856397,128.549903
 1169,Heilongjiang,Yichun ,Youhao,153000,"Youhao,Yichun ,Heilongjiang,China",48.0897124,128.6236959
 1170,Heilongjiang,Yichun ,Xinqing,153000,"Xinqing,Yichun ,Heilongjiang,China",48.2383278,129.6706759
-1171,Heilongjiang,Yichun ,Wuying,153000,"Wuying,Yichun ,Heilongjiang,China",48.1048405,129.234697
+1171,Heilongjiang,Yichun ,Wuying,153000,"Wuying,Yichun ,Heilongjiang,China",48.1093641,129.2311553
 1172,Heilongjiang,Yichun ,Dailing,153000,"Dailing,Yichun ,Heilongjiang,China",47.0797814,128.9905295
 1173,Heilongjiang,Yichun ,Shangganling,153000,"Shangganling,Yichun ,Heilongjiang,China",48.0088959,129.0053991
 1174,Heilongjiang,Hegang ,Xiangyang,154100,"Xiangyang,Hegang ,Heilongjiang,China",47.3380293,130.2917056
@@ -1189,7 +1189,7 @@
 1187,Heilongjiang,Shuangyashan ,Raohe,155700,"Raohe,Shuangyashan ,Heilongjiang,China",47.1302804,133.6179888
 1188,Heilongjiang,Shuangyashan ,Sifangtai,155100,"Sifangtai,Shuangyashan ,Heilongjiang,China",46.676068,131.2754248
 1189,Heilongjiang,Shuangyashan ,Youyi,155800,"Youyi,Shuangyashan ,Heilongjiang,China",46.7744349,131.8062411
-1190,Heilongjiang,Jiamusi,Xiangyang,154000,"Xiangyang,Jiamusi,Heilongjiang,China",46.8093658,130.3429678
+1190,Heilongjiang,Jiamusi,Xiangyang,154000,"Xiangyang,Jiamusi,Heilongjiang,China",47.6055755,132.5116532
 1191,Heilongjiang,Jiamusi,Huanan,154400,"Huanan,Jiamusi,Heilongjiang,China",46.2354272,130.5570647
 1192,Heilongjiang,Jiamusi,Fuyuan,156500,"Fuyuan,Jiamusi,Heilongjiang,China",48.3618352,134.2945318
 1193,Heilongjiang,Jiamusi,Qianjin,154000,"Qianjin,Jiamusi,Heilongjiang,China",46.7833475,130.383602
@@ -1229,7 +1229,7 @@
 1227,Heilongjiang,Suihua,Mingshui,151700,"Mingshui,Suihua,Heilongjiang,China",47.1779234,125.9069262
 1228,Heilongjiang,Suihua,Zhaodong,151100,"Zhaodong,Suihua,Heilongjiang,China",46.07205,125.9871513
 1229,Heilongjiang,Daxing'anling,Jagdaqi,165000,"Jagdaqi,Daxing'anling,Heilongjiang,China",,
-1230,Heilongjiang,Daxing'anling,Mohe,165300,"Mohe,Daxing'anling,Heilongjiang,China",52.9759171,122.7933319
+1230,Heilongjiang,Daxing'anling,Mohe,165300,"Mohe,Daxing'anling,Heilongjiang,China",52.9697094,122.5339041
 1231,Heilongjiang,Daxing'anling,Huma,165100,"Huma,Daxing'anling,Heilongjiang,China",51.7100589,126.1030159
 1232,Heilongjiang,Daxing'anling,Tahe,165200,"Tahe,Daxing'anling,Heilongjiang,China",52.7161539,124.6607199
 1233,Hunan,Changsha ,Furong District,410000,"Furong District,Changsha ,Hunan,China",28.206484,113.045304807799
@@ -1427,16 +1427,16 @@
 1425,Jiangsu,Nanjing ,Xiaguan,210000,"Xiaguan,Nanjing ,Jiangsu,China",32.09837715,118.755916720859
 1426,Jiangsu,Nanjing ,Yuhuatai,210000,"Yuhuatai,Nanjing ,Jiangsu,China",31.9932018,118.7724224
 1427,Jiangsu,Nanjing ,Lishui,211200,"Lishui,Nanjing ,Jiangsu,China",31.6506882,119.0262399
-1428,Jiangsu,Suzhou ,Canglang,215000,"Canglang,Suzhou ,Jiangsu,China",,
-1429,Jiangsu,Suzhou ,Huqiu,215000,"Huqiu,Suzhou ,Jiangsu,China",,
+1428,Jiangsu,Suzhou ,Canglang,215000,"Canglang,Suzhou ,Jiangsu,China",31.2990881,120.6150824
+1429,Jiangsu,Suzhou ,Huqiu,215000,"Huqiu,Suzhou ,Jiangsu,China",31.3307663,120.4318276
 1430,Jiangsu,Suzhou ,Changshu,215500,"Changshu,Suzhou ,Jiangsu,China",31.6572954,120.7480757
 1431,Jiangsu,Suzhou ,Wujiang,215200,"Wujiang,Suzhou ,Jiangsu,China",31.1415158,120.6406744
-1432,Jiangsu,Suzhou ,Pingjiang,215000,"Pingjiang,Suzhou ,Jiangsu,China",31.3254975,120.6277469
-1433,Jiangsu,Suzhou ,Wuzhong,215100,"Wuzhong,Suzhou ,Jiangsu,China",31.1328323,120.254850070906
+1432,Jiangsu,Suzhou ,Pingjiang,215000,"Pingjiang,Suzhou ,Jiangsu,China",31.3225172,120.6297112
+1433,Jiangsu,Suzhou ,Wuzhong,215100,"Wuzhong,Suzhou ,Jiangsu,China",31.2654926,120.6279421
 1434,Jiangsu,Suzhou ,Zhangjiagang,215600,"Zhangjiagang,Suzhou ,Jiangsu,China",31.8782976,120.5514595
 1435,Jiangsu,Suzhou ,Taicang,215400,"Taicang,Suzhou ,Jiangsu,China",31.4590371,121.1264772
 1436,Jiangsu,Suzhou ,Jinchang,215000,"Jinchang,Suzhou ,Jiangsu,China",,
-1437,Jiangsu,Suzhou ,Xiangcheng,215100,"Xiangcheng,Suzhou ,Jiangsu,China",31.445573,120.629677491496
+1437,Jiangsu,Suzhou ,Xiangcheng,215100,"Xiangcheng,Suzhou ,Jiangsu,China",31.3709151,120.6383049
 1438,Jiangsu,Suzhou ,Kunshan,215300,"Kunshan,Suzhou ,Jiangsu,China",31.3869323,120.9764683
 1439,Jiangsu,Wuxi,Chong'an,214000,"Chong'an,Wuxi,Jiangsu,China",31.5679017,120.2990349
 1440,Jiangsu,Wuxi,Xishan,214000,"Xishan,Wuxi,Jiangsu,China",31.6144694,120.456217765804
@@ -1461,7 +1461,7 @@
 1459,Jiangsu,Changzhou ,Zhonglou,213000,"Zhonglou,Changzhou ,Jiangsu,China",31.8042659,119.8971042
 1460,Jiangsu,Changzhou ,Liyang,213300,"Liyang,Changzhou ,Jiangsu,China",31.4191111,119.4788664
 1461,Jiangsu,Changzhou ,Qishuyan,213000,"Qishuyan,Changzhou ,Jiangsu,China",31.721355,120.0562207
-1462,Jiangsu,Changzhou ,Jintan,213200,"Jintan,Changzhou ,Jiangsu,China",31.723663,119.5825718
+1462,Jiangsu,Changzhou ,Jintan,213200,"Jintan,Changzhou ,Jiangsu,China",31.7237725,119.5825664
 1463,Jiangsu,Nantong ,Chongchuan,226000,"Chongchuan,Nantong ,Jiangsu,China",31.9211681,120.914770256389
 1464,Jiangsu,Nantong ,Haian,226600,"Haian,Nantong ,Jiangsu,China",32.5348763,120.4629239
 1465,Jiangsu,Nantong ,Rugao,226500,"Rugao,Nantong ,Jiangsu,China",32.3926766,120.563809
@@ -1519,8 +1519,8 @@
 1517,Jiangxi,Nanchang ,Donghu,330000,"Donghu,Nanchang ,Jiangxi,China",28.7020309,115.8986187
 1518,Jiangxi,Nanchang ,Wanli,330000,"Wanli,Nanchang ,Jiangxi,China",28.7101193,115.7315016
 1519,Jiangxi,Nanchang ,Anyi,330500,"Anyi,Nanchang ,Jiangxi,China",28.8473586,115.5438087
-1520,Jiangxi,Nanchang ,Xihu,330000,"Xihu,Nanchang ,Jiangxi,China",28.64130735,115.866178755368
-1521,Jiangxi,Nanchang ,Nanchang,330200,"Nanchang,Nanchang ,Jiangxi,China",28.6995217,116.034971412721
+1520,Jiangxi,Nanchang ,Xihu,330000,"Xihu,Nanchang ,Jiangxi,China",28.6600122,115.8720568
+1521,Jiangxi,Nanchang ,Nanchang,330200,"Nanchang,Nanchang ,Jiangxi,China",28.6653632,115.9142131
 1522,Jiangxi,Nanchang ,Jinxian,331700,"Jinxian,Nanchang ,Jiangxi,China",28.3805237,116.2375265
 1523,Jiangxi,Nanchang ,Qingyunpu,330000,"Qingyunpu,Nanchang ,Jiangxi,China",28.6243423,115.920711
 1524,Jiangxi,Nanchang ,Xinjian,330100,"Xinjian,Nanchang ,Jiangxi,China",28.6838675,115.8222538
@@ -1535,7 +1535,7 @@
 1533,Jiangxi,Pingxiang ,Lianhua,337100,"Lianhua,Pingxiang ,Jiangxi,China",27.1316379,113.955808
 1534,Jiangxi,Jiujiang ,Lushan,332900,"Lushan,Jiujiang ,Jiangxi,China",29.4505923,116.0396561
 1535,Jiangxi,Jiujiang ,Wuning,332300,"Wuning,Jiujiang ,Jiangxi,China",29.2637418,115.092988
-1536,Jiangxi,Jiujiang ,Dean,330400,"Dean,Jiujiang ,Jiangxi,China",29.4125755,115.6282717
+1536,Jiangxi,Jiujiang ,Dean,330400,"Dean,Jiujiang ,Jiangxi,China",29.3101648,115.7676926
 1537,Jiangxi,Jiujiang ,Hukou,332500,"Hukou,Jiujiang ,Jiangxi,China",29.7332458,116.2473706
 1538,Jiangxi,Jiujiang ,Xunyang,332000,"Xunyang,Jiujiang ,Jiangxi,China",29.7299594,115.9855529
 1539,Jiangxi,Jiujiang ,Xiushui,332400,"Xiushui,Jiujiang ,Jiangxi,China",29.0289135,114.5419021
@@ -1654,7 +1654,7 @@
 1652,Liaoning,Benxi ,Pingshan,117000,"Pingshan,Benxi ,Liaoning,China",41.284958,123.7608485
 1653,Liaoning,Benxi ,Nanfen,117000,"Nanfen,Benxi ,Liaoning,China",41.0997463,123.7406763
 1654,Liaoning,Benxi ,Xihu,117000,"Xihu,Benxi ,Liaoning,China",41.4075794,123.7027632
-1655,Liaoning,Benxi ,Benxi,117100,"Benxi,Benxi ,Liaoning,China",41.297577,123.7646562
+1655,Liaoning,Benxi ,Benxi,117100,"Benxi,Benxi ,Liaoning,China",41.176944,124.157425
 1656,Liaoning,Benxi ,Mingshan,117000,"Mingshan,Benxi ,Liaoning,China",41.3084606,123.8126898
 1657,Liaoning,Benxi ,Huanren,117200,"Huanren,Benxi ,Liaoning,China",41.2692381,125.3490074
 1658,Liaoning,Dandong ,Yuanbao,118000,"Yuanbao,Dandong ,Liaoning,China",40.1358411,124.3899533
@@ -1808,9 +1808,9 @@
 1806,Sichuan,Zigong ,Rongxian,643100,"Rongxian,Zigong ,Sichuan,China",29.4455566,104.4146513
 1807,Sichuan,Zigong ,Daan,643010,"Daan,Zigong ,Sichuan,China",29.3681139,104.7690579
 1808,Sichuan,Zigong ,Fushun,643200,"Fushun,Zigong ,Sichuan,China",29.1223198,105.0434604
-1809,Sichuan,Panzhihua ,Eastern,617000,"Eastern,Panzhihua ,Sichuan,China",,
+1809,Sichuan,Panzhihua ,Eastern,617000,"Eastern,Panzhihua ,Sichuan,China",26.3600868,101.7654069
 1810,Sichuan,Panzhihua ,Miyi,617200,"Miyi,Panzhihua ,Sichuan,China",26.9689831,101.8097522
-1811,Sichuan,Panzhihua ,Western,617000,"Western,Panzhihua ,Sichuan,China",,
+1811,Sichuan,Panzhihua ,Western,617000,"Western,Panzhihua ,Sichuan,China",26.3600868,101.7654069
 1812,Sichuan,Panzhihua ,Yanbian,617100,"Yanbian,Panzhihua ,Sichuan,China",26.8331782,101.6380347
 1813,Sichuan,Panzhihua ,Renhe,617000,"Renhe,Panzhihua ,Sichuan,China",26.541146,101.553864
 1814,Sichuan,Luzhou ,Jiangyang,646000,"Jiangyang,Luzhou ,Sichuan,China",28.8815355,105.4314293
@@ -2006,7 +2006,7 @@
 2004,Shandong,Dongying ,Guangrao,257300,"Guangrao,Dongying ,Shandong,China",37.0486917,118.4129962
 2005,Shandong,Dongying ,Kenli,257500,"Kenli,Dongying ,Shandong,China",37.601944,118.746389
 2006,Shandong,Yantai ,Zhifu,264000,"Zhifu,Yantai ,Shandong,China",37.52435315,121.350829400309
-2007,Shandong,Yantai ,Laishan,264000,"Laishan,Yantai ,Shandong,China",37.3981334,121.367584982307
+2007,Shandong,Yantai ,Laishan,264000,"Laishan,Yantai ,Shandong,China",37.38798125,121.432764923283
 2008,Shandong,Yantai ,Laiyang,265200,"Laiyang,Yantai ,Shandong,China",36.9794733,120.7013712
 2009,Shandong,Yantai ,Zhaoyuan,265400,"Zhaoyuan,Yantai ,Shandong,China",37.354722,120.402222
 2010,Shandong,Yantai ,Fushan,265500,"Fushan,Yantai ,Shandong,China",37.4779007,121.184179634824
@@ -2023,7 +2023,7 @@
 2021,Shandong,Weifang ,Anqiu,262100,"Anqiu,Weifang ,Shandong,China",36.4794705,119.2129818
 2022,Shandong,Weifang ,Hanting,261100,"Hanting,Weifang ,Shandong,China",36.7728917,119.2160594
 2023,Shandong,Weifang ,Linqu,262600,"Linqu,Weifang ,Shandong,China",36.5156772,118.5384882
-2024,Shandong,Weifang ,Zhucheng,262200,"Zhucheng,Weifang ,Shandong,China",36.062837,119.383799
+2024,Shandong,Weifang ,Zhucheng,262200,"Zhucheng,Weifang ,Shandong,China",35.9961644,119.4045128
 2025,Shandong,Weifang ,Gaomi,261500,"Gaomi,Weifang ,Shandong,China",36.3654065,119.8005385
 2026,Shandong,Weifang ,Fangzi,261200,"Fangzi,Weifang ,Shandong,China",36.6542543,119.1605221
 2027,Shandong,Weifang ,Changle,262400,"Changle,Weifang ,Shandong,China",36.513889,118.908889
@@ -2052,7 +2052,7 @@
 2050,Shandong,Weihai ,Wendeng,264400,"Wendeng,Weihai ,Shandong,China",37.1960899,122.0479985
 2051,Shandong,Weihai ,Rongcheng,264300,"Rongcheng,Weihai ,Shandong,China",37.1668618,122.4919734
 2052,Shandong,Rizhao ,Donggang,276800,"Donggang,Rizhao ,Shandong,China",35.4052194,119.469544852296
-2053,Shandong,Rizhao ,Juxian,276500,"Juxian,Rizhao ,Shandong,China",35.626944,118.903056
+2053,Shandong,Rizhao ,Juxian,276500,"Juxian,Rizhao ,Shandong,China",35.5867424,118.8269753
 2054,Shandong,Rizhao ,Lanshan,276800,"Lanshan,Rizhao ,Shandong,China",35.1006696,119.3604842
 2055,Shandong,Rizhao ,Wulian,262300,"Wulian,Rizhao ,Shandong,China",35.7575847,119.2024296
 2056,Shandong,Laiwu ,Laicheng,271100,"Laicheng,Laiwu ,Shandong,China",,
@@ -2169,7 +2169,7 @@
 2167,Shaanxi,Weinan ,Pucheng,715500,"Pucheng,Weinan ,Shaanxi,China",34.959444,109.548611
 2168,Shaanxi,Weinan ,BaishuI,715600,"BaishuI,Weinan ,Shaanxi,China",35.222222,109.517222
 2169,Shaanxi,Weinan ,Fuping,711700,"Fuping,Weinan ,Shaanxi,China",34.902436,109.227845
-2170,Shaanxi,Weinan ,Hancheng,715400,"Hancheng,Weinan ,Shaanxi,China",35.4762519,110.4508029
+2170,Shaanxi,Weinan ,Hancheng,715400,"Hancheng,Weinan ,Shaanxi,China",35.575278,110.361389
 2171,Shaanxi,Weinan ,Huayin,714200,"Huayin,Weinan ,Shaanxi,China",34.5675163,110.0920915
 2172,Shaanxi,Tongchuan ,Tongchuan,727000,"Tongchuan,Tongchuan ,Shaanxi,China",34.9034852,108.9461781
 2173,Shaanxi,Tongchuan ,Yaozhou,727100,"Yaozhou,Tongchuan ,Shaanxi,China",34.913269,108.97147
@@ -2201,9 +2201,9 @@
 2199,Shaanxi,Yulin ,Yuyang,719000,"Yuyang,Yulin ,Shaanxi,China",38.3510389,109.7147101
 2200,Shaanxi,Yulin ,Shenmu,719300,"Shenmu,Yulin ,Shaanxi,China",38.8229727,110.4946864
 2201,Shaanxi,Yulin ,Fugu,719400,"Fugu,Yulin ,Shaanxi,China",39.1375205,110.8987066
-2202,Shaanxi,Yulin ,Hengshan,719200,"Hengshan,Yulin ,Shaanxi,China",37.867222,109.4075
+2202,Shaanxi,Yulin ,Hengshan,719200,"Hengshan,Yulin ,Shaanxi,China",37.9633932,109.2875797
 2203,Shaanxi,Yulin ,Jingbian,718500,"Jingbian,Yulin ,Shaanxi,China",37.4827891,108.8044391
-2204,Shaanxi,Yulin ,Dingbian,718600,"Dingbian,Yulin ,Shaanxi,China",37.397578,107.794126
+2204,Shaanxi,Yulin ,Dingbian,718600,"Dingbian,Yulin ,Shaanxi,China",37.5928413,107.5915288
 2205,Shaanxi,Yulin ,Suide,718000,"Suide,Yulin ,Shaanxi,China",37.5325052,110.2338196
 2206,Shaanxi,Yulin ,Mizhi,718100,"Mizhi,Yulin ,Shaanxi,China",37.834167,110.19
 2207,Shaanxi,Yulin ,Jiaxian,719200,"Jiaxian,Yulin ,Shaanxi,China",38.0190612,110.4891824
@@ -2228,40 +2228,40 @@
 2226,Shaanxi,Shangluo ,Zhen'an,711500,"Zhen'an,Shangluo ,Shaanxi,China",33.381959,109.068437
 2227,Shaanxi,Shangluo ,Zhashui,711400,"Zhashui,Shangluo ,Shaanxi,China",33.6811412,109.1062303
 2228,Shanxi,Taiyuan,Xiaodian,030000,"Xiaodian,Taiyuan,Shanxi,China",37.7395151,112.5520022
-2229,Shanxi,Taiyuan,Jiancaoping,030000,"Jiancaoping,Taiyuan,Shanxi,China",37.97877105,112.502657008538
+2229,Shanxi,Taiyuan,Jiancaoping,030000,"Jiancaoping,Taiyuan,Shanxi,China",37.9754317,112.4979995
 2230,Shanxi,Taiyuan,Qingxu,030400,"Qingxu,Taiyuan,Shanxi,China",37.5584896,112.37737
-2231,Shanxi,Taiyuan,Gujiao,030200,"Gujiao,Taiyuan,Shanxi,China",37.908253,112.1696031
-2232,Shanxi,Taiyuan,Yingze,030000,"Yingze,Taiyuan,Shanxi,China",37.8623832,112.678369181908
-2233,Shanxi,Taiyuan,Wanbailin,030000,"Wanbailin,Taiyuan,Shanxi,China",37.88142855,112.412863097485
+2231,Shanxi,Taiyuan,Gujiao,030200,"Gujiao,Taiyuan,Shanxi,China",37.916122,112.118467
+2232,Shanxi,Taiyuan,Yingze,030000,"Yingze,Taiyuan,Shanxi,China",37.8637953,112.6587105
+2233,Shanxi,Taiyuan,Wanbailin,030000,"Wanbailin,Taiyuan,Shanxi,China",37.8699669,112.3958632
 2234,Shanxi,Taiyuan,Yangqu,030100,"Yangqu,Taiyuan,Shanxi,China",38.1393778,112.6508977
-2235,Shanxi,Taiyuan,Xinghualing,030000,"Xinghualing,Taiyuan,Shanxi,China",37.91953395,112.636646127958
+2235,Shanxi,Taiyuan,Xinghualing,030000,"Xinghualing,Taiyuan,Shanxi,China",37.8930086,112.5693509
 2236,Shanxi,Taiyuan,Jinyuan,030000,"Jinyuan,Taiyuan,Shanxi,China",37.7358769,112.4426181
 2237,Shanxi,Taiyuan,Loufan,030300,"Loufan,Taiyuan,Shanxi,China",38.043206,111.829277
-2238,Shanxi,Datong ,Chengqu,037000,"Chengqu,Datong ,Shanxi,China",40.1009359,113.2952575
+2238,Shanxi,Datong ,Chengqu,037000,"Chengqu,Datong ,Shanxi,China",40.0742499,113.2906991
 2239,Shanxi,Datong ,Xinrong,037000,"Xinrong,Datong ,Shanxi,China",40.276033,113.098533
 2240,Shanxi,Datong ,Guangling,037500,"Guangling,Datong ,Shanxi,China",39.7766895,114.0448004
-2241,Shanxi,Datong ,Zuoyun,037100,"Zuoyun,Datong ,Shanxi,China",40.0095757,112.7030799
-2242,Shanxi,Datong ,Kuangqu,037000,"Kuangqu,Datong ,Shanxi,China",40.0360555,113.1694252
+2241,Shanxi,Datong ,Zuoyun,037100,"Zuoyun,Datong ,Shanxi,China",40.0134172,112.6977532
+2242,Shanxi,Datong ,Kuangqu,037000,"Kuangqu,Datong ,Shanxi,China",,
 2243,Shanxi,Datong ,Yanggao,038100,"Yanggao,Datong ,Shanxi,China",40.2901735,113.6933141
 2244,Shanxi,Datong ,Lingqiu,034400,"Lingqiu,Datong ,Shanxi,China",39.4483139,114.1287543
-2245,Shanxi,Datong ,Datong,037300,"Datong,Datong ,Shanxi,China",40.0922886,113.2952428
+2245,Shanxi,Datong ,Datong,037300,"Datong,Datong ,Shanxi,China",40.0921758,113.2950953
 2246,Shanxi,Datong ,Nanjiao,037000,"Nanjiao,Datong ,Shanxi,China",40.0550257,113.1558526
 2247,Shanxi,Datong ,Tianzhen,038200,"Tianzhen,Datong ,Shanxi,China",40.4159198,114.0767583
 2248,Shanxi,Datong ,Hunyuan,037400,"Hunyuan,Datong ,Shanxi,China",39.693262,113.6878685
-2249,Shanxi,Yangquan ,Chengqu,045000,"Chengqu,Yangquan ,Shanxi,China",37.85384135,113.586983264006
-2250,Shanxi,Yangquan ,Pingding,045200,"Pingding,Yangquan ,Shanxi,China",37.803011,113.6246894
-2251,Shanxi,Yangquan ,Kuangqu,045000,"Kuangqu,Yangquan ,Shanxi,China",37.8681733,113.5484138
-2252,Shanxi,Yangquan ,Yuxian,045100,"Yuxian,Yangquan ,Shanxi,China",38.2573342,113.3188646
-2253,Shanxi,Yangquan ,Jiaoqu,045000,"Jiaoqu,Yangquan ,Shanxi,China",37.92967045,113.496353702222
-2254,Shanxi,Changzhi ,Chengqu,046000,"Chengqu,Changzhi ,Shanxi,China",36.17154615,113.106325568114
+2249,Shanxi,Yangquan ,Chengqu,045000,"Chengqu,Yangquan ,Shanxi,China",37.8536447,113.5925103
+2250,Shanxi,Yangquan ,Pingding,045200,"Pingding,Yangquan ,Shanxi,China",37.8481966,113.7771431
+2251,Shanxi,Yangquan ,Kuangqu,045000,"Kuangqu,Yangquan ,Shanxi,China",37.8777276,113.5184932
+2252,Shanxi,Yangquan ,Yuxian,045100,"Yuxian,Yangquan ,Shanxi,China",38.0509932,113.4692843
+2253,Shanxi,Yangquan ,Jiaoqu,045000,"Jiaoqu,Yangquan ,Shanxi,China",37.9404976,113.5726649
+2254,Shanxi,Changzhi ,Chengqu,046000,"Chengqu,Changzhi ,Shanxi,China",36.2446972,113.078717
 2255,Shanxi,Changzhi ,Xiangyuan,046200,"Xiangyuan,Changzhi ,Shanxi,China",36.574332,112.97831
 2256,Shanxi,Changzhi ,Licheng,047600,"Licheng,Changzhi ,Shanxi,China",36.6347764,113.3787445
 2257,Shanxi,Changzhi ,Wuxiang,046300,"Wuxiang,Changzhi ,Shanxi,China",36.8167149,112.8881728
 2258,Shanxi,Changzhi ,Lucheng,047500,"Lucheng,Changzhi ,Shanxi,China",36.3637096,113.2229376
-2259,Shanxi,Changzhi ,Jiaoqu,046000,"Jiaoqu,Changzhi ,Shanxi,China",36.28605385,113.079154950849
+2259,Shanxi,Changzhi ,Jiaoqu,046000,"Jiaoqu,Changzhi ,Shanxi,China",36.2446972,113.078717
 2260,Shanxi,Changzhi ,Tunliu,046100,"Tunliu,Changzhi ,Shanxi,China",36.344038,112.708354
 2261,Shanxi,Changzhi ,Huguan,047300,"Huguan,Changzhi ,Shanxi,China",35.9755706,113.3392106
-2262,Shanxi,Changzhi ,Qinxian,046400,"Qinxian,Changzhi ,Shanxi,China",36.755734,112.6903579
+2262,Shanxi,Changzhi ,Qinxian,046400,"Qinxian,Changzhi ,Shanxi,China",36.75867,112.699
 2263,Shanxi,Changzhi ,Changzhi,047100,"Changzhi,Changzhi ,Shanxi,China",36.1829336,113.0985394
 2264,Shanxi,Changzhi ,Pingshun,047400,"Pingshun,Changzhi ,Shanxi,China",36.2023991,113.4377314
 2265,Shanxi,Changzhi ,Zhangzi,046600,"Zhangzi,Changzhi ,Shanxi,China",36.1127569,112.8011722
@@ -2285,17 +2285,17 @@
 2283,Shanxi,Jinzhong,Yushe,031800,"Yushe,Jinzhong,Shanxi,China",37.1409596,112.9265881
 2284,Shanxi,Jinzhong,Xiyang,045300,"Xiyang,Jinzhong,Shanxi,China",37.558015,113.69609
 2285,Shanxi,Jinzhong,Qixian,030900,"Qixian,Jinzhong,Shanxi,China",37.275707,112.47014
-2286,Shanxi,Jinzhong,JiexiU,032000,"JiexiU,Jinzhong,Shanxi,China",37.0231429,111.9160031
-2287,Shanxi,Jinzhong,Zuoquan,032600,"Zuoquan,Jinzhong,Shanxi,China",37.023703,113.453668
-2288,Shanxi,Jinzhong,Shouyang,045400,"Shouyang,Jinzhong,Shanxi,China",37.80513,113.120723
+2286,Shanxi,Jinzhong,JiexiU,032000,"JiexiU,Jinzhong,Shanxi,China",37.0310036,111.9154182
+2287,Shanxi,Jinzhong,Zuoquan,032600,"Zuoquan,Jinzhong,Shanxi,China",37.0782335,113.3645816
+2288,Shanxi,Jinzhong,Shouyang,045400,"Shouyang,Jinzhong,Shanxi,China",37.8903277,113.1718084
 2289,Shanxi,Jinzhong,Pingyao,031100,"Pingyao,Jinzhong,Shanxi,China",37.1393929,112.2849966
-2290,Shanxi,Yuncheng ,Yanhu,044000,"Yanhu,Yuncheng ,Shanxi,China",35.0143236,110.9895269
+2290,Shanxi,Yuncheng ,Yanhu,044000,"Yanhu,Yuncheng ,Shanxi,China",35.051328,110.9602037
 2291,Shanxi,Yuncheng ,Wenxi,043800,"Wenxi,Yuncheng ,Shanxi,China",35.390079,111.307578
 2292,Shanxi,Yuncheng ,Jiangxian,043600,"Jiangxian,Yuncheng ,Shanxi,China",35.4920468,111.5744675
-2293,Shanxi,Yuncheng ,Pinglu,044300,"Pinglu,Yuncheng ,Shanxi,China",34.8370207,111.2110046
-2294,Shanxi,Yuncheng ,Hejin,043300,"Hejin,Yuncheng ,Shanxi,China",35.5957768,110.7057517
+2293,Shanxi,Yuncheng ,Pinglu,044300,"Pinglu,Yuncheng ,Shanxi,China",34.8970973,111.253772
+2294,Shanxi,Yuncheng ,Hejin,043300,"Hejin,Yuncheng ,Shanxi,China",35.631232,110.71173
 2295,Shanxi,Yuncheng ,Linyi,044100,"Linyi,Yuncheng ,Shanxi,China",35.1441348,110.6092839
-2296,Shanxi,Yuncheng ,Jishan,043200,"Jishan,Yuncheng ,Shanxi,China",35.6086988,110.9736811
+2296,Shanxi,Yuncheng ,Jishan,043200,"Jishan,Yuncheng ,Shanxi,China",35.5867957,110.9608466
 2297,Shanxi,Yuncheng ,Yuanqu,043700,"Yuanqu,Yuncheng ,Shanxi,China",35.2178871,111.822095
 2298,Shanxi,Yuncheng ,Ruicheng,044600,"Ruicheng,Yuncheng ,Shanxi,China",34.7257266,110.588653
 2299,Shanxi,Yuncheng ,Wanrong,044200,"Wanrong,Yuncheng ,Shanxi,China",35.3912511,110.7140738
@@ -2308,14 +2308,14 @@
 2306,Shanxi,Linfen,Xiangning,042100,"Xiangning,Linfen,Shanxi,China",35.9080149,110.9164234
 2307,Shanxi,Linfen,Yonghe,041400,"Yonghe,Linfen,Shanxi,China",36.7164912,110.6269811
 2308,Shanxi,Linfen,Houma,043000,"Houma,Linfen,Shanxi,China",35.6254159,111.362708
-2309,Shanxi,Linfen,Quwo,043400,"Quwo,Linfen,Shanxi,China",35.6903846,111.507608
-2310,Shanxi,Linfen,Hongdong,041600,"Hongdong,Linfen,Shanxi,China",36.322386,111.667692
+2309,Shanxi,Linfen,Quwo,043400,"Quwo,Linfen,Shanxi,China",35.6418039,111.4695398
+2310,Shanxi,Linfen,Hongdong,041600,"Hongdong,Linfen,Shanxi,China",36.2622066,111.6653992
 2311,Shanxi,Linfen,Fushan,042600,"Fushan,Linfen,Shanxi,China",35.9344084,111.9223376
-2312,Shanxi,Linfen,Daning,042300,"Daning,Linfen,Shanxi,China",36.4624472,110.731599
-2313,Shanxi,Linfen,Puxian,041200,"Puxian,Linfen,Shanxi,China",36.4186221,111.1684274
+2312,Shanxi,Linfen,Daning,042300,"Daning,Linfen,Shanxi,China",36.4365571,110.6953549
+2313,Shanxi,Linfen,Puxian,041200,"Puxian,Linfen,Shanxi,China",36.4128184,111.0880572
 2314,Shanxi,Linfen,Huozhou,031400,"Huozhou,Linfen,Shanxi,China",36.5719389,111.7309206
-2315,Shanxi,Linfen,Yicheng,043500,"Yicheng,Linfen,Shanxi,China",35.7339675,111.707598
-2316,Shanxi,Linfen,Guxian,042400,"Guxian,Linfen,Shanxi,China",36.2655946,111.9114706
+2315,Shanxi,Linfen,Yicheng,043500,"Yicheng,Linfen,Shanxi,China",35.6971642,111.8339712
+2316,Shanxi,Linfen,Guxian,042400,"Guxian,Linfen,Shanxi,China",36.5306,111.049
 2317,Shanxi,Linfen,Jixian,042200,"Jixian,Linfen,Shanxi,China",36.1587489,110.6930115
 2318,Shanxi,Linfen,Xixian,041300,"Xixian,Linfen,Shanxi,China",36.6943103,110.9296592
 2319,Shanxi,Linfen,Fenxi,031500,"Fenxi,Linfen,Shanxi,China",36.6415542,111.4889515
@@ -2333,15 +2333,15 @@
 2331,Shanxi,Lvliang ,Fangshan,033100,"Fangshan,Lvliang ,Shanxi,China",,
 2332,Shanxi,Lvliang ,Xiaoyi,032300,"Xiaoyi,Lvliang ,Shanxi,China",,
 2333,Shanxi,Xinzhou,Xinfu,034000,"Xinfu,Xinzhou,Shanxi,China",38.430304,112.588658
-2334,Shanxi,Xinzhou,Daixian,034200,"Daixian,Xinzhou,Shanxi,China",39.0699812,112.9462883
+2334,Shanxi,Xinzhou,Daixian,034200,"Daixian,Xinzhou,Shanxi,China",39.07609,112.97778
 2335,Shanxi,Xinzhou,Jingle,035100,"Jingle,Xinzhou,Shanxi,China",38.395993,112.085828
 2336,Shanxi,Xinzhou,Kekan,036300,"Kekan,Xinzhou,Shanxi,China",,
 2337,Shanxi,Xinzhou,Pianguan,036400,"Pianguan,Xinzhou,Shanxi,China",39.4577714,111.6690646
 2338,Shanxi,Xinzhou,Dingxiang,035400,"Dingxiang,Xinzhou,Shanxi,China",38.5307322,112.9966972
 2339,Shanxi,Xinzhou,Fanshi,034300,"Fanshi,Xinzhou,Shanxi,China",39.2205282,113.5169159
 2340,Shanxi,Xinzhou,Shenchi,036100,"Shenchi,Xinzhou,Shanxi,China",39.1918883,112.0269275
-2341,Shanxi,Xinzhou,Hequ,036500,"Hequ,Xinzhou,Shanxi,China",39.2097729,111.3633268
-2342,Shanxi,Xinzhou,Yuanping,034100,"Yuanping,Xinzhou,Shanxi,China",38.7242807,112.7142882
+2341,Shanxi,Xinzhou,Hequ,036500,"Hequ,Xinzhou,Shanxi,China",39.3792809,111.146069
+2342,Shanxi,Xinzhou,Yuanping,034100,"Yuanping,Xinzhou,Shanxi,China",38.7323661,112.714087
 2343,Shanxi,Xinzhou,Wutai,035500,"Wutai,Xinzhou,Shanxi,China",38.80269,113.411293
 2344,Shanxi,Xinzhou,Ningwu,036000,"Ningwu,Xinzhou,Shanxi,China",38.839733,112.158257
 2345,Shanxi,Xinzhou,Wuzhai,036200,"Wuzhai,Xinzhou,Shanxi,China",39.0130888,111.7568746
@@ -2387,17 +2387,17 @@
 2385,Xinjiang,Turpan,Turpan,838000,"Turpan,Xinjiang,China",42.9400252,89.1840477
 2386,Xinjiang,Turpan,Shanshan,838200,"Shanshan,Turpan,Xinjiang,China",42.291403,90.642302
 2387,Xinjiang,Turpan,Toksun,838100,"Toksun,Turpan,Xinjiang,China",42.427899,88.448316
-2388,Xinjiang,Kumul/Hami,Hami,839000,"Hami,Kumul/Hami,Xinjiang,China",42.8264052,93.5132835
+2388,Xinjiang,Kumul/Hami,Hami,839000,"Hami,Kumul/Hami,Xinjiang,China",42.8275199,93.5082624
 2389,Xinjiang,Kumul/Hami,Yiwu,839300,"Yiwu,Kumul/Hami,Xinjiang,China",43.6273426,94.8774974
 2390,Xinjiang,Kumul/Hami,Barkol,839200,"Barkol,Kumul/Hami,Xinjiang,China",43.583333,92.85
-2391,Xinjiang,Changji,Changji,831100,"Changji,Xinjiang,China",44.1657879,87.2201188
+2391,Xinjiang,Changji,Changji,831100,"Changji,Xinjiang,China",44.0098038,87.3050734
 2392,Xinjiang,Changji,Fukang,831500,"Fukang,Changji,Xinjiang,China",44.1497919,87.9684506
 2393,Xinjiang,Changji,Hutubi,831200,"Hutubi,Changji,Xinjiang,China",44.3646574,86.779052
 2394,Xinjiang,Changji,Manas,832200,"Manas,Changji,Xinjiang,China",44.3813954,86.3171176
 2395,Xinjiang,Changji,Qitai,831800,"Qitai,Changji,Xinjiang,China",44.016667,89.466667
 2396,Xinjiang,Changji,Jimsar,831800,"Jimsar,Changji,Xinjiang,China",43.983333,89.066667
 2397,Xinjiang,Changji,Mori,831900,"Mori,Changji,Xinjiang,China",43.9852673,90.7796352
-2398,Xinjiang,Bortala,Bole,833400,"Bole,Bortala,Xinjiang,China",44.827793,81.9459974
+2398,Xinjiang,Bortala,Bole,833400,"Bole,Bortala,Xinjiang,China",44.852888,82.0520916
 2399,Xinjiang,Bortala,Jinghe,833300,"Jinghe,Bortala,Xinjiang,China",44.65,82.83
 2400,Xinjiang,Bortala,Wenquan,833500,"Wenquan,Bortala,Xinjiang,China",44.9736609,80.8916497
 2401,Xinjiang,Bayingolin,Korla,841000,"Korla,Bayingolin,Xinjiang,China",41.7238743,86.173541
@@ -2424,7 +2424,7 @@
 2422,Xinjiang,Kizilsu,Wuqia,845450,"Wuqia,Kizilsu,Xinjiang,China",39.8157795,74.9835652
 2423,Xinjiang,Kashgar,Kashgar,844000,"Kashgar,Xinjiang,China",39.4665981,75.9900135
 2424,Xinjiang,Kashgar,Shufu,844100,"Shufu,Kashgar,Xinjiang,China",39.4318194,75.667933
-2425,Xinjiang,Kashgar,Shule,844200,"Shule,Kashgar,Xinjiang,China",39.4665981,75.9900135
+2425,Xinjiang,Kashgar,Shule,844200,"Shule,Kashgar,Xinjiang,China",39.1437544,76.3442229
 2426,Xinjiang,Kashgar,Yengisar,844500,"Yengisar,Kashgar,Xinjiang,China",38.9373592,76.1738541
 2427,Xinjiang,Kashgar,Zepu,844800,"Zepu,Kashgar,Xinjiang,China",38.127428,77.245562
 2428,Xinjiang,Kashgar,Shache,844700,"Shache,Kashgar,Xinjiang,China",38.4170434,77.2411446
@@ -2670,7 +2670,7 @@
 2668,Yunnan,Nujiang,Lanping,671400,"Lanping,Nujiang,Yunnan,China",26.4552401,99.4197677
 2669,Yunnan,Nujiang,Fugong,673400,"Fugong,Nujiang,Yunnan,China",26.9057682,98.8678549
 2670,Yunnan,Nujiang,Gongshan,673500,"Gongshan,Nujiang,Yunnan,China",27.841657,98.670037
-2671,Yunnan,Diqing,Shangri-la,674400,"Shangri-la,Diqing,Yunnan,China",28.055698,99.849049
+2671,Yunnan,Diqing,Shangri-la,674400,"Shangri-la,Diqing,Yunnan,China",27.8300293,99.7046746
 2672,Yunnan,Diqing,Deqin,674500,"Deqin,Diqing,Yunnan,China",28.4675244,98.9170641
 2673,Yunnan,Diqing,Weixi,674600,"Weixi,Diqing,Yunnan,China",27.1845103,99.2852926
 2674,Zhejiang,Hangzhou,Shangcheng,310000,"Shangcheng,Hangzhou,Zhejiang,China",30.2293098,120.1933541
@@ -2694,7 +2694,7 @@
 2692,Zhejiang,Jiaxing,Tongxiang,314500,"Tongxiang,Jiaxing,Zhejiang,China",30.6316971,120.5610365
 2693,Zhejiang,Shaoxing,Yuecheng,312000,"Yuecheng,Shaoxing,Zhejiang,China",30.00206605,120.648300593136
 2694,Zhejiang,Shaoxing,Zhuji,311800,"Zhuji,Shaoxing,Zhejiang,China",29.7157268,120.2315762
-2695,Zhejiang,Shaoxing,Shaoxing,312000,"Shaoxing,Zhejiang,China",29.75929015,120.51582161865
+2695,Zhejiang,Shaoxing,Shaoxing,312000,"Shaoxing,Zhejiang,China",29.9992425,120.576854
 2696,Zhejiang,Shaoxing,Shangyu,312300,"Shangyu,Shaoxing,Zhejiang,China",30.0348513,120.8641815
 2697,Zhejiang,Shaoxing,Xinchang,312500,"Xinchang,Shaoxing,Zhejiang,China",29.5024657,120.8998987
 2698,Zhejiang,Shaoxing,Shengzhou,312400,"Shengzhou,Shaoxing,Zhejiang,China",29.5633687,120.8272061
@@ -2719,7 +2719,7 @@
 2717,Zhejiang,Wenzhou,Yueqing,325600,"Yueqing,Wenzhou,Zhejiang,China",28.1154378,120.9833927
 2718,Zhejiang,Wenzhou,Ohai,325000,"Ohai,Wenzhou,Zhejiang,China",,
 2719,Zhejiang,Wenzhou,Pingyang,325400,"Pingyang,Wenzhou,Zhejiang,China",27.6652861,120.5623712
-2720,Zhejiang,Wenzhou,Taishun,325500,"Taishun,Wenzhou,Zhejiang,China",27.565,119.716389
+2720,Zhejiang,Wenzhou,Taishun,325500,"Taishun,Wenzhou,Zhejiang,China",27.5594965,119.7126369
 2721,Zhejiang,Huzhou,Wuxing,313000,"Wuxing,Huzhou,Zhejiang,China",30.8574882,120.180856
 2722,Zhejiang,Huzhou,Changxing,313100,"Changxing,Huzhou,Zhejiang,China",31.0278566,119.9066473
 2723,Zhejiang,Huzhou,Nanxun District,313000,"Nanxun District,Huzhou,Zhejiang,China",30.7792424,120.291282996201
@@ -2734,9 +2734,9 @@
 2732,Zhejiang,Jinhua,Wuyi,321200,"Wuyi,Jinhua,Zhejiang,China",28.9,119.8
 2733,Zhejiang,Jinhua,Lanxi,321100,"Lanxi,Jinhua,Zhejiang,China",29.2102744,119.4553921
 2734,Zhejiang,Jinhua,Yongkang,321300,"Yongkang,Jinhua,Zhejiang,China",28.8906978,120.0427315
-2735,Zhejiang,Quzhou,Kecheng,324000,"Kecheng,Quzhou,Zhejiang,China",29.00118015,118.781434826375
+2735,Zhejiang,Quzhou,Kecheng,324000,"Kecheng,Quzhou,Zhejiang,China",28.9406274,118.868824
 2736,Zhejiang,Quzhou,Kaihua,324300,"Kaihua,Quzhou,Zhejiang,China",29.1399083,118.4108029
-2737,Zhejiang,Quzhou,Qujiang,324000,"Qujiang,Quzhou,Zhejiang,China",28.983581,118.9541053
+2737,Zhejiang,Quzhou,Qujiang,324000,"Qujiang,Quzhou,Zhejiang,China",28.9839098,118.954019
 2738,Zhejiang,Quzhou,Longyou,324400,"Longyou,Quzhou,Zhejiang,China",29.0309691,119.1673661
 2739,Zhejiang,Quzhou,Changshan,324200,"Changshan,Quzhou,Zhejiang,China",28.9060233,118.5063585
 2740,Zhejiang,Quzhou,Jiangshan,324100,"Jiangshan,Quzhou,Zhejiang,China",28.7403476,118.6221665
